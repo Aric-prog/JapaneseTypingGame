@@ -1,0 +1,6001 @@
+﻿jlpt ,Vocab-expression,Vocab-kana,Vocab-meaning
+JLPT4,一つ,ひとつ,one (thing)
+JLPT4,二つ,ふたつ,two (things)
+JLPT2,円,えん,yen
+JLPT2,金,かね,money
+JLPT4,これ,これ,"this, this one"
+JLPT4,水曜日,すいようび,Wednesday
+JLPT4,あれ,あれ,that over there
+JLPT4,先,さき,"ahead, first"
+JLPT4,八日,ようか,"eight days, 8th of the month"
+JLPT4,そば,そば,"side, vicinity"
+JLPT3,こっち,こっち,here
+JLPT4,右,みぎ,right
+JLPT3,あげる,あげる,give
+JLPT4,ここ,ここ,here
+JLPT4,とても,とても,very
+JLPT2,七,なな,seven
+JLPT4,手,て,hand
+JLPT4,おなか,おなか,stomach
+JLPT2,空く,すく,be empty
+JLPT4,一日,ついたち,1st of the month
+JLPT4,日曜日,にちようび,Sunday
+JLPT4,七つ,ななつ,seven (things)
+JLPT4,どれ,どれ,"what, which"
+JLPT2,私,わたし,I
+JLPT4,好き,すき,"favorite, liked"
+JLPT2,ゲーム,ゲーム,game
+JLPT4,一人,ひとり,"one, one person"
+JLPT4,友達,ともだち,"friend, companion"
+JLPT4,帰る,かえる,"return, go back"
+JLPT4,元気,げんき,"healthy, energetic"
+JLPT4,天気,てんき,weather
+JLPT2,少ない,すくない,"few, little"
+JLPT4,晴れる,はれる,"be sunny, clear up"
+JLPT4,上,うえ,"up, above"
+JLPT4,ドア,ドア,door
+JLPT3,開く,ひらく,open
+JLPT4,口,くち,mouth
+JLPT4,閉める,しめる,"shut, close"
+JLPT4,時間,じかん,"time, hour"
+JLPT4,六日,むいか,"six days, 6th of the month"
+JLPT0,後ろ,うしろ,"back, behind"
+JLPT4,十日,とおか,"ten days, 10th of the month"
+JLPT4,午前,ごぜん,"morning, a.m."
+JLPT4,今晩,こんばん,"this evening, tonight"
+JLPT4,土曜日,どようび,Saturday
+JLPT4,金曜日,きんようび,Friday
+JLPT2,月,つき,moon
+JLPT4,夜,よる,night (from sunset to sunrise)
+JLPT4,食べる,たべる,eat
+JLPT4,何,なに,"what, which"
+JLPT4,晩,ばん,evening (usually from sunset to bedtime)
+JLPT0,ご飯,ごはん,"cooked rice, meal"
+JLPT4,三つ,みっつ,three (things)
+JLPT4,昼,ひる,"daytime, midday"
+JLPT3,見つかる,みつかる,"be found, be caught"
+JLPT4,それ,それ,"that, that one"
+JLPT4,男,おとこ,"man, male"
+JLPT4,今週,こんしゅう,this week
+JLPT3,こう,こう,"like this, this kind of"
+JLPT4,会う,あう,meet
+JLPT4,月曜日,げつようび,Monday
+JLPT4,昨日,きのう,yesterday
+JLPT4,休む,やすむ,"take a day off, take a break"
+JLPT4,今日,きょう,today
+JLPT4,木曜日,もくようび,Thursday
+JLPT3,場合,ばあい,"situation, case"
+JLPT4,つける,つける,switch on
+JLPT4,駅,えき,railway station
+JLPT2,止める,やめる,"stop, give up, abolish"
+JLPT4,歩く,あるく,"walk, go on foot"
+JLPT4,近く,ちかく,"near, close to"
+JLPT4,もっと,もっと,more
+JLPT4,近い,ちかい,"near, soon"
+JLPT4,近く,ちかく,"vicinity, nearby"
+JLPT4,全部,ぜんぶ,"all, wholly"
+JLPT4,国,くに,country
+JLPT4,漢字,かんじ,"character, kanji"
+JLPT4,赤い,あかい,red
+JLPT4,どちら,どちら,which
+JLPT3,米,こめ,rice (grain)
+JLPT4,まずい,まずい,"bad-tasting, bad"
+JLPT2,無い,ない,to not be
+JLPT4,作る,つくる,"make, create"
+JLPT4,使う,つかう,use
+JLPT4,消す,けす,"switch off, turn off"
+JLPT4,閉まる,しまる,"be shut, be closed"
+JLPT4,前,まえ,"front, before"
+JLPT4,店,みせ,"shop, store"
+JLPT4,部屋,へや,room
+JLPT4,夏,なつ,summer
+JLPT4,暑い,あつい,"hot, warm (temperature of the air)"
+JLPT4,熱い,あつい,"hot (things, touch)"
+JLPT4,冬,ふゆ,winter
+JLPT4,入る,はいる,enter
+JLPT4,寒い,さむい,cold (temperature of the air)
+JLPT4,春,はる,spring
+JLPT4,暖かい,あたたかい,warm
+JLPT3,見つける,みつける,find
+JLPT4,テーブル,テーブル,table
+JLPT4,古い,ふるい,old
+JLPT4,悪い,わるい,bad
+JLPT3,思う,おもう,think
+JLPT4,そう,そう,"in such manner, that way"
+JLPT4,どう,どう,"how, what"
+JLPT3,考える,かんがえる,"think, consider"
+JLPT3,決める,きめる,"decide, agree upon"
+JLPT4,高い,たかい,"high, tall"
+JLPT3,多い,おおい,lots of
+JLPT4,午後,ごご,"afternoon, p.m."
+JLPT4,重い,おもい,heavy
+JLPT4,九日,ここのか,"nine days, 9th of the month"
+JLPT4,待つ,まつ,"wait, wait for"
+JLPT4,二日,ふつか,"two days, 2nd of the month"
+JLPT4,持つ,もつ,"have, possess"
+JLPT4,朝,あさ,morning
+JLPT4,先生,せんせい,teacher
+JLPT4,電車,でんしゃ,train
+JLPT4,四,し,four
+JLPT4,遠い,とおい,"far, distant"
+JLPT4,名前,なまえ,name
+JLPT4,大学,だいがく,"university, college"
+JLPT4,勉強,べんきょう,study
+JLPT4,強い,つよい,strong
+JLPT3,弱い,よわい,weak
+JLPT4,引く,ひく,"draw, pull"
+JLPT4,質問,しつもん,question
+JLPT4,難しい,むずかしい,difficult
+JLPT4,取る,とる,"take, get"
+JLPT2,数,かず,number
+JLPT4,二,に,two
+JLPT2,四,よん,four
+JLPT4,八,はち,eight
+JLPT3,勝つ,かつ,win
+JLPT3,負ける,まける,lose
+JLPT0,本当に,ほんとうに,"really, truly"
+JLPT2,他,ほか,other
+JLPT4,時計,とけい,"clock, watch"
+JLPT4,八つ,やっつ,eight (things)
+JLPT3,払う,はらう,pay
+JLPT4,千,せん,thousand
+JLPT4,四日,よっか,"four days, 4th of the month"
+JLPT4,買う,かう,buy
+JLPT4,十,じゅう,ten
+JLPT4,要る,いる,"need, require"
+JLPT4,忘れる,わすれる,"forget, leave behind"
+JLPT4,乗る,のる,"ride, take"
+JLPT4,着る,きる,"wear, put on"
+JLPT4,そこ,そこ,there
+JLPT4,次,つぎ,next
+JLPT2,週,しゅう,week
+JLPT3,動く,うごく,move
+JLPT4,出る,でる,"go out, leave"
+JLPT4,早い,はやい,early
+JLPT2,時,とき,time
+JLPT4,遅い,おそい,"slow, late"
+JLPT3,始める,はじめる,"begin, start"
+JLPT4,学校,がっこう,school
+JLPT4,一,いち,one
+JLPT3,年,とし,"year, age"
+JLPT4,始まる,はじまる,begin
+JLPT0,ミーティング,ミーティング,meeting
+JLPT3,終わり,おわり,"end, conclusion"
+JLPT4,去年,きょねん,last year
+JLPT4,切る,きる,cut
+JLPT4,三日,みっか,"three days, 3rd of the month"
+JLPT4,見る,みる,"see, look at"
+JLPT0,楽しむ,たのしむ,enjoy
+JLPT4,飲み物,のみもの,"beverage, drink"
+JLPT4,後,あと,after
+JLPT4,見せる,みせる,show
+JLPT4,色,いろ,color
+JLPT0,直ぐ,すぐ,"at once, soon"
+JLPT0,書き直す,かきなおす,rewrite
+JLPT3,直る,なおる,"be repaired, return to normal"
+JLPT4,道,みち,"road, street"
+JLPT3,線,せん,line
+JLPT0,曲がる,まがる,turn
+JLPT4,左,ひだり,left
+JLPT2,曜日,ようび,day of the week
+JLPT4,今年,ことし,this year
+JLPT4,五,ご,five
+JLPT4,行く,いく,go
+JLPT4,図書館,としょかん,library
+JLPT2,未だ,まだ,"yet, more"
+JLPT0,ところ,ところ,place
+JLPT3,泊まる,とまる,stay overnight
+JLPT2,家,うち,"house, home"
+JLPT4,安い,やすい,"inexpensive, cheap"
+JLPT4,服,ふく,clothes
+JLPT4,開ける,あける,"open, unlock"
+JLPT4,お父さん,おとうさん,father
+JLPT4,父,ちち,(speaker's)father
+JLPT4,話す,はなす,"speak, tell"
+JLPT4,母,はは,(speaker's)mother
+JLPT4,働く,はたらく,work
+JLPT4,姉,あね,older sister
+JLPT3,大学生,だいがくせい,university student
+JLPT4,お姉さん,おねえさん,older sister
+JLPT4,上手,じょうず,"good, skilled"
+JLPT4,妹,いもうと,younger sister
+JLPT4,お兄さん,おにいさん,older brother
+JLPT4,車,くるま,"car, automobile"
+JLPT3,高校生,こうこうせい,high school student
+JLPT3,娘,むすめ,"daughter, girl"
+JLPT4,九つ,ここのつ,nine (things)
+JLPT3,息子,むすこ,son
+JLPT4,六つ,むっつ,six (things)
+JLPT4,女,おんな,"woman, girl"
+JLPT4,新しい,あたらしい,new
+JLPT4,今,いま,now
+JLPT4,もう,もう,"already, yet"
+JLPT4,学生,がくせい,student
+JLPT4,よく,よく,often
+JLPT3,彼女,かのじょ,"she, one's girlfriend"
+JLPT4,聞く,きく,"hear, ask"
+JLPT4,若い,わかい,young
+JLPT2,かなり,かなり,"fairly, rather"
+JLPT4,住む,すむ,"live, reside"
+JLPT4,立つ,たつ,"stand, rise"
+JLPT3,気持ち,きもち,"feeling, sensation"
+JLPT4,広い,ひろい,"wide, big"
+JLPT4,走る,はしる,run
+JLPT4,売る,うる,sell
+JLPT4,教える,おしえる,"teach, tell"
+JLPT3,送る,おくる,send
+JLPT4,書く,かく,write
+JLPT3,もらう,もらう,receive
+JLPT4,足,あし,"leg, foot"
+JLPT0,出来る,できる,"can do, be good at"
+JLPT4,短い,みじかい,"short, brief"
+JLPT4,いつも,いつも,always
+JLPT4,読む,よむ,read
+JLPT4,いつ,いつ,when
+JLPT4,速い,はやい,fast
+JLPT4,耳,みみ,"ear, hearing"
+JLPT4,上げる,あげる,"raise, improve"
+JLPT4,楽しい,たのしい,"fun, enjoyable"
+JLPT2,しゃべる,しゃべる,"chat, talk"
+JLPT4,三,さん,three
+JLPT4,来る,くる,come
+JLPT0,良い,いい,good
+JLPT2,方,ほう,"direction, side"
+JLPT4,目,め,eye
+JLPT4,六,ろく,six
+JLPT4,秋,あき,"autumn, fall"
+JLPT4,結婚,けっこん,marriage
+JLPT2,日,にち,day
+JLPT4,自転車,じてんしゃ,bicycle
+JLPT4,自分,じぶん,"self, oneself"
+JLPT0,ご主人,ごしゅじん,(your) husband
+JLPT0,終わる,おわる,"finish, end"
+JLPT4,火曜日,かようび,Tuesday
+JLPT4,違う,ちがう,"differ, be wrong"
+JLPT4,答える,こたえる,"answer, reply"
+JLPT2,別,べつ,"another, different"
+JLPT4,なる,なる,become
+JLPT3,ため,ため,"sake, purpose"
+JLPT4,白い,しろい,"white, blank"
+JLPT2,閉じる,とじる,close
+JLPT4,出す,だす,take out
+JLPT4,仕事,しごと,"work, job"
+JLPT4,今月,こんげつ,this month
+JLPT4,少し,すこし,"a bit, a little while"
+JLPT2,酒,さけ,"alcoholic drink, Japanese rice wine"
+JLPT4,飲む,のむ,drink
+JLPT4,大人,おとな,adult
+JLPT4,水,みず,water
+JLPT0,一杯,いっぱい,full
+JLPT3,気,き,"spirit, temperament"
+JLPT0,分かる,わかる,understand
+JLPT4,遊ぶ,あそぶ,play
+JLPT4,飛行機,ひこうき,airplane
+JLPT0,お願い,おねがい,favor
+JLPT3,続く,つづく,"continue, follow"
+JLPT3,首,くび,neck
+JLPT4,頭,あたま,head
+JLPT4,痛い,いたい,painful
+JLPT3,探す,さがす,"search for, look for"
+JLPT4,お手洗い,おてあらい,"toilet, bathroom"
+JLPT4,冷たい,つめたい,"cold (things, touch)"
+JLPT4,汚い,きたない,dirty
+JLPT4,太い,ふとい,"thick, fat"
+JLPT4,九,きゅう,nine
+JLPT4,弟,おとうと,younger brother
+JLPT2,神,かみ,"god, spirit"
+JLPT3,建てる,たてる,"build, erect"
+JLPT4,大きい,おおきい,big
+JLPT4,同じ,おなじ,"same, identical"
+JLPT4,どこ,どこ,where
+JLPT4,置く,おく,"put, leave"
+JLPT4,あそこ,あそこ,over there
+JLPT4,辺,へん,"vicinity, part"
+JLPT4,黄色い,きいろい,yellow
+JLPT4,する,する,"do, make"
+JLPT4,やる,やる,do
+JLPT0,一緒に,いっしょに,"together, at the same time"
+JLPT4,来年,らいねん,next year
+JLPT3,緑,みどり,"green, foliage"
+JLPT4,易しい,やさしい,"easy, simple"
+JLPT4,留学生,りゅうがくせい,student studying abroad
+JLPT3,戻る,もどる,"return, turn back"
+JLPT4,起きる,おきる,"get up, get out of bed"
+JLPT2,起こる,おこる,happen
+JLPT0,起こす,おこす,wake up
+JLPT4,起きる,おきる,occur
+JLPT4,寝る,ねる,"sleep, go to sleep"
+JLPT2,多分,たぶん,"probably, perhaps"
+JLPT4,座る,すわる,"sit, sit down"
+JLPT4,本,ほん,"book, volume"
+JLPT4,細い,ほそい,"thin, slender, narrow"
+JLPT3,日記,にっき,diary
+JLPT4,時々,ときどき,sometimes
+JLPT4,締める,しめる,"tighten, fasten"
+JLPT4,甘い,あまい,sweet
+JLPT4,辛い,からい,"spicy, salty"
+JLPT3,変える,かえる,change
+JLPT0,決まる,きまる,be decided
+JLPT3,優しい,やさしい,"gentle, kind"
+JLPT4,人,ひと,person
+JLPT2,夫,おっと,husband
+JLPT4,知る,しる,know
+JLPT2,誰,だれ,"who, whom"
+JLPT2,親,おや,parent
+JLPT2,愛する,あいする,"love, care for"
+JLPT3,くれる,くれる,be given
+JLPT4,二十日,はつか,"20 days, 20th of the month"
+JLPT3,妻,つま,wife
+JLPT4,五日,いつか,"five days, 5th of the month"
+JLPT4,どうして,どうして,why
+JLPT3,見える,みえる,be visible
+JLPT4,兄,あに,older brother
+JLPT0,酸っぱい,すっぱい,sour
+JLPT4,小さい,ちいさい,small
+JLPT4,言葉,ことば,"word, language"
+JLPT4,おいしい,おいしい,tasty
+JLPT4,呼ぶ,よぶ,"call, name"
+JLPT2,胸,むね,chest
+JLPT2,腰,こし,"hip, lower back"
+JLPT2,載せる,のせる,"place, put on"
+JLPT4,低い,ひくい,"low, short"
+JLPT0,一番,いちばん,most
+JLPT2,背,せ,"height, stature"
+JLPT2,円,えん,circle
+JLPT4,覚える,おぼえる,"memorize, learn"
+JLPT4,片仮名,かたかな,katakana
+JLPT4,平仮名,ひらがな,hiragana
+JLPT3,悲しい,かなしい,sad
+JLPT3,美しい,うつくしい,beautiful
+JLPT4,食べ物,たべもの,food
+JLPT4,言う,いう,"say, tell"
+JLPT3,彼,かれ,"he, one's boyfriend"
+JLPT4,授業,じゅぎょう,"class, lesson"
+JLPT4,お母さん,おかあさん,mother
+JLPT3,手伝う,てつだう,"help, assist"
+JLPT4,飛ぶ,とぶ,fly
+JLPT4,歌う,うたう,sing
+JLPT4,死ぬ,しぬ,die
+JLPT4,大好き,だいすき,love
+JLPT4,子供,こども,"child, kid"
+JLPT4,狭い,せまい,"narrow, restricted"
+JLPT3,触る,さわる,"touch, feel"
+JLPT4,嫌い,きらい,dislike
+JLPT4,七日,なのか,"seven days, 7th of the month"
+JLPT2,有る,ある,"exist, possess"
+JLPT2,浴びる,あびる,take (a shower)
+JLPT3,生きる,いきる,live (one's life)
+JLPT4,長い,ながい,long
+JLPT2,髪の毛,かみのけ,hair
+JLPT4,鼻,はな,nose
+JLPT3,腕,うで,arm
+JLPT4,四つ,よっつ,four (things)
+JLPT4,みんな,みんな,"all, everybody"
+JLPT3,笑う,わらう,"laugh, smile"
+JLPT4,紙,かみ,paper
+JLPT4,下,した,"under, below"
+JLPT4,入れる,いれる,put in
+JLPT0,よう,よう,"way, like, kind"
+JLPT2,掛ける,かける,"hang, put on"
+JLPT2,肩,かた,shoulder
+JLPT3,僕,ぼく,I (young male)
+JLPT4,曇る,くもる,become cloudy
+JLPT2,駄目,だめ,no good
+JLPT2,上る,のぼる,go up
+JLPT0,落ちる,おちる,"fall, sink"
+JLPT4,体,からだ,"body, health"
+JLPT4,大丈夫,だいじょうぶ,"alright, OK"
+JLPT4,病気,びょうき,illness
+JLPT4,百,ひゃく,hundred
+JLPT2,風邪,かぜ,cold (illness)
+JLPT4,五つ,いつつ,five (things)
+JLPT4,顔,かお,face
+JLPT4,軽い,かるい,"light, light weight"
+JLPT4,茶色,ちゃいろ,light brown
+JLPT4,欲しい,ほしい,"want, desire"
+JLPT4,万,まん,ten thousand
+JLPT0,奇麗,きれい,beautiful
+JLPT2,渇く,かわく,be thirsty
+JLPT2,嬉しい,うれしい,"happy, glad"
+JLPT2,感じる,かんじる,"feel, sense"
+JLPT4,なる,なる,become
+JLPT0,りんご,りんご,apple
+JLPT3,ほとんど,ほとんど,"almost, hardly"
+JLPT3,十分,じゅうぶん,"full, plentiful"
+JLPT2,分,ぶん,"amount, part, share"
+JLPT4,スポーツ,スポーツ,sport
+JLPT0,今まで,いままで,"until now, so far"
+JLPT3,ごみ,ごみ,"rubbish, trash"
+JLPT3,なぜ,なぜ,"why, for what reason"
+JLPT2,いつでも,いつでも,"always, at all times"
+JLPT4,バス,バス,bus
+JLPT2,ピクニック,ピクニック,picnic
+JLPT4,あちら,あちら,way over there
+JLPT2,少年,しょうねん,boy
+JLPT2,きつい,きつい,"tight, difficult"
+JLPT0,キャッシュカード,キャッシュカード,cash card
+JLPT2,あんなに,あんなに,"that, so"
+JLPT1,カップ,カップ,cup
+JLPT2,ノック,ノック,knock
+JLPT2,クリーニング,クリーニング,"cleaning, laundry"
+JLPT4,あなた,あなた,you
+JLPT0,ようこそ,ようこそ,welcome
+JLPT3,しばらく,しばらく,"awhile, long time, for the time being"
+JLPT4,出口,でぐち,"exit, exit ramp"
+JLPT2,大分,だいぶ,"very, greatly"
+JLPT4,ハンカチ,ハンカチ,handkerchief
+JLPT4,先週,せんしゅう,last week
+JLPT4,男の子,おとこのこ,"boy, baby boy"
+JLPT2,おしゃれ,おしゃれ,"dressing up smartly, trendy"
+JLPT0,カレーライス,カレーライス,curried rice
+JLPT2,いたずら,いたずら,"mischief, prank"
+JLPT3,石,いし,"stone, small rock"
+JLPT2,林,はやし,"woods, grove"
+JLPT3,ぶどう,ぶどう,grapes
+JLPT0,オレンジ,オレンジ,orange
+JLPT0,トマト,トマト,tomato
+JLPT2,アナウンサー,アナウンサー,"news reader, announcer"
+JLPT0,ボーイフレンド,ボーイフレンド,boyfriend
+JLPT1,ぺこぺこ,ぺこぺこ,"hungry, starving"
+JLPT0,シャープペンシル,シャープペンシル,mechanical pencil
+JLPT0,てんぷら,てんぷら,"tempura, Japanese deep-fried breaded food"
+JLPT2,キャンプ,キャンプ,"camping, camp"
+JLPT4,家,いえ,"house, home"
+JLPT3,空気,くうき,"air, atmosphere"
+JLPT2,人気,にんき,"popularity, temperament of the people, business conditions"
+JLPT4,山,やま,mountain
+JLPT4,青い,あおい,blue
+JLPT2,晴れ,はれ,"fine weather, clear sky"
+JLPT2,又,また,"again, also, or"
+JLPT2,ハイキング,ハイキング,hiking
+JLPT4,暗い,くらい,"dark, dreary, shadowy"
+JLPT4,東,ひがし,"east, eastern"
+JLPT4,北,きた,north
+JLPT4,向こう,むこう,"the other side, the other party, opponent"
+JLPT2,向く,むく,"turn, face, look"
+JLPT0,入り口,いりぐち,entrance
+JLPT4,パーティー,パーティー,party
+JLPT2,ページ,ページ,page
+JLPT4,ノート,ノート,"note book, laptop"
+JLPT0,ふすま,ふすま,"sliding door, fusuma"
+JLPT2,スーツ,スーツ,suit
+JLPT0,初め,はじめ,beginning
+JLPT0,明後日,あさって,day after tomorrow
+JLPT0,半年,はんとし,half a year
+JLPT0,半月,はんつき,half a month
+JLPT3,カーテン,カーテン,curtain
+JLPT4,毎朝,まいあさ,every morning
+JLPT3,サンドイッチ,サンドイッチ,sandwich
+JLPT3,今夜,こんや,"tonight, this evening"
+JLPT0,ピンポン,ピンポン,"table tennis, ping pong"
+JLPT2,クリスマス,クリスマス,Christmas
+JLPT0,バナナ,バナナ,banana
+JLPT4,バター,バター,butter
+JLPT2,サラダ,サラダ,salad
+JLPT0,ラーメン,ラーメン,ramen (Chinese noodles)
+JLPT2,うどん,うどん,"noodles, Japanese wheat noodles"
+JLPT4,スプーン,スプーン,spoon
+JLPT4,そば,そば,"buckwheat noodles, soba"
+JLPT0,ごちそうする,ごちそうする,treat
+JLPT0,夕食,ゆうしょく,supper
+JLPT2,ワイン,ワイン,wine
+JLPT2,コーヒー,コーヒー,coffee
+JLPT4,パン,パン,bread
+JLPT0,ハンバーガー,ハンバーガー,hamburger
+JLPT2,おかず,おかず,side dish
+JLPT3,足りる,たりる,"suffice, serve, be satisfied"
+JLPT2,ラケット,ラケット,racket
+JLPT2,インク,インク,ink
+JLPT4,テレビ,テレビ,television
+JLPT3,最初,さいしょ,"first, outset"
+JLPT3,はっきり,はっきり,clearly
+JLPT4,ニュース,ニュース,news
+JLPT0,休日,きゅうじつ,"holiday, day off"
+JLPT2,ドラマ,ドラマ,"drama, theater, soap opera"
+JLPT2,パスポート,パスポート,passport
+JLPT3,花見,はなみ,flower viewing
+JLPT0,言い方,いいかた,"way of speaking, expression"
+JLPT4,ゆっくり,ゆっくり,slowly
+JLPT3,テキスト,テキスト,"textbook, text, text file"
+JLPT2,語る,かたる,"tell, talk"
+JLPT3,子,こ,"child, kid"
+JLPT4,英語,えいご,English
+JLPT0,右手,みぎて,right hand
+JLPT3,字,じ,"character, letter"
+JLPT2,覚める,さめる,"awake, wake up"
+JLPT2,覚ます,さます,"awaken, wake up"
+JLPT2,いずれ,いずれ,"eventually, sometime"
+JLPT0,おじさん,おじさん,uncle
+JLPT2,話し合う,はなしあう,"discuss, talk over"
+JLPT3,行う,おこなう,"do, carry out"
+JLPT0,向かう,むかう,"face, confront, head toward"
+JLPT0,明日,あした,tomorrow
+JLPT3,仕方,しかた,"way, method"
+JLPT4,休み,やすみ,"rest, holiday, absence"
+JLPT3,帰り,かえり,"return, going home"
+JLPT3,大事,だいじ,importance
+JLPT0,半日,はんにち,half a day
+JLPT0,まま,まま,"as is, still (in the current state)"
+JLPT4,電話,でんわ,"telephone, phone call"
+JLPT4,電気,でんき,"electricity, electric light"
+JLPT2,夜中,よなか,"midnight, dead of night"
+JLPT4,開く,あく,open
+JLPT2,ホーム,ホーム,platform
+JLPT2,上り,のぼり,"going up, ascent"
+JLPT0,駅員,えきいん,station employee
+JLPT2,一方,いっぽう,one way
+JLPT3,通り,とおり,"passage, street"
+JLPT3,通う,かよう,"go to and from, frequent a place"
+JLPT4,ゼロ,ゼロ,zero
+JLPT4,車,くるま,car
+JLPT3,通る,とおる,"pass, take, go through"
+JLPT2,道路,どうろ,"road, street"
+JLPT4,地図,ちず,"map, atlas"
+JLPT2,なお,なお,"still, in addition"
+JLPT3,つもり,つもり,"intention, purpose"
+JLPT3,止める,とめる,"stop, turn off"
+JLPT4,止まる,とまる,"come to a stop, cease"
+JLPT2,止む,やむ,"stop, abate"
+JLPT2,森,もり,"thick woods, forest"
+JLPT2,歩道,ほどう,"sidewalk, footpath"
+JLPT4,川,かわ,"river, stream"
+JLPT3,今度,こんど,"this time, next time"
+JLPT2,そんなに,そんなに,"that, so"
+JLPT3,ガソリンスタンド,ガソリンスタンド,gas station
+JLPT3,社長,しゃちょう,president (of a company)
+JLPT0,長さ,ながさ,length
+JLPT4,海,うみ,"sea, ocean"
+JLPT2,全く,まったく,"entirely, truly, indeed"
+JLPT4,七,しち,seven
+JLPT3,人口,じんこう,population
+JLPT3,億,おく,hundred million
+JLPT2,黒,くろ,black
+JLPT2,ミルク,ミルク,"milk, baby milk"
+JLPT4,銀行,ぎんこう,bank
+JLPT4,牛肉,ぎゅうにく,beef
+JLPT4,グラム,グラム,gram
+JLPT4,魚,さかな,fish
+JLPT4,野菜,やさい,vegetable
+JLPT0,本屋,ほんや,"bookstore, bookseller"
+JLPT4,八百屋,やおや,"vegetable store, greengrocer"
+JLPT2,そっち,そっち,"there, thou"
+JLPT0,そば屋,そばや,soba restaurant
+JLPT0,たばこ屋,たばこや,"cigarette shop, tobacco store"
+JLPT3,つく,つく,"be on, switched on"
+JLPT2,茶,ちゃ,tea (plain form)
+JLPT4,お茶,おちゃ,tea (polite)
+JLPT0,茶わん,ちゃわん,"tea cup, rice bowl"
+JLPT0,週末,しゅうまつ,weekend
+JLPT4,レストラン,レストラン,restaurant
+JLPT3,無理,むり,"unreasonable, impossible, forced"
+JLPT3,無くなる,なくなる,"disappear, run short, get lost"
+JLPT4,作文,さくぶん,"composition, essay"
+JLPT3,ジャム,ジャム,jam
+JLPT0,ジャガイモ,ジャガイモ,potato
+JLPT4,ストーブ,ストーブ,"paraffin heater, stove"
+JLPT0,交通費,こうつうひ,"traveling expense, transportation cost"
+JLPT3,火,ひ,fire
+JLPT3,売り場,うりば,"sales floor, department"
+JLPT2,サービス,サービス,"service, on the house"
+JLPT0,何度,なんど,"how many degrees, how many times"
+JLPT2,商品,しょうひん,"goods, commodities"
+JLPT0,上がる,あがる,"go up, rise"
+JLPT3,ビル,ビル,building
+JLPT3,エスカレーター,エスカレーター,escalator
+JLPT4,階段,かいだん,"steps, flight of stairs"
+JLPT3,下りる,おりる,"go down, come down"
+JLPT2,値段,ねだん,price
+JLPT4,ちょうど,ちょうど,"just, as if"
+JLPT2,価格,かかく,"price, cost"
+JLPT3,最後,さいご,"last, final"
+JLPT2,売れる,うれる,"sell, be in demand"
+JLPT4,夏休み,なつやすみ,summer vacation
+JLPT4,プール,プール,pool
+JLPT3,日,ひ,"sun, sunlight, day"
+JLPT2,スキー,スキー,"ski, skiing"
+JLPT2,四季,しき,the four seasons
+JLPT2,クーラー,クーラー,"air conditioning, cooler"
+JLPT0,アイス,アイス,"popsicle, ice lolly"
+JLPT4,外,そと,"outside, open air"
+JLPT3,熱,ねつ,"heat, fever"
+JLPT0,下がる,さがる,"come down, hang down, fall"
+JLPT2,ウール,ウール,wool
+JLPT2,暖める,あたためる,"warm, warm up, heat up"
+JLPT2,暖まる,あたたまる,get warm
+JLPT2,達する,たっする,"attain, reach"
+JLPT2,温度,おんど,temperature
+JLPT2,気温,きおん,temperature
+JLPT3,台風,たいふう,typhoon
+JLPT2,事情,じじょう,"circumstances, conditions"
+JLPT2,コンピューター,コンピューター,computer
+JLPT4,コート,コート,court
+JLPT0,新年,しんねん,New Year
+JLPT3,寺,てら,buddhist temple
+JLPT0,カセットテープ,カセットテープ,cassette tape
+JLPT2,台,だい,"stand, platform"
+JLPT2,少しも,すこしも,at all
+JLPT3,安心,あんしん,"peace of mind, relief"
+JLPT2,ハンドバッグ,ハンドバッグ,handbag
+JLPT2,ライター,ライター,lighter
+JLPT2,考え,かんがえ,"thought, view, idea"
+JLPT2,解決,かいけつ,"solution, settlement"
+JLPT2,つまり,つまり,"in short, basically"
+JLPT4,女の子,おんなのこ,"girl, daughter"
+JLPT2,可能,かのう,"possible, potential"
+JLPT3,不便,ふべん,inconvenient
+JLPT0,郵便屋さん,ゆうびんやさん,mailman
+JLPT2,あっち,あっち,"other side, there"
+JLPT3,火事,かじ,fire
+JLPT4,交番,こうばん,police box
+JLPT4,番号,ばんごう,"number, serial number"
+JLPT3,近所,きんじょ,neighborhood
+JLPT3,住所,じゅうしょ,"one's dwelling, address"
+JLPT1,ぶらぶら,ぶらぶら,"wander aimlessly, hang about"
+JLPT2,便所,べんじょ,"lavatory, bathroom"
+JLPT4,ボールペン,ボールペン,ballpoint pen
+JLPT2,名字,みょうじ,"surname, family name"
+JLPT0,ローマ字,ろーまじ,Roman alphabet
+JLPT2,氏名,しめい,name
+JLPT0,外人,がいじん,"foreigner, alien"
+JLPT4,南,みなみ,south
+JLPT4,初めて,はじめて,for the first time
+JLPT3,水道,すいどう,"water service, channel"
+JLPT2,都市,とし,"cities, urban community"
+JLPT3,都合,つごう,circumstances
+JLPT4,朝御飯,あさごはん,breakfast
+JLPT3,心配,しんぱい,"anxiety, worry, good offices"
+JLPT2,見送り,みおくり,seeing someone off
+JLPT2,コース,コース,"course, route"
+JLPT2,メモ,メモ,"memorandum, memo pad"
+JLPT2,取れる,とれる,"come off, be removed"
+JLPT0,ティッシュ,ティッシュ,tissue
+JLPT0,いつごろ,いつごろ,"about when, about what time"
+JLPT1,書き取る,かきとる,"write down, note down"
+JLPT3,なかなか,なかなか,"not at all, hardly"
+JLPT2,郵便,ゆうびん,"mail service, postal matter"
+JLPT2,そのまま,そのまま,"like that, unchanged"
+JLPT4,持つ,もつ,"maintain, last long"
+JLPT2,バッグ,バッグ,bag
+JLPT4,マッチ,マッチ,"match, matchbox"
+JLPT0,ビデオテープ,ビデオテープ,videotape
+JLPT0,持って行く,もっていく,take
+JLPT0,持って来る,もってくる,bring
+JLPT2,ソファー,ソファー,"sofa, sofa bed"
+JLPT3,投げる,なげる,"throw, abandon"
+JLPT3,女性,じょせい,"woman, female"
+JLPT2,生産,せいさん,production
+JLPT4,有名,ゆうめい,famous
+JLPT4,生徒,せいと,"pupil, student"
+JLPT2,グループ,グループ,group
+JLPT4,来月,らいげつ,next month
+JLPT2,見学,けんがく,"observation tour, study tour, field trip"
+JLPT2,通学,つうがく,"attending school, going to school"
+JLPT0,ビザ,ビザ,visa
+JLPT2,可,か,"permitted, OK"
+JLPT3,小学校,しょうがっこう,elementary school
+JLPT4,クラス,クラス,class
+JLPT3,校長,こうちょう,"principal, schoolmaster"
+JLPT0,休校,きゅうこう,temporary closure of school
+JLPT3,忘れ物,わすれもの,"something left behind, lost item"
+JLPT2,場所,ばしょ,"place, space"
+JLPT0,読み方,よみかた,"way of reading, reading"
+JLPT2,育つ,そだつ,"be brought up, grow"
+JLPT1,ソフト,ソフト,"software, programme"
+JLPT4,風,かぜ,wind
+JLPT0,ウィスキー,ウィスキー,whisky
+JLPT1,取引,とりひき,"transaction, dealings"
+JLPT4,ボタン,ボタン,button
+JLPT0,押さえる,おさえる,hold down
+JLPT2,ピアノ,ピアノ,piano
+JLPT3,慣れる,なれる,grow accustomed to
+JLPT3,習慣,しゅうかん,"custom, habit"
+JLPT4,何,なん,"what, which"
+JLPT4,問題,もんだい,"problem, question"
+JLPT3,最近,さいきん,"late, recent"
+JLPT3,社会,しゃかい,society
+JLPT2,部分,ぶぶん,"part, section"
+JLPT2,これら,これら,these
+JLPT3,簡単,かんたん,"simple, easy"
+JLPT3,複雑,ふくざつ,"complicated, intricate"
+JLPT2,人間,にんげん,"human being, people"
+JLPT0,外国語,がいこくご,foreign language
+JLPT2,数える,かぞえる,"count, calculate"
+JLPT2,回す,まわす,"turn, rotate"
+JLPT2,担当,たんとう,person in charge
+JLPT2,本当,ほんとう,"truth, reality"
+JLPT2,方法,ほうほう,"method, procedure"
+JLPT3,法律,ほうりつ,law
+JLPT3,経験,けいけん,experience
+JLPT2,経つ,たつ,"pass, elapse"
+JLPT3,経済,けいざい,"economy, economics"
+JLPT3,工業,こうぎょう,"industry, manufacturing industry"
+JLPT4,便利,べんり,"convenience, handiness"
+JLPT2,製造,せいぞう,"production, manufacture"
+JLPT3,必要,ひつよう,"need, necessity"
+JLPT2,作業,さぎょう,"work, operation"
+JLPT2,協力,きょうりょく,"cooperation, collaboration"
+JLPT4,シャツ,シャツ,shirt
+JLPT0,重さ,おもさ,weight
+JLPT0,割り算,わりざん,division
+JLPT3,残る,のこる,"remain, be left over"
+JLPT4,ペン,ペン,pen
+JLPT0,貸し出す,かしだす,"lend, lend out"
+JLPT2,消しゴム,けしごむ,eraser
+JLPT0,混む・込む,こむ・こむ,"be crowded, be congested"
+JLPT2,期待,きたい,"expectation, anticipation"
+JLPT2,期間,きかん,"term, period"
+JLPT2,時期,じき,"time, season"
+JLPT2,限る,かぎる,be limited to
+JLPT3,急ぐ,いそぐ,"hurry, hasten"
+JLPT2,急に,きゅうに,"suddenly, unexpectedly"
+JLPT3,急行,きゅうこう,"express train, going in a hurry"
+JLPT3,思い出す,おもいだす,"recollect, recall"
+JLPT2,切れる,きれる,"run out, expire, can cut"
+JLPT4,郵便局,ゆうびんきょく,post office
+JLPT4,ナイフ,ナイフ,knife
+JLPT4,切手,きって,postage stamp
+JLPT2,チーズ,チーズ,cheese
+JLPT2,売り切れ,うりきれ,"sellout, sold out"
+JLPT4,切符,きっぷ,ticket
+JLPT0,入場券,にゅうじょうけん,entrance ticket
+JLPT2,家賃,やちん,rent
+JLPT3,時代,じだい,"age, antiquity"
+JLPT2,定期券,ていきけん,commuter's pass
+JLPT3,予定,よてい,"schedule, plan"
+JLPT3,天気予報,てんきよほう,weather forecast
+JLPT4,カレンダー,カレンダー,calendar
+JLPT3,予習,よしゅう,"preparation, previewing (a lesson)"
+JLPT2,九,く,nine
+JLPT3,予約,よやく,"reservation, subscription"
+JLPT1,チャンネル,チャンネル,channel
+JLPT2,変化,へんか,change
+JLPT2,強化,きょうか,strengthening
+JLPT3,文化,ぶんか,culture
+JLPT3,増える,ふえる,"increase, accrue"
+JLPT4,外国人,がいこくじん,foreigner
+JLPT2,減る,へる,"decrease, diminish"
+JLPT2,減らす,へらす,"decrease, reduce"
+JLPT4,雨,あめ,rain
+JLPT4,雪,ゆき,"snow, snowfall"
+JLPT3,もし,もし,"if, in case of"
+JLPT4,エレベーター,エレベーター,elevator
+JLPT3,きっと,きっと,"surely, certainly"
+JLPT0,ざあざあ,ざあざあ,"heavily, pouring"
+JLPT4,ホテル,ホテル,hotel
+JLPT3,必ず,かならず,"without fail, certainly"
+JLPT4,夕方,ゆうがた,evening
+JLPT4,コート,コート,"coat, jacket"
+JLPT1,パジャマ,パジャマ,pajamas
+JLPT4,そちら,そちら,"there, that way"
+JLPT2,レインコート,レインコート,raincoat
+JLPT4,上着,うわぎ,"coat, jacket"
+JLPT3,役に立つ,やくにたつ,"be useful, be helpful"
+JLPT3,席,せき,"seat, one's place"
+JLPT3,空く,あく,become available or vacant
+JLPT2,代える,かえる,"substitute, use in place of"
+JLPT2,全国,ぜんこく,the whole country
+JLPT4,降りる,おりる,"get off, land"
+JLPT0,次男,じなん,second son
+JLPT0,次女,じじょ,second daughter
+JLPT2,方,かた,person　（polite form)
+JLPT3,運ぶ,はこぶ,"carry, transport"
+JLPT0,ウェーター,ウェーター,waiter
+JLPT3,打つ,うつ,"hit, strike"
+JLPT2,トラック,トラック,"truck, lorry"
+JLPT4,動物,どうぶつ,animal
+JLPT0,早く,はやく,"early, soon"
+JLPT2,速達,そくたつ,"special delivery, express mail"
+JLPT2,開始,かいし,beginning
+JLPT2,制度,せいど,"system, organization"
+JLPT2,株,かぶ,"stocks, shares"
+JLPT4,テスト,テスト,"test, exam"
+JLPT3,そろそろ,そろそろ,"soon, quietly"
+JLPT0,車道,しゃどう,"road, roadway"
+JLPT2,始めに,はじめに,"in the beginning, early in"
+JLPT2,ほぼ,ほぼ,"almost, nearly"
+JLPT3,やっと,やっと,"at last, finally"
+JLPT2,現在,げんざい,"the present, present time"
+JLPT2,実施,じっし,"enforcement, implementation"
+JLPT2,事実,じじつ,"fact, truth"
+JLPT2,通過,つうか,"passing, passage"
+JLPT3,過ぎる,すぎる,"pass by, exceed"
+JLPT2,過去,かこ,the past
+JLPT1,発生,はっせい,"occurrence, happening"
+JLPT3,出発,しゅっぱつ,"departure, starting"
+JLPT2,発車,はっしゃ,"start, leave"
+JLPT2,下り,くだり,"downhill, going down"
+JLPT3,表,おもて,"front side, face, outside"
+JLPT2,表,ひょう,"table, list"
+JLPT4,手紙,てがみ,letter
+JLPT2,ポスト,ポスト,"post box, letter box"
+JLPT3,返事,へんじ,"answer, reply"
+JLPT2,作品,さくひん,"work of art, piece"
+JLPT4,雑誌,ざっし,"magazine, journal"
+JLPT2,売店,ばいてん,"booth, store"
+JLPT3,音,おと,"sound, noise"
+JLPT2,工事,こうじ,construction
+JLPT3,下げる,さげる,"lower, turn down"
+JLPT3,びっくりする,びっくりする,surprised
+JLPT3,うるさい,うるさい,"noisy, annoying, pesky"
+JLPT3,変,へん,"strange, weird, funny"
+JLPT3,音,おと,"sound, speech sound, Chinese pronunciation of a character"
+JLPT3,生活,せいかつ,"life, living"
+JLPT4,音楽,おんがく,music
+JLPT0,段々,だんだん,"gradually, one after another"
+JLPT4,薬,くすり,"drug, remedy, chemical"
+JLPT4,歌,うた,song
+JLPT2,歌手,かしゅ,singer
+JLPT4,下手,へた,not good at
+JLPT0,欲しがる,ほしがる,"desire, wish for, covet"
+JLPT0,一部,いちぶ,part
+JLPT4,絵,え,"picture, painting, drawing"
+JLPT0,一人で,ひとりで,by oneself
+JLPT4,話,はなし,"talk, story"
+JLPT0,面白い,おもしろい,"interesting, amusing"
+JLPT2,全然,ぜんぜん,"wholly, at all"
+JLPT2,こんなに,こんなに,"this, so, such"
+JLPT2,写る,うつる,"be taken, be seen through"
+JLPT4,写真,しゃしん,photograph
+JLPT0,真ん中,まんなか,"center, middle"
+JLPT2,真っ白,まっしろ,pure-white
+JLPT2,真っ暗,まっくら,pitch-dark
+JLPT2,真っ黒,まっくろ,"deep-black, jet-black"
+JLPT2,真っ青,まっさお,"deep-blue, pale (skin)"
+JLPT4,空,そら,"sky, weather"
+JLPT3,品物,しなもの,"article, thing"
+JLPT2,青,あお,"blue, green, green light"
+JLPT3,どっち,どっち,which
+JLPT2,白,しろ,white
+JLPT0,大型,おおがた,"large, large scale"
+JLPT2,重要,じゅうよう,"important, essential"
+JLPT2,種類,しゅるい,"kind, species"
+JLPT3,直す,なおす,"repair, cure, alter"
+JLPT2,真っ直ぐ,まっすぐ,"dead straight, honestly"
+JLPT2,売り切れる,うりきれる,"be sold out, go out of stock"
+JLPT2,三角,さんかく,triangle
+JLPT2,四角,しかく,"square, quadrilateral"
+JLPT2,四角い,しかくい,"square, four-sided"
+JLPT0,曲,きょく,"song, melody, tune"
+JLPT2,曲げる,まげる,"bend, curve"
+JLPT2,交差点,こうさてん,"crossing, intersection"
+JLPT4,角,かど,"corner, edge, angle"
+JLPT2,四つ角,よつかど,"street corner, intersection"
+JLPT0,曲がり角,まがりかど,corner
+JLPT2,計算,けいさん,calculation
+JLPT2,年度,ねんど,"year, school year"
+JLPT2,間違い,まちがい,"mistake, error"
+JLPT3,間違える,まちがえる,"mistake, confuse"
+JLPT0,間違う,まちがう,"be mistaken, be incorrect"
+JLPT3,世界,せかい,world
+JLPT0,多く,おおく,"much, largely"
+JLPT4,毎年,まいとし,every year
+JLPT4,フィルム,フィルム,film
+JLPT2,思い出,おもいで,"recollections, memory"
+JLPT0,一昨年,おととし,the year before last
+JLPT3,やっぱり,やっぱり,"just as I thought, after all"
+JLPT3,利用,りよう,"utilization, usage"
+JLPT4,返す,かえす,"return, repay"
+JLPT0,がらがら,がらがら,empty
+JLPT3,旅館,りょかん,Japanese inn
+JLPT2,泊める,とめる,"lodge, give shelter"
+JLPT2,トランプ,トランプ,"(a pack of) cards, (playing) cards"
+JLPT0,おばさん,おばさん,aunt
+JLPT0,ドル,ドル,dollar
+JLPT4,洋服,ようふく,clothes
+JLPT4,教室,きょうしつ,"classroom, class"
+JLPT0,図書室,としょしつ,library
+JLPT2,販売,はんばい,"sale, selling"
+JLPT4,窓,まど,"window, windowpane"
+JLPT2,土地,とち,land
+JLPT2,届く,とどく,"reach, be received"
+JLPT2,ずっと,ずっと,"all day, from start to finish"
+JLPT3,運転,うんてん,drive
+JLPT2,サラリーマン,サラリーマン,"office worker, salaried worker, company employee"
+JLPT4,ネクタイ,ネクタイ,"tie, necktie"
+JLPT3,ひげ,ひげ,"moustache, beard"
+JLPT2,あくび,あくび,yawn
+JLPT0,不動産屋,ふどうさんや,"real estate agent, realtor"
+JLPT4,外国,がいこく,foreign country
+JLPT4,買い物,かいもの,"shopping, purchase"
+JLPT4,台所,だいどころ,kitchen
+JLPT4,毎週,まいしゅう,every week
+JLPT2,読み,よみ,"reading, judgment, foresight"
+JLPT2,スープ,スープ,"soup, broth"
+JLPT2,タイプライター,タイプライター,typewriter
+JLPT4,レコード,レコード,record
+JLPT0,似ている,にている,"look like, resemble"
+JLPT2,どんどん,どんどん,knock
+JLPT3,親切,しんせつ,"kind, friendly"
+JLPT3,店員,てんいん,"clerk, salesperson"
+JLPT3,会話,かいわ,conversation
+JLPT0,不親切,ふしんせつ,"unkind, inattentive"
+JLPT0,人々,ひとびと,people
+JLPT4,家族,かぞく,"family, household"
+JLPT2,万歳,ばんざい,Banzai! Hurrah! Long live...!
+JLPT2,長女,ちょうじょ,eldest daughter
+JLPT0,姉さん,ねえさん,"older sister, girl, miss"
+JLPT3,高校,こうこう,high school
+JLPT3,入学,にゅうがく,"enter a school, matriculate"
+JLPT2,おしゃべり,おしゃべり,"chatter, talkative"
+JLPT0,チョコレート,チョコレート,chocolate
+JLPT4,二十歳,はたち,20 years old
+JLPT3,数学,すうがく,mathematics
+JLPT0,ゴルフ,ゴルフ,golf
+JLPT3,アルバイト,アルバイト,"casual job, student job, part-time job"
+JLPT0,バイク,バイク,"motorbike, motor cycle"
+JLPT0,コーラ,コーラ,"cola, coke"
+JLPT0,二階,にかい,"second floor, upstairs"
+JLPT0,兄さん,にいさん,older brother
+JLPT2,アイスクリーム,アイスクリーム,ice cream
+JLPT3,安全,あんぜん,"safety, security"
+JLPT2,合格,ごうかく,"passing an examination, eligibility"
+JLPT4,練習,れんしゅう,"practice, training"
+JLPT2,ピンク,ピンク,pink
+JLPT0,引き算,ひきざん,subtraction
+JLPT1,足し算,たしざん,addition
+JLPT2,中学,ちゅうがく,junior high school
+JLPT0,中学生,ちゅうがくせい,junior high school student
+JLPT3,中学校,ちゅうがっこう,junior high school
+JLPT2,小学生,しょうがくせい,"schoolchildren, schoolboy"
+JLPT3,客,きゃく,"visitor, customer"
+JLPT2,発表,はっぴょう,announcement
+JLPT0,若者,わかもの,"young person, youth"
+JLPT2,企業,きぎょう,"corporation, business"
+JLPT3,計画,けいかく,"plan, project"
+JLPT0,ロボット,ロボット,robot
+JLPT0,パソコン,パソコン,personal computer
+JLPT2,明らか,あきらか,"clear, obvious"
+JLPT3,工場,こうじょう,"factory, plant"
+JLPT2,代表,だいひょう,representative
+JLPT2,能力,のうりょく,"ability, capacity"
+JLPT3,運動,うんどう,"movement, exercise"
+JLPT2,要求,ようきゅう,"requirement, demand"
+JLPT2,実行,じっこう,"practice, execution"
+JLPT0,まとめる,まとめる,"gather together, put in order"
+JLPT2,残す,のこす,"leave, reserve, leave undone"
+JLPT2,言語,げんご,"language, speech"
+JLPT3,教育,きょういく,education
+JLPT2,同様,どうよう,similar
+JLPT2,当時,とうじ,"at that time, at the present time"
+JLPT2,海外,かいがい,"overseas, abroad"
+JLPT4,映画,えいが,movie
+JLPT0,帰国,きこく,return to one's country
+JLPT3,遅れる,おくれる,be late
+JLPT3,移る,うつる,"move, shift"
+JLPT4,旅行,りょこう,"travel, trip"
+JLPT2,マンション,マンション,"apartment, apartment block, condominium"
+JLPT3,育てる,そだてる,"bring up, breed"
+JLPT0,明るい,あかるい,"bright, cheerful"
+JLPT4,借りる,かりる,borrow
+JLPT3,立てる,たてる,"stand, set up, establish"
+JLPT4,アパート,アパート,"apartment, flat, apartment house"
+JLPT2,長男,ちょうなん,eldest son
+JLPT4,黒い,くろい,"black, dark"
+JLPT2,受け取る,うけとる,"receive, understand"
+JLPT4,渡す,わたす,"carry across, hand over"
+JLPT0,グラフ,グラフ,"chart, graph"
+JLPT4,ラジオ,ラジオ,radio
+JLPT4,兄弟,きょうだい,sibling
+JLPT3,運転手,うんてんしゅ,driver
+JLPT2,見送る,みおくる,see (someone) off
+JLPT3,おかしい,おかしい,"strange, peculiar, suspicious"
+JLPT4,荷物,にもつ,"baggage, load"
+JLPT4,貸す,かす,"lend, lease"
+JLPT3,人形,にんぎょう,doll
+JLPT2,銀,ぎん,silver
+JLPT3,届ける,とどける,"deliver, give notice"
+JLPT3,金持ち,かねもち,wealthy person
+JLPT2,ボール,ボール,ball
+JLPT3,オートバイ,オートバイ,"motorbike, motorcycle"
+JLPT4,習う,ならう,"learn, practice"
+JLPT0,左手,ひだりて,left hand
+JLPT3,着物,きもの,"clothes, kimono"
+JLPT4,映画館,えいがかん,movie theater
+JLPT2,スイッチ,スイッチ,switch
+JLPT2,テニス,テニス,tennis
+JLPT3,おかしい,おかしい,"funny, amusing, comical"
+JLPT2,真面目,まじめ,"serious, sober, earnest"
+JLPT2,申し込む,もうしこむ,"apply, make a proposal"
+JLPT2,バイオリン,バイオリン,violin
+JLPT2,配達,はいたつ,delivery
+JLPT2,アルバム,アルバム,album
+JLPT4,スカート,スカート,skirt
+JLPT4,物,もの,"thing, object"
+JLPT0,この間,このあいだ,"the other day, recently"
+JLPT2,ダンス,ダンス,"dance, dancing"
+JLPT1,パチンコ,パチンコ,pachinko (vertical pinball)
+JLPT4,つまらない,つまらない,"boring, dull"
+JLPT0,書き方,かきかた,"how to write, way of writing"
+JLPT2,スチュワーデス,スチュワーデス,flight attendant
+JLPT4,ワイシャツ,ワイシャツ,"(business) shirt, (white) shirt"
+JLPT2,ブラウス,ブラウス,blouse
+JLPT3,ステレオ,ステレオ,stereo
+JLPT2,早口,はやくち,fast talking
+JLPT0,色々,いろいろ,in various ways
+JLPT2,降ろす,おろす,"unload, set down"
+JLPT2,にこにこ,にこにこ,smile
+JLPT2,アイロン,アイロン,iron
+JLPT0,イヤリング,イヤリング,earrings
+JLPT0,ガールフレンド,ガールフレンド,girlfriend
+JLPT2,どきどき,どきどき,"feel excited, feel nervous"
+JLPT0,一昨日,おととい,day before yesterday
+JLPT0,ぺらぺら,ぺらぺら,fluently
+JLPT1,エアメール,エアメール,airmail
+JLPT0,やけど,やけど,burn
+JLPT0,大人しい,おとなしい,"gentle, quiet, subdued"
+JLPT0,上がる,あがる,"get nervous, get stage fright"
+JLPT0,空手,からて,"karate, empty hand"
+JLPT2,金,きん,"gold, sum of money, Friday"
+JLPT0,年上,としうえ,"older, senior"
+JLPT0,昼過ぎ,ひるすぎ,early afternoon
+JLPT1,結合,けつごう,"combination, joining"
+JLPT0,私たち,わたしたち,we
+JLPT3,教会,きょうかい,church
+JLPT4,先月,せんげつ,last month
+JLPT2,結果,けっか,"result, outcome"
+JLPT4,果物,くだもの,fruit
+JLPT1,課題,かだい,"task, problem"
+JLPT2,課,か,"section, division, lesson"
+JLPT2,表現,ひょうげん,expression
+JLPT2,立場,たちば,"standpoint, position"
+JLPT3,おもちゃ,おもちゃ,"toy, plaything"
+JLPT3,乗り物,のりもの,"vehicle, conveyance"
+JLPT2,自習,じしゅう,"self-study, self-teaching"
+JLPT3,理由,りゆう,"reason, cause"
+JLPT3,自由,じゆう,freedom
+JLPT3,変わる,かわる,change
+JLPT2,信じる,しんじる,"believe, trust, have faith in"
+JLPT2,信号,しんごう,"signal, traffic light"
+JLPT2,赤,あか,"red, crimson"
+JLPT4,頼む,たのむ,"ask, request"
+JLPT2,市民,しみん,"citizens, townsmen"
+JLPT2,決定,けってい,"decision, settlement"
+JLPT2,報告,ほうこく,report
+JLPT2,議員,ぎいん,legislator
+JLPT3,会議,かいぎ,"conference, meeting"
+JLPT1,発言,はつげん,"utterance, speech"
+JLPT3,出席,しゅっせき,"attendance, presence"
+JLPT2,コピー,コピー,"copy, photocopy"
+JLPT2,配る,くばる,"hand out, distribute, allot"
+JLPT0,昼前,ひるまえ,"in the morning, before noon"
+JLPT1,開発,かいはつ,development
+JLPT2,対立,たいりつ,"opposition, antagonism"
+JLPT0,見方,みかた,"view, way of looking"
+JLPT3,反対,はんたい,"oppose, object"
+JLPT2,対する,たいする,"face, be in response to"
+JLPT4,よく,よく,well
+JLPT3,写す,うつす,"copy, photograph"
+JLPT0,答え,こたえ,"answer, solution"
+JLPT3,特に,とくに,"specially, particularly"
+JLPT3,特急,とっきゅう,super-express
+JLPT3,特別,とくべつ,"special, extraordinary"
+JLPT2,別々,べつべつ,separately
+JLPT3,別れる,わかれる,"separate, part from"
+JLPT2,一般,いっぱん,"general, common"
+JLPT2,目的,もくてき,"object, purpose"
+JLPT2,産業,さんぎょう,industry
+JLPT3,普通,ふつう,"normal, regular"
+JLPT4,並ぶ,ならぶ,"line up, be parallel"
+JLPT4,並べる,ならべる,"line up, display, set up"
+JLPT3,ごちそう,ごちそう,"feast, treat"
+JLPT2,平和,へいわ,"peace, harmony"
+JLPT4,病院,びょういん,hospital
+JLPT3,入院,にゅういん,be hospitalized
+JLPT0,お医者さん,おいしゃさん,doctor
+JLPT0,歯ブラシ,はぶらし,toothbrush
+JLPT2,教科書,きょうかしょ,"textbook, schoolbook"
+JLPT3,亡くなる,なくなる,"die, pass away"
+JLPT3,昼間,ひるま,"daytime, day"
+JLPT4,疲れる,つかれる,"get tired, become fatigued"
+JLPT1,ふらふら,ふらふら,weak
+JLPT2,禁煙,きんえん,"no smoking, giving up smoking"
+JLPT2,酔っ払い,よっぱらい,"drunkard, boozer"
+JLPT0,酔っ払う,よっぱらう,get drunk
+JLPT4,もう,もう,"another, again"
+JLPT4,コップ,コップ,"cup, glass"
+JLPT4,危ない,あぶない,"dangerous, uncertain"
+JLPT2,プラスチック,プラスチック,plastic
+JLPT2,注目,ちゅうもく,"attention, notice"
+JLPT2,注文,ちゅうもん,"order, request"
+JLPT4,意味,いみ,"meaning, significance"
+JLPT3,意見,いけん,opinion
+JLPT2,個人,こじん,individual
+JLPT3,注意,ちゅうい,"attention, care, watch out"
+JLPT3,用意,ようい,"prepare, ready oneself"
+JLPT2,分かれる,わかれる,"be divided, disperse, branch off"
+JLPT2,確認,かくにん,confirmation
+JLPT2,機能,きのう,"function, feature"
+JLPT2,材料,ざいりょう,"material, factor"
+JLPT2,動かす,うごかす,"move, operate"
+JLPT2,基づく,もとづく,be based on
+JLPT2,基本,きほん,"basis, foundation"
+JLPT3,準備,じゅんび,"provide for, prepare for"
+JLPT1,施設,しせつ,"facilities, institution"
+JLPT3,説明,せつめい,"explanation, description"
+JLPT0,公開,こうかい,opening (to the public)
+JLPT4,公園,こうえん,"park, public garden"
+JLPT3,動物園,どうぶつえん,zoo
+JLPT0,チケット,チケット,ticket
+JLPT2,デート,デート,date
+JLPT3,昼休み,ひるやすみ,"noon recess, lunch break"
+JLPT0,祭り,まつり,festival
+JLPT3,国際,こくさい,international
+JLPT3,以上,いじょう,"not less than, more than"
+JLPT3,飛行場,ひこうじょう,"airport, airfield"
+JLPT2,ジェット機,ジェットき,jet airplane
+JLPT0,航空便,こうくうびん,airmail
+JLPT0,最大,さいだい,"biggest, largest"
+JLPT2,設計,せっけい,"design, plan"
+JLPT3,遠く,とおく,great distance
+JLPT2,下る,くだる,"go down, go down or away from a central place"
+JLPT2,船便,ふなびん,"surface mail, shipping service"
+JLPT3,船,ふね,"ship, boat, vessel"
+JLPT3,空港,くうこう,airport
+JLPT3,港,みなと,"port, harbor"
+JLPT3,島,しま,"island, isle"
+JLPT2,完成,かんせい,"completion, finish"
+JLPT2,全体,ぜんたい,"whole, total"
+JLPT0,平成,へいせい,Heisei era
+JLPT2,成功,せいこう,success
+JLPT3,原因,げんいん,"cause, origin"
+JLPT1,投資,とうし,investment
+JLPT2,一定,いってい,"constant, standard"
+JLPT2,今後,こんご,"after this, in the future"
+JLPT2,願う,ねがう,"wish, ask a favor, apply for"
+JLPT2,直接,ちょくせつ,directly
+JLPT2,カード,カード,"card, credit card"
+JLPT2,よろしく,よろしく,"properly, one's regards"
+JLPT2,正確,せいかく,"accurate, precise"
+JLPT3,正しい,ただしい,"correct, righteous, lawful"
+JLPT3,遊び,あそび,"play, amusement"
+JLPT2,正直,しょうじき,"honest, upright"
+JLPT2,異なる,ことなる,differ
+JLPT1,通常,つうじょう,"common, ordinary"
+JLPT3,技術,ぎじゅつ,"skill, technology"
+JLPT3,非常に,ひじょうに,"very, extremely"
+JLPT2,強調,きょうちょう,"emphasis, stress"
+JLPT1,良い,よい,"good, suitable, preferable"
+JLPT3,季節,きせつ,season
+JLPT2,調査,ちょうさ,"investigation, inquiry"
+JLPT1,提供,ていきょう,"offer, provide"
+JLPT2,提案,ていあん,"proposition, proposal"
+JLPT3,案内,あんない,"guide, inform"
+JLPT0,連れて行く,つれていく,take (a person) along
+JLPT0,連れて来る,つれてくる,bring (a person)
+JLPT3,続ける,つづける,"continue, keep up"
+JLPT3,さっき,さっき,"some time ago, only a moment ago"
+JLPT4,来週,らいしゅう,next week
+JLPT1,動き,うごき,"movement, motion"
+JLPT3,相談,そうだん,"consultation, advice"
+JLPT4,医者,いしゃ,doctor
+JLPT2,記者,きしゃ,"journalist, reporter"
+JLPT4,毎晩,まいばん,every evening
+JLPT2,記録,きろく,"record, documentation"
+JLPT4,テープ,テープ,"tape, cassette"
+JLPT2,関する,かんする,"concern, relate to"
+JLPT2,関連,かんれん,"connection, relation"
+JLPT2,状況,じょうきょう,"state of affairs, conditions"
+JLPT2,状態,じょうたい,"state, appearance"
+JLPT3,治る,なおる,"be cured, get well"
+JLPT3,政治,せいじ,politics
+JLPT2,政府,せいふ,"government, administration"
+JLPT2,党,とう,political party
+JLPT1,政策,せいさく,"policy, political measures"
+JLPT3,選ぶ,えらぶ,"choose, elect"
+JLPT2,選手,せんしゅ,representative athlete
+JLPT3,彼ら,かれら,they
+JLPT0,サッカー,サッカー,"soccer, football"
+JLPT0,バスケットボール,バスケットボール,basketball
+JLPT1,選挙,せんきょ,election
+JLPT2,候補,こうほ,"candidacy, candidate"
+JLPT2,首相,しゅしょう,prime minister
+JLPT2,首都,しゅと,capital
+JLPT2,マフラー,マフラー,"scarf, muffler"
+JLPT2,当たる,あたる,"hit, strike"
+JLPT4,今朝,けさ,this morning
+JLPT2,真っ赤,まっか,deep red
+JLPT2,タオル,タオル,towel
+JLPT1,改革,かいかく,reform
+JLPT2,革,かわ,leather
+JLPT3,番組,ばんぐみ,program
+JLPT2,録音,ろくおん,sound recording
+JLPT2,組織,そしき,"organization, constitution, tissue"
+JLPT2,進む,すすむ,"advance, move forward"
+JLPT3,科学,かがく,science
+JLPT2,進学,しんがく,entering a school of higher grade
+JLPT2,大学院,だいがくいん,graduate school
+JLPT2,拡大,かくだい,"magnification, enlargement"
+JLPT3,調べる,しらべる,"investigate, check"
+JLPT2,責任,せきにん,"responsibility, liability"
+JLPT2,辞める,やめる,"resign, retire"
+JLPT4,辞書,じしょ,dictionary
+JLPT4,会社,かいしゃ,"company, corporation"
+JLPT4,大使館,たいしかん,embassy
+JLPT4,地下鉄,ちかてつ,subway
+JLPT2,通勤,つうきん,"commuting, commutation"
+JLPT0,おじ,おじ,uncle
+JLPT4,勤める,つとめる,"serve, hold a job"
+JLPT3,事務所,じむしょ,"office, one's place of business"
+JLPT0,事務室,じむしつ,office
+JLPT1,従来,じゅうらい,"former, old"
+JLPT2,命令,めいれい,"command, order"
+JLPT0,従兄弟,いとこ,cousin
+JLPT2,成績,せいせき,"results, record"
+JLPT2,まあまあ,まあまあ,"OK, not bad, average"
+JLPT2,情報,じょうほう,information
+JLPT3,集める,あつめる,"collect, gather"
+JLPT0,集まる,あつまる,"gather, be collected"
+JLPT0,各国,かっこく,every country
+JLPT3,正月,しょうがつ,New Year
+JLPT1,採用,さいよう,employment
+JLPT2,給料,きゅうりょう,"salary, pay"
+JLPT4,毎年,まいねん,every year
+JLPT3,卒業,そつぎょう,graduation
+JLPT3,高等学校,こうとうがっこう,senior high school
+JLPT3,受ける,うける,"receive, accept"
+JLPT4,自動車,じどうしゃ,automobile
+JLPT2,就職,しゅうしょく,finding employment
+JLPT3,退院,たいいん,discharge from a hospital
+JLPT2,契約,けいやく,"contract, agreement"
+JLPT1,交渉,こうしょう,"negotiation, bargaining"
+JLPT3,関係,かんけい,"relation, relationship"
+JLPT0,スーパーマーケット,スーパーマーケット,supermarket
+JLPT2,参加,さんか,participation
+JLPT2,増加,ぞうか,"increase, gain"
+JLPT1,加工,かこう,"processing, manufacturing"
+JLPT3,いかが,いかが,"how, what"
+JLPT3,比べる,くらべる,"compare, contrast"
+JLPT2,評価,ひょうか,"evaluation, appraisal"
+JLPT2,対象,たいしょう,"target, object"
+JLPT2,修理,しゅうり,"repair, mending"
+JLPT3,乗り換える,のりかえる,"change, transfer"
+JLPT0,トイレットペーパー,トイレットペーパー,toilet paper
+JLPT0,乗り換え,のりかえ,"change, transfer"
+JLPT2,換える,かえる,"exchange, convert"
+JLPT2,着替える,きがえる,change clothes
+JLPT2,備える,そなえる,"provide for, furnish"
+JLPT2,破る,やぶる,"tear, break through, breach"
+JLPT2,破れる,やぶれる,"tear, rip open"
+JLPT3,機械,きかい,machine
+JLPT4,カメラ,カメラ,camera
+JLPT3,壊す,こわす,"break, destroy, smash"
+JLPT3,壊れる,こわれる,"break, break down, get out of order"
+JLPT2,立派,りっぱ,"fine, excellent"
+JLPT2,管理,かんり,"management, administration"
+JLPT2,事件,じけん,"affair, case"
+JLPT2,逮捕,たいほ,"arrest, capture"
+JLPT3,戦争,せんそう,"war, battle"
+JLPT3,捨てる,すてる,"discard, abandon"
+JLPT2,スケート,スケート,"skate, skates"
+JLPT2,ボート,ボート,boat
+JLPT2,電池,でんち,"electric cell, battery"
+JLPT3,深い,ふかい,"deep, profound, intimate"
+JLPT0,深さ,ふかさ,"depth, profundity"
+JLPT2,浅い,あさい,"shallow, superficial"
+JLPT2,何か,なにか,"something, some"
+JLPT3,割れる,われる,"crack, be divided, split"
+JLPT4,泳ぐ,およぐ,swim
+JLPT4,たくさん,たくさん,"in large quantity, plenty"
+JLPT2,流行る,はやる,"be in fashion, be popular"
+JLPT2,先ず,まず,first
+JLPT4,洗う,あらう,wash
+JLPT3,下着,したぎ,underwear
+JLPT0,洗面所,せんめんじょ,"washroom, bathroom"
+JLPT2,油,あぶら,"oil, animal oil"
+JLPT2,沈む,しずむ,"sink, set"
+JLPT3,久しぶり,ひさしぶり,after a long time
+JLPT2,氷,こおり,ice
+JLPT3,冷える,ひえる,"cool down, feel chilly"
+JLPT2,冷やす,ひやす,"cool, chill"
+JLPT2,冷める,さめる,"cool off, subside"
+JLPT2,凍る,こおる,"freeze, congeal"
+JLPT3,故障,こしょう,"malfunction, fault, breakdown"
+JLPT4,セーター,セーター,"sweater, pullover"
+JLPT4,冷蔵庫,れいぞうこ,refrigerator
+JLPT4,涼しい,すずしい,"cool, refreshing"
+JLPT4,ズボン,ズボン,"trousers, pants"
+JLPT2,汚す,よごす,"make dirty, soil"
+JLPT3,汚れる,よごれる,"become dirty, become defiled"
+JLPT3,景色,けしき,"scenery, landscape"
+JLPT2,影響,えいきょう,"influence, effect"
+JLPT2,光る,ひかる,"shine, emit light"
+JLPT3,太る,ふとる,"grow fat, fatten"
+JLPT3,指,ゆび,"finger, toe"
+JLPT4,西,にし,"west, western"
+JLPT0,ぎらぎら,ぎらぎら,"dazzling, glaring, blinding"
+JLPT2,存在,そんざい,"existence, being"
+JLPT2,発見,はっけん,"discovery, revelation"
+JLPT0,きらきら,きらきら,"shining, sparkling"
+JLPT3,星,ほし,"star, planet, spot"
+JLPT0,昨夜,ゆうべ,"last night, last evening"
+JLPT3,回る,まわる,"turn round, go round, detour"
+JLPT3,うまい,うまい,good at
+JLPT0,野球,やきゅう,baseball
+JLPT3,間,あいだ,interval
+JLPT3,雲,くも,cloud
+JLPT0,曇り,くもり,"cloudiness, cloudy weather"
+JLPT0,昨年,さくねん,last year
+JLPT3,研究,けんきゅう,"research, study"
+JLPT3,地震,じしん,earthquake
+JLPT2,ガス,ガス,gas
+JLPT2,震える,ふるえる,"tremble, quiver, shake"
+JLPT3,揺れる,ゆれる,"shake, sway, rock"
+JLPT0,ぐらぐら,ぐらぐら,wobble
+JLPT3,神社,じんじゃ,Shinto shrine
+JLPT2,秘密,ひみつ,"secret, privacy"
+JLPT2,条件,じょうけん,"condition, item"
+JLPT3,規則,きそく,"rule, regulation"
+JLPT0,暑さ,あつさ,"heat, summer heat"
+JLPT0,寒さ,さむさ,"coldness, cold"
+JLPT0,年寄り,としより,"old person, older councilor"
+JLPT2,世紀,せいき,century
+JLPT2,建設,けんせつ,"construction, building"
+JLPT2,中心,ちゅうしん,"center, middle"
+JLPT4,建物,たてもの,"building, structure"
+JLPT2,建つ,たつ,"be built, be erected"
+JLPT2,番地,ばんち,"lot number, address"
+JLPT2,構成,こうせい,organization
+JLPT2,構造,こうぞう,"construction, structure"
+JLPT4,渡る,わたる,"cross, ford, go across"
+JLPT4,橋,はし,bridge
+JLPT2,ぶつかる,ぶつかる,"hit, bump into"
+JLPT0,柱,はしら,"pillar, prop"
+JLPT2,広さ,ひろさ,"area, extent"
+JLPT4,新聞,しんぶん,newspaper
+JLPT2,位置,いち,"position, place"
+JLPT2,離婚,りこん,divorce
+JLPT1,システム,システム,system
+JLPT0,バス停,ばすてい,bus stop
+JLPT2,大会,たいかい,"mass meeting, tournament"
+JLPT2,周辺,しゅうへん,"environs, circumference"
+JLPT0,田んぼ,たんぼ,rice field
+JLPT3,聞こえる,きこえる,"hear, be heard"
+JLPT2,黄色,きいろ,yellow
+JLPT4,横,よこ,"side, width across"
+JLPT0,横書き,よこがき,horizontal writing
+JLPT2,段階,だんかい,stage
+JLPT2,判断,はんだん,"judgment, decision"
+JLPT2,基準,きじゅん,"standard, criterion"
+JLPT2,断る,ことわる,"refuse, turn down"
+JLPT0,横断歩道,おうだんほどう,"pedestrian crossing, crosswalk"
+JLPT1,大幅,おおはば,"drastically, substantially"
+JLPT2,年間,ねんかん,period of one year
+JLPT1,訪れる,おとずれる,"visit, call on"
+JLPT3,訪ねる,たずねる,"visit, call on"
+JLPT2,冷房,れいぼう,air conditioning
+JLPT3,暖房,だんぼう,heating
+JLPT2,文房具,ぶんぼうぐ,"stationery, writing materials"
+JLPT2,メニュー,メニュー,"menu, bill of fare"
+JLPT0,諸国,しょこく,various countries
+JLPT2,対策,たいさく,"measure, action"
+JLPT4,もちろん,もちろん,"of course, no doubt"
+JLPT4,宿題,しゅくだい,homework
+JLPT2,ランチ,ランチ,lunch
+JLPT2,増やす,ふやす,"increase, add"
+JLPT0,緑色,みどりいろ,green
+JLPT4,町,まち,"town, machi, city quarter"
+JLPT3,貿易,ぼうえき,"trade, commerce"
+JLPT2,輸入,ゆにゅう,import
+JLPT3,輸出,ゆしゅつ,export
+JLPT3,指輪,ゆびわ,ring
+JLPT4,大切,たいせつ,"important, valuable"
+JLPT2,往復,おうふく,"going and returning, round trip"
+JLPT3,復習,ふくしゅう,review
+JLPT2,繰り返す,くりかえす,repeat
+JLPT0,国内,こくない,"domestic, internal"
+JLPT2,広がる,ひろがる,"spread out, reach"
+JLPT2,他,た,"others, other things"
+JLPT2,グラス,グラス,glass
+JLPT2,留学,りゅうがく,studying abroad
+JLPT2,停留所,ていりゅうじょ,"stop, station"
+JLPT2,書留,かきとめ,registered mail
+JLPT2,自然,しぜん,nature
+JLPT2,守る,まもる,"protect, observe"
+JLPT2,自然,しぜん,"natural, naturally"
+JLPT3,約束,やくそく,"promise, vow"
+JLPT3,留守,るす,not at home
+JLPT2,主人,しゅじん,"master, husband"
+JLPT2,自宅,じたく,"one's house, one's home"
+JLPT3,お宅,おたく,"your home, you, fan, geek"
+JLPT0,大変,たいへん,"awful, serious"
+JLPT0,交通事故,こうつうじこ,traffic accident
+JLPT4,ベッド,ベッド,bed
+JLPT2,ぐっすり,ぐっすり,soundly
+JLPT2,昼寝,ひるね,"siesta, nap"
+JLPT2,住宅,じゅうたく,"housing, residence"
+JLPT4,静か,しずか,"quiet, tranquil"
+JLPT4,暇,ひま,"free time, spare time"
+JLPT3,趣味,しゅみ,"hobby, interest"
+JLPT3,両方,りょうほう,both
+JLPT2,両替,りょうがえ,"money changing, exchange of money"
+JLPT2,片道,かたみち,one way
+JLPT0,内側,うちがわ,"inside, interior"
+JLPT1,パトカー,パトカー,"police car, patrol car"
+JLPT0,向こう側,むこうがわ,other side
+JLPT0,外側,そとがわ,"exterior, outside"
+JLPT0,左側,ひだりがわ,left side
+JLPT0,右側,みぎがわ,right side
+JLPT3,裏,うら,"rear, reverse, inside"
+JLPT2,裏返す,うらがえす,"turn over, turn inside out"
+JLPT0,週刊誌,しゅうかんし,weekly magazine
+JLPT0,朝刊,ちょうかん,morning edition
+JLPT2,夕刊,ゆうかん,evening edition
+JLPT3,小説,しょうせつ,"novel, story"
+JLPT2,詳しい,くわしい,"detailed, complete"
+JLPT3,細かい,こまかい,"minute, elaborate"
+JLPT0,みかん,みかん,"tangerine, mandarin orange"
+JLPT0,細か,こまか,"minute, elaborate"
+JLPT2,積もる,つもる,"accumulate, get accumulated"
+JLPT2,訳,やく,"translation, rendering"
+JLPT2,訳す,やくす,translate
+JLPT2,検討,けんとう,"consideration, inspection"
+JLPT2,プログラム,プログラム,program
+JLPT2,付ける,つける,"attach, set, apply"
+JLPT2,ナイロン,ナイロン,nylon
+JLPT4,こちら,こちら,"here, this way"
+JLPT1,受け付ける,うけつける,"receive, accept"
+JLPT3,片付ける,かたづける,"put in order, dispose of, do away with"
+JLPT3,受付,うけつけ,"receptionist, information office"
+JLPT0,近付く,ちかづく,"approach, get acquainted"
+JLPT2,リボン,リボン,ribbon
+JLPT2,片付く,かたづく,"be put in order, be settled"
+JLPT2,気を付ける,きをつける,"take care of, pay attention to"
+JLPT0,記念日,きねんび,"memorial day, anniversary"
+JLPT3,残念,ざんねん,"regretful, disappointing"
+JLPT2,行き,ゆき,going
+JLPT0,具体的,ぐたいてき,"concrete, specific"
+JLPT3,例えば,たとえば,for example
+JLPT0,例文,れいぶん,"illustrative sentence, example"
+JLPT2,例,れい,"example, precedent"
+JLPT2,余る,あまる,"remain over, be in excess"
+JLPT2,除く,のぞく,"rid of, exclude"
+JLPT2,削る,けずる,"grind down, trim, scale back"
+JLPT3,やはり,やはり,"as expected, also, still"
+JLPT2,遅刻,ちこく,"tardiness, lateness"
+JLPT2,緩い,ゆるい,"slack, loose"
+JLPT2,数字,すうじ,"figure, numeral"
+JLPT2,苦しい,くるしい,"painful, difficult"
+JLPT3,苦い,にがい,"bitter, sour"
+JLPT2,苦手,にがて,"person that is hard to deal with, weak point"
+JLPT4,困る,こまる,"be at a loss, in a jam, in trouble"
+JLPT1,貧乏,びんぼう,"poverty, destitution"
+JLPT2,ジュース,ジュース,"juice, soft drink"
+JLPT2,不幸,ふこう,"unhappiness, misfortune, bereavement"
+JLPT2,幸せ,しあわせ,"happiness, good fortune"
+JLPT2,加える,くわえる,"add, include"
+JLPT2,少々,しょうしょう,"a little, a few"
+JLPT4,塩,しお,salt
+JLPT2,塩辛い,しおからい,salty
+JLPT4,ちょっと,ちょっと,"just a moment, just a little, easily"
+JLPT4,砂糖,さとう,sugar
+JLPT1,規模,きぼ,"scale, scope"
+JLPT2,農業,のうぎょう,agriculture
+JLPT2,濃い,こい,"thick, concentrated, dark-colored"
+JLPT4,薄い,うすい,"thin, weak, pale"
+JLPT3,味,あじ,"taste, flavor"
+JLPT4,厚い,あつい,"thick, bulky"
+JLPT2,迫る,せまる,"press, close in on, be imminent"
+JLPT2,ゴム,ゴム,elastic
+JLPT1,業者,ぎょうしゃ,businessman
+JLPT2,越える,こえる,"go over, go across, go beyond"
+JLPT0,引っ越し,ひっこし,moving
+JLPT2,追い越す,おいこす,"outrun, overtake"
+JLPT1,上昇,じょうしょう,"ascension, rising"
+JLPT3,確か,たしか,"for sure, for certain"
+JLPT0,改札口,かいさつぐち,"ticket barrier, wicket"
+JLPT3,失礼,しつれい,"impoliteness, bad manners, I beg your parden/Goodbye"
+JLPT3,お礼,おれい,"thanks, reward, return present"
+JLPT4,どなた,どなた,who
+JLPT3,謝る,あやまる,apologize
+JLPT3,注射,ちゅうしゃ,"injection, shot"
+JLPT0,社員,しゃいん,"staff member, employee"
+JLPT2,誘う,さそう,"invite, ask out"
+JLPT1,導入,どうにゅう,introduction
+JLPT2,努力,どりょく,"endeavor, effort"
+JLPT1,当然,とうぜん,"natural, as a matter of course"
+JLPT0,めったに,めったに,rarely
+JLPT2,独身,どくしん,"single life, celibacy"
+JLPT4,家内,かない,my wife
+JLPT2,処理,しょり,"management, process"
+JLPT3,紹介,しょうかい,"introduction, presentation"
+JLPT2,招く,まねく,"invite, beckon, engage"
+JLPT1,ソース,ソース,"sauce, Worcestershire sauce"
+JLPT3,招待,しょうたい,invitation
+JLPT4,生まれる,うまれる,"be born, come into existence"
+JLPT2,夫婦,ふうふ,"husband and wife, married couple"
+JLPT2,ネックレス,ネックレス,necklace
+JLPT4,二人,ふたり,two persons
+JLPT4,奥さん,おくさん,"married lady, your wife"
+JLPT0,年下,としした,"younger, junior"
+JLPT3,競争,きょうそう,competition
+JLPT2,方向,ほうこう,"direction, course"
+JLPT3,見物,けんぶつ,"sightseeing, visit"
+JLPT3,知らせる,しらせる,"let know, inform"
+JLPT4,皆さん,みなさん,"everybody, ladies and gentlemen"
+JLPT0,皆様,みなさま,"everyone, ladies and gentlemen"
+JLPT2,経営,けいえい,"management, operation"
+JLPT2,大統領,だいとうりょう,president (of a country)
+JLPT2,相手,あいて,opponent
+JLPT2,未来,みらい,future
+JLPT3,盗む,ぬすむ,"steal, rob"
+JLPT2,誰か,だれか,someone
+JLPT2,国籍,こくせき,"nationality, citizenship"
+JLPT2,愛,あい,love
+JLPT0,可愛い,かわいい,"cute, charming, sweet"
+JLPT2,着せる,きせる,"dress, put on clothes"
+JLPT2,恋人,こいびと,"lover, sweetheart"
+JLPT3,プレゼント,プレゼント,"present, gift"
+JLPT4,誕生日,たんじょうび,birthday
+JLPT2,ケーキ,ケーキ,cake
+JLPT2,祝日,しゅくじつ,"holiday, festival day"
+JLPT3,お祝い,おいわい,celebrate
+JLPT2,実現,じつげん,"implementation, realization"
+JLPT3,泣く,なく,"cry, weep"
+JLPT2,涙,なみだ,tear
+JLPT2,こぼれる,こぼれる,"spill, overflow"
+JLPT3,喜ぶ,よろこぶ,"be happy, be delighted"
+JLPT3,恥ずかしい,はずかしい,"shy, ashamed, disgraceful"
+JLPT2,弁当,べんとう,"box lunch, picnic lunch"
+JLPT0,高さ,たかさ,height
+JLPT4,登る,のぼる,"climb, mount, go up"
+JLPT3,看護婦,かんごふ,female nurse
+JLPT2,訴える,うったえる,sue
+JLPT2,迷う,まよう,"be perplexed, hesitate, get lost"
+JLPT2,占める,しめる,"occupy, hold"
+JLPT2,ベルト,ベルト,belt
+JLPT2,迷惑,めいわく,"trouble, annoyance"
+JLPT2,地域,ちいき,"region, area"
+JLPT2,活動,かつどう,activity
+JLPT2,住民,じゅうみん,"residents, dwellers"
+JLPT3,危険,きけん,"danger, dangerous"
+JLPT1,政権,せいけん,political power
+JLPT2,贈る,おくる,"offer, give"
+JLPT3,贈り物,おくりもの,"present, gift"
+JLPT2,与える,あたえる,give
+JLPT1,資金,しきん,"funds, capital"
+JLPT2,貯金,ちょきん,"savings, deposit"
+JLPT4,毎月,まいつき,every month
+JLPT2,預かる,あずかる,"receive on deposit, take charge of"
+JLPT2,分野,ぶんや,"field, sphere"
+JLPT4,料理,りょうり,"cooking, handling"
+JLPT2,得意,とくい,"one's forte, pride, customer"
+JLPT4,ギター,ギター,guitar
+JLPT2,理科,りか,science
+JLPT0,バレーボール,バレーボール,volleyball
+JLPT2,燃える,もえる,"burn, undergo combustion"
+JLPT3,焼ける,やける,"burn, be scorched, be baked"
+JLPT0,すき焼き,すきやき,sukiyaki
+JLPT4,肉,にく,"flesh, meat"
+JLPT3,焼く,やく,"burn, bake, be envious"
+JLPT2,乾杯,かんぱい,a toast
+JLPT2,乾かす,かわかす,dry
+JLPT2,新幹線,しんかんせん,"Shinkansen, Bullet Train"
+JLPT0,速さ,はやさ,speed
+JLPT2,行き,いき,going
+JLPT2,素晴らしい,すばらしい,"splendid, excellent"
+JLPT2,家庭,かてい,"home, family"
+JLPT4,花,はな,flower
+JLPT4,咲く,さく,"bloom, blossom"
+JLPT2,桜,さくら,"cherry tree, cherry blossom"
+JLPT4,吹く,ふく,"blow, play on a wind instrument"
+JLPT4,毎日,まいにち,every day
+JLPT3,海岸,かいがん,"seashore, coast"
+JLPT2,あちこち,あちこち,all over
+JLPT3,植える,うえる,"plant, raise"
+JLPT4,庭,にわ,"garden, court"
+JLPT2,屋根,やね,roof
+JLPT0,厚さ,あつさ,thickness
+JLPT2,黒板,こくばん,blackboard
+JLPT0,掲示板,けいじばん,"notice board, bulletin board"
+JLPT2,チョーク,チョーク,chalk
+JLPT4,フォーク,フォーク,fork
+JLPT2,牛,うし,"cattle, cow"
+JLPT3,草,くさ,"grass, weed"
+JLPT3,葉,は,"leaf, needle"
+JLPT0,絵葉書,えはがき,picture postcard
+JLPT4,葉書,はがき,postcard
+JLPT3,警察,けいさつ,police
+JLPT4,どうぞ,どうぞ,please
+JLPT4,タクシー,タクシー,"taxi, cab"
+JLPT2,親しい,したしい,"intimate, familiar"
+JLPT0,救急車,きゅうきゅうしゃ,ambulance
+JLPT0,ウェートレス,ウェートレス,waitress
+JLPT4,吸う,すう,"inhale, suck"
+JLPT4,たばこ,たばこ,"tobacco, cigarette"
+JLPT2,普及,ふきゅう,"diffusion, spread"
+JLPT2,手術,しゅじゅつ,surgical operation
+JLPT2,効果,こうか,"effect, result"
+JLPT2,胃,い,stomach
+JLPT2,割る,わる,"divide, crack, split"
+JLPT2,皿,さら,"plate, counter for plates or helpings"
+JLPT3,血,ち,blood
+JLPT2,内容,ないよう,contents
+JLPT1,会談,かいだん,"conversation, meeting"
+JLPT1,背景,はいけい,"background, scenery, setting"
+JLPT2,実際,じっさい,"truth, actual state"
+JLPT2,かゆい,かゆい,itchy
+JLPT2,滑る,すべる,"slide, slip, flunk an examination"
+JLPT2,骨,ほね,"bone, frame, spirit"
+JLPT2,健康,けんこう,healthy
+JLPT3,水泳,すいえい,swimming
+JLPT3,珍しい,めずらしい,"rare, precious"
+JLPT2,ビデオ,ビデオ,video
+JLPT4,撮る,とる,"photograph, shoot, film"
+JLPT2,国会,こっかい,"National Diet, parliament"
+JLPT2,再び,ふたたび,"again, a second time"
+JLPT4,再来年,さらいねん,the year after next
+JLPT2,再来月,さらいげつ,the month after next
+JLPT2,再来週,さらいしゅう,the week after next
+JLPT3,放送,ほうそう,broadcasting
+JLPT2,装置,そうち,"equipment, device"
+JLPT2,仮名,かな,"kana, Japanese syllabary"
+JLPT2,送り仮名,おくりがな,kana suffix
+JLPT2,悲しむ,かなしむ,"feel sad, lament"
+JLPT4,あまり,あまり,(not) much
+JLPT2,流れる,ながれる,"flow, pass, drift away"
+JLPT2,ビール,ビール,"beer, lager"
+JLPT3,美術館,びじゅつかん,art museum
+JLPT2,美人,びじん,beautiful woman
+JLPT0,すいか,すいか,watermelon
+JLPT2,博物館,はくぶつかん,museum
+JLPT0,ハム,ハム,ham
+JLPT1,開催,かいさい,"holding (of an event), opening"
+JLPT2,特徴,とくちょう,"distinctive feature, characteristic"
+JLPT2,今回,こんかい,this time
+JLPT2,許す,ゆるす,"permit, license, forgive"
+JLPT0,免許証,めんきょしょう,license
+JLPT2,述べる,のべる,"state orally, expound, mention"
+JLPT3,食事,しょくじ,"meal, dinner"
+JLPT0,代わる,かわる,"substitute, be substituted for"
+JLPT2,固い,かたい,"stiff, tight"
+JLPT3,厳しい,きびしい,"strict, severe, intense"
+JLPT2,教師,きょうし,"teacher, instructor"
+JLPT2,進める,すすめる,"advance, promote"
+JLPT1,設ける,もうける,"set up, establish"
+JLPT2,実験,じっけん,experiment
+JLPT2,教授,きょうじゅ,professor
+JLPT3,間に合う,まにあう,"be in time, answer the purpose, can do without"
+JLPT3,伝える,つたえる,"convey, transmit, hand down"
+JLPT4,忙しい,いそがしい,"busy, occupied"
+JLPT3,逃げる,にげる,"escape, run away"
+JLPT4,鳥,とり,"bird, poultry"
+JLPT3,鳴る,なる,"sound, ring, roar"
+JLPT4,鳴く,なく,"cry, chirp, meow"
+JLPT0,目覚まし時計,めざましどけい,alarm clock
+JLPT4,声,こえ,"voice, sound"
+JLPT4,テープレコーダー,テープレコーダー,"tape recorder, cassette recorder"
+JLPT4,卵,たまご,egg
+JLPT4,やる,やる,give (to an inferior)
+JLPT4,隣,となり,"neighboring house, next seat"
+JLPT2,振る,ふる,"wave, shake, brandish"
+JLPT2,助ける,たすける,"help, save"
+JLPT3,駐車場,ちゅうしゃじょう,parking area
+JLPT3,騒ぐ,さわぐ,"make a racket, mess around, make a fuss"
+JLPT2,刺身,さしみ,"sashimi, sliced raw meat"
+JLPT2,激しい,はげしい,"violent, intense"
+JLPT4,スリッパ,スリッパ,slippers
+JLPT4,降る,ふる,"fall, come down"
+JLPT2,示す,しめす,"show, indicate"
+JLPT3,歴史,れきし,history
+JLPT3,驚く,おどろく,"be surprised, be startled"
+JLPT0,強さ,つよさ,"strength, power"
+JLPT2,停車,ていしゃ,stoppage
+JLPT4,木,き,"tree, wood"
+JLPT3,倒れる,たおれる,"fall over, succumb"
+JLPT2,倒す,たおす,"bring down, overthrow, defeat"
+JLPT2,傾向,けいこう,"tendency, disposition"
+JLPT3,急,きゅう,"urgent, dire, pressing"
+JLPT3,よろしい,よろしい,all right
+JLPT3,柔道,じゅうどう,judo
+JLPT0,柔らか,やわらか,"soft, tender, gentle"
+JLPT2,主張,しゅちょう,"insistence, assertion"
+JLPT2,テント,テント,tent
+JLPT2,引っ張る,ひっぱる,"pull, drag"
+JLPT4,消える,きえる,"be extinguished, disappear"
+JLPT2,突き当たる,つきあたる,"hit against, come to the end of"
+JLPT2,突き当たり,つきあたり,end of a street
+JLPT2,文字,もじ,"character, letter"
+JLPT3,塗る,ぬる,"spread on, paint"
+JLPT4,弾く,ひく,play on
+JLPT2,地球,ちきゅう,the Earth
+JLPT4,丸い,まるい,round
+JLPT2,丸,まる,"circle or sphere, wholeness"
+JLPT2,攻撃,こうげき,"attack, criticism"
+JLPT0,消防車,しょうぼうしゃ,fire engine
+JLPT2,殺す,ころす,"kill, smother"
+JLPT4,嫌,いや,"dislike, have a dislike for"
+JLPT3,歯医者,はいしゃ,dentist
+JLPT0,大嫌い,だいきらい,hate
+JLPT2,ラッシュアワー,ラッシュアワー,rush hour
+JLPT0,にんじん,にんじん,carrot
+JLPT2,アクセサリー,アクセサリー,"accessories, jewelry"
+JLPT4,大勢,おおぜい,"large numbers, a lot of"
+JLPT2,姿,すがた,"figure, appearance"
+JLPT2,姿勢,しせい,"posture, attitude"
+JLPT3,夢,ゆめ,dream
+JLPT2,恐ろしい,おそろしい,"terrible, awful"
+JLPT3,怖い,こわい,"fearful, be afraid"
+JLPT2,孫,まご,grandchild
+JLPT3,木綿,もめん,cotton
+JLPT2,偉い,えらい,"great, famous, eminent"
+JLPT2,爪,つめ,"nail, claw"
+JLPT2,奥,おく,"inner part, the back, inner chamber"
+JLPT4,机,つくえ,"desk, table"
+JLPT2,貼る,はる,"stick, paste"
+JLPT2,組み立てる,くみたてる,"build, set up, construct"
+JLPT3,棚,たな,"cupboard, shelf, rack"
+JLPT4,本棚,ほんだな,bookshelf
+JLPT3,折れる,おれる,"snap, be folded, give in"
+JLPT2,用いる,もちいる,"use, make use of"
+JLPT2,商業,しょうぎょう,"commerce, trade"
+JLPT2,方針,ほうしん,"course, policy"
+JLPT3,糸,いと,"thread, yarn"
+JLPT3,釣る,つる,"angle, fish"
+JLPT0,お釣り,おつり,change
+JLPT2,預ける,あずける,"deposit, entrust"
+JLPT3,無くす,なくす,"lose, get rid of"
+JLPT2,鍋,なべ,"pan, saucepan"
+JLPT3,うまい,うまい,"delicious, tasty"
+JLPT2,こぼす,こぼす,spill
+JLPT0,寿司,すし,sushi
+JLPT3,夕飯,ゆうはん,"evening meal, supper"
+JLPT2,昼食,ちゅうしょく,lunch
+JLPT2,シャワー,シャワー,shower
+JLPT2,ただ,ただ,free
+JLPT3,泥棒,どろぼう,"thief, crook"
+JLPT3,沸かす,わかす,"boil, excite"
+JLPT0,やかん,やかん,kettle
+JLPT3,乾く,かわく,"dry, run dry"
+JLPT0,洗濯機,せんたくき,washing machine
+JLPT4,洗濯,せんたく,"laundering, washing"
+JLPT2,濡れる,ぬれる,get wet
+JLPT4,喫茶店,きっさてん,"coffee shop, tea house, café"
+JLPT2,怠ける,なまける,"be lazy, neglect"
+JLPT3,一生懸命,いっしょうけんめい,"for life, with all one's might"
+JLPT2,休憩,きゅうけい,"rest, repose"
+JLPT0,天井,てんじょう,ceiling
+JLPT0,納豆,なっとう,natto (fermented soybeans)
+JLPT0,朝食,ちょうしょく,breakfast
+JLPT0,まく,まく,"scatter, plant"
+JLPT2,化粧,けしょう,"make up, put on makeup"
+JLPT2,畑,はたけ,"field, vegetable garden"
+JLPT2,炊く,たく,"cook, boil"
+JLPT0,自炊,じすい,cooking food for oneself
+JLPT4,灰皿,はいざら,ashtray
+JLPT2,灰,はい,ashes
+JLPT2,灰色,はいいろ,"ash color, gray"
+JLPT2,西暦,せいれき,"Christian Era, A.D."
+JLPT2,伸びる,のびる,"stretch, grow"
+JLPT3,髪,かみ,"hair, hairstyle"
+JLPT3,鏡,かがみ,mirror
+JLPT0,美容院,びよういん,beauty shop
+JLPT0,くし,くし,comb
+JLPT0,とんとん,とんとん,tapping
+JLPT2,舌,した,tongue
+JLPT2,臭い,くさい,"ill-smelling, stinking"
+JLPT2,匂い,におい,"smell, odor"
+JLPT4,居る,いる,be present
+JLPT2,より,より,"more, further"
+JLPT2,履く,はく,"put on footwear, wear"
+JLPT4,戸,と,"door, shutter"
+JLPT2,扇風機,せんぷうき,electric fan
+JLPT2,ドライブ,ドライブ,drive
+JLPT0,豚,ぶた,"pig, pork"
+JLPT4,豚肉,ぶたにく,"pork, hog meat"
+JLPT0,鶏,にわとり,"chicken, hen"
+JLPT2,刺す,さす,"stab, prick, sting"
+JLPT0,腕時計,うでどけい,wrist watch
+JLPT2,分ける,わける,"divide into parts, sort, share"
+JLPT4,半分,はんぶん,half
+JLPT4,お菓子,おかし,"sweets, snacks"
+JLPT3,お土産,おみやげ,souvenir
+JLPT0,お辞儀,おじぎ,bow
+JLPT2,寝坊,ねぼう,"late riser, oversleeping"
+JLPT2,旗,はた,"flag, banner"
+JLPT4,鉛筆,えんぴつ,pencil
+JLPT4,万年筆,まんねんひつ,fountain pen
+JLPT4,箱,はこ,"box, case"
+JLPT0,セロテープ,セロテープ,"cellophane tape, Scotch tape, Sellotape"
+JLPT0,下ろす,おろす,"bring down, take down, pull down"
+JLPT0,本箱,ほんばこ,bookcase
+JLPT2,ビニール,ビニール,plastic bag
+JLPT3,手袋,てぶくろ,gloves
+JLPT2,袋,ふくろ,"bag, sack"
+JLPT0,落とす,おとす,"drop, omit"
+JLPT3,拾う,ひろう,"pick up, find"
+JLPT4,ポケット,ポケット,pocket
+JLPT3,財布,さいふ,"purse, wallet"
+JLPT3,柔らかい,やわらかい,soft
+JLPT2,毛布,もうふ,blanket
+JLPT3,押し入れ,おしいれ,closet
+JLPT3,引き出し,ひきだし,"drawer, withdrawal"
+JLPT4,中,なか,"inside, middle"
+JLPT0,レシート,レシート,receipt
+JLPT0,アイスコーヒー,アイスコーヒー,iced coffee
+JLPT2,小包,こづつみ,"parcel, package"
+JLPT3,包む,つつむ,"wrap, pack"
+JLPT3,飾る,かざる,"decorate, exhibit"
+JLPT2,手帳,てちょう,"pocketbook, memo"
+JLPT0,電話帳,でんわちょう,telephone book
+JLPT2,牛乳,ぎゅうにゅう,milk
+JLPT4,玄関,げんかん,"entrance, door"
+JLPT3,ベル,ベル,bell
+JLPT4,眼鏡,めがね,"glasses, judgment"
+JLPT2,患者,かんじゃ,patient
+JLPT0,赤ちゃん,あかちゃん,baby
+JLPT3,眠い,ねむい,sleepy
+JLPT3,眠る,ねむる,sleep
+JLPT0,大きさ,おおきさ,"size, dimensions"
+JLPT4,封筒,ふうとう,envelope
+JLPT3,壁,かべ,"wall, partition"
+JLPT2,鍵,かぎ,"key, lock"
+JLPT2,出掛ける,でかける,"go out, be about to go out"
+JLPT3,用事,ようじ,"things to do, errand, business"
+JLPT2,掛かる,かかる,"hang, splash, require"
+JLPT2,掛け算,かけざん,multiplication
+JLPT2,拍手,はくしゅ,"applause, clapping"
+JLPT4,トイレ,トイレ,toilet
+JLPT4,掃除,そうじ,cleaning
+JLPT0,掃除機,そうじき,vacuum cleaner
+JLPT2,握る,にぎる,"grasp, make hand-rolled sushi balls"
+JLPT2,握手,あくしゅ,"handshake, handshaking"
+JLPT3,迎える,むかえる,"welcome, go out to meet, invite"
+JLPT0,お巡りさん,おまわりさん,policeman
+JLPT2,カラー,カラー,color
+JLPT2,幾つ,いくつ,"how many, how old"
+JLPT2,移す,うつす,"move, shift, transfer"
+JLPT0,いつか,いつか,"some time, some day"
+JLPT3,力,ちから,"strength, power"
+JLPT2,批判,ひはん,"criticism, comment"
+JLPT2,冗談,じょうだん,joke
+JLPT3,寂しい,さびしい,"lonely, desolate, sad"
+JLPT3,丁寧,ていねい,"polite, courteous, careful"
+JLPT2,後,のち,"after, afterwards"
+JLPT0,可哀相,かわいそう,"poor, pitiable"
+JLPT3,事故,じこ,"accident, incident"
+JLPT2,怪我,けが,injury
+JLPT0,ひざ,ひざ,knee
+JLPT0,ひじ,ひじ,elbow
+JLPT2,我慢,がまん,"patience, self-restraint"
+JLPT2,幼稚園,ようちえん,kindergarten
+JLPT2,太陽,たいよう,sun
+JLPT2,隠れる,かくれる,"hide, disappear"
+JLPT2,日陰,ひかげ,the shade
+JLPT2,随分,ずいぶん,"extremely, considerably"
+JLPT2,犬,いぬ,dog
+JLPT3,試験,しけん,"test, examination"
+JLPT2,頑張る,がんばる,"persist, be tenacious"
+JLPT2,頃,ころ,time
+JLPT1,かつて,かつて,"once, formerly"
+JLPT2,大抵,たいてい,"generally, mostly"
+JLPT0,この頃,このごろ,"now, these days, recently"
+JLPT2,消防署,しょうぼうしょ,fire station
+JLPT2,尋ねる,たずねる,"inquire, search for"
+JLPT2,パーセント,パーセント,percent
+JLPT0,絶対に,ぜったいに,"absolutely, unconditionally"
+JLPT2,缶詰,かんづめ,"canned goods, cooping-up"
+JLPT2,缶,かん,"can, tin"
+JLPT2,腐る,くさる,"rot, corrode"
+JLPT0,豆腐,とうふ,tofu
+JLPT2,床,ゆか,floor
+JLPT2,床屋,とこや,"barber, barbershop"
+JLPT2,掃く,はく,"sweep, brush"
+JLPT3,畳,たたみ,"tatami, mat"
+JLPT2,畳む,たたむ,"fold, shut"
+JLPT3,布団,ふとん,"futon, bedquilt"
+JLPT2,干す,ほす,"dry, desiccate"
+JLPT2,目立つ,めだつ,"stand out, be conspicuous"
+JLPT4,帽子,ぼうし,"cap, hat"
+JLPT2,被る,かぶる,"wear, put on"
+JLPT2,是非,ぜひ,"by all means, at any cost"
+JLPT2,敬語,けいご,"honorific language, polite speech"
+JLPT2,敷く,しく,"lay, spread"
+JLPT2,馬,うま,horse
+JLPT2,雷,かみなり,"thunder, lightning"
+JLPT4,零,れい,"zero, naught"
+JLPT0,仕舞う,しまう,put away
+JLPT3,踊る,おどる,dance
+JLPT3,踊り,おどり,"dance, dancing"
+JLPT3,踏む,ふむ,"step on, tread on"
+JLPT2,踏切,ふみきり,railroad crossing
+JLPT2,蹴る,ける,kick
+JLPT4,食堂,しょくどう,"dining hall, restaurant"
+JLPT0,生む,うむ,have children
+JLPT2,猫,ねこ,"cat, feline"
+JLPT2,毛,け,"hair, wool"
+JLPT2,文章,ぶんしょう,"writing, prose"
+JLPT2,程度,ていど,"degree, extent"
+JLPT4,歯,は,"tooth, cog"
+JLPT4,散歩,さんぽ,"walk, stroll"
+JLPT2,尊敬,そんけい,"respect, esteem, honor"
+JLPT0,お祖父さん,おじいさん,grandfather
+JLPT2,折る,おる,"break off, fold, bend"
+JLPT0,早起き,はやおき,early rising
+JLPT0,冬休み,ふゆやすみ,winter vacation
+JLPT0,お祖母さん,おばあさん,grandmother
+JLPT4,丈夫,じょうぶ,"healthy, stout"
+JLPT3,祖父,そふ,grandfather
+JLPT3,祖母,そぼ,grandmother
+JLPT2,欠席,けっせき,"absence, nonattendance"
+JLPT2,邪魔,じゃま,disturbing
+JLPT2,治す,なおす,"cure, heal"
+JLPT0,風邪薬,かぜぐすり,remedy for a cold
+JLPT3,沸く,わく,"boil, be excited"
+JLPT2,転ぶ,ころぶ,"tumble down, fall over"
+JLPT0,風呂屋,ふろや,"bathhouse, public bath"
+JLPT0,ぬるい,ぬるい,"tepid, lukewarm"
+JLPT2,風呂,ふろ,bath
+JLPT3,湯,ゆ,"hot water, hot bath, bathhouse"
+JLPT0,昭和,しょうわ,Showa era
+JLPT2,紫,むらさき,purple
+JLPT0,レモン,レモン,lemon
+JLPT2,紅茶,こうちゃ,black tea
+JLPT2,梅雨,つゆ,rainy season
+JLPT0,桃,もも,"peach, peach tree"
+JLPT2,遭う,あう,"meet with, encounter"
+JLPT2,枕,まくら,pillow
+JLPT2,嘘,うそ,lie
+JLPT3,怒る,おこる,"get angry, scold"
+JLPT3,遠慮,えんりょ,"reserve, hesitation, forethought"
+JLPT2,叱る,しかる,"scold, tell off, reprimand"
+JLPT4,傘,かさ,"umbrella, parasol"
+JLPT3,お嬢さん,おじょうさん,"young lady, your daughter"
+JLPT0,年賀状,ねんがじょう,New Year's card
+JLPT2,賑やか,にぎやか,"lively, exciting"
+JLPT2,蚊,か,mosquito
+JLPT2,拭く,ふく,"wipe, dry"
+JLPT0,会長,かいちょう,"president, chairperson"
+JLPT2,挨拶,あいさつ,"greet, greeting"
+JLPT1,伴う,ともなう,"accompany, go with"
+JLPT2,巻く,まく,"roll up, wind, wrap"
+JLPT4,着く,つく,"arrive, make contact, settle"
+JLPT3,引っ越す,ひっこす,"move, change quarters"
+JLPT0,おば,おば,aunt
+JLPT4,両親,りょうしん,parents
+JLPT3,合う,あう,fit
+JLPT2,穴,あな,"hole, cavity"
+JLPT4,デパート,デパート,"department store, department"
+JLPT4,靴,くつ,"shoes, boots"
+JLPT2,付く,つく,"attach itself to, be connected with, come in contact with"
+JLPT2,気に入る,きにいる,"like, be pleased with"
+JLPT4,脱ぐ,ぬぐ,"remove clothes, take off"
+JLPT4,靴下,くつした,"socks, stockings"
+JLPT2,幾ら,いくら,how much
+JLPT1,汚れ,よごれ,"dirt, filth"
+JLPT0,ひも,ひも,"laces, string, rope"
+JLPT4,磨く,みがく,"polish, grind"
+JLPT2,歯磨き,はみがき,"toothpaste, brushing one's teeth"
+JLPT2,廊下,ろうか,"hallway, corridor"
+JLPT3,ガラス,ガラス,glass
+JLPT2,瓶,びん,"bottle, flask"
+JLPT2,褒める,ほめる,"praise, commend"
+JLPT0,元旦,がんたん,New Year's Day
+JLPT4,池,いけ,pond
+JLPT2,袖,そで,sleeve
+JLPT0,長袖,ながそで,clothes with long sleeves
+JLPT0,半袖,はんそで,short-sleeved shirt
+JLPT2,馬鹿,ばか,"fool, nonsense"
+JLPT0,凄い,すごい,"wonderful, great, incredible"
+JLPT2,剃る,そる,shave
+JLPT3,ひどい,ひどい,"cruel, severe"
+JLPT2,喧嘩,けんか,"fight, quarrel, argument"
+JLPT0,からから,からから,"thirsty, dry"
+JLPT2,叩く,たたく,"tap, hit"
+JLPT2,噛む,かむ,"bite, chew"
+JLPT3,足す,たす,"add, supplement"
+JLPT0,味噌汁,みそしる,miso soup
+JLPT2,姪,めい,niece
+JLPT0,苺,いちご,strawberry
+JLPT0,茄子,なす,eggplant
+JLPT0,逢う,あう,meet
+JLPT2,椅子,いす,chair
+JLPT3,形,かたち,"shape, form"
+JLPT2,痩せる,やせる,"lose weight, become thin"
+JLPT2,箸,はし,chopsticks
+JLPT2,糊,のり,"glue, starch"
+JLPT2,醤油,しょうゆ,soy sauce
+JLPT0,鋏,はさみ,"scissors, pincers, tongs"
+JLPT0,鞄,かばん,"bag, handbag, briefcase"
+JLPT1,顎,あご,"jaw, chin"
+JLPT2,飴,あめ,"candy, sweets"
+JLPT2,石鹸,せっけん,soap
+JLPT3,なるほど,なるほど,"I see, really"
+JLPT1,ヒント,ヒント,"hint, clue"
+JLPT2,おやつ,おやつ,"snack, refreshment"
+JLPT2,今に,いまに,"before long, someday"
+JLPT0,バイト,バイト,part-time job
+JLPT0,もうけ,もうけ,"profits, earnings"
+JLPT1,わざわざ,わざわざ,go to a lot of trouble
+JLPT0,やって来る,やってくる,"come, turn up"
+JLPT0,せっかく,せっかく,"with much trouble, specially"
+JLPT2,ばからしい,ばからしい,"stupid, useless"
+JLPT2,ダム,ダム,dam
+JLPT0,ボリューム,ボリューム,volume
+JLPT2,大,だい,"bigness, large size"
+JLPT0,ずるい,ずるい,"cunning, sneaky"
+JLPT2,ずうずうしい,ずうずうしい,"cheeky, impudent"
+JLPT4,大人,おとな,adult
+JLPT2,メンバー,メンバー,member
+JLPT0,何て,なんて,"what, how"
+JLPT0,よす,よす,"quit, stop"
+JLPT2,コンクリート,コンクリート,concrete
+JLPT1,大金,たいきん,large sum of money
+JLPT2,ボーナス,ボーナス,bonus
+JLPT2,日の出,ひので,sunrise
+JLPT2,外れる,はずれる,come off
+JLPT0,外れ,はずれ,blank
+JLPT0,本日,ほんじつ,today
+JLPT2,一休み,ひとやすみ,rest
+JLPT0,なぜか,なぜか,for some reason
+JLPT1,つぶる,つぶる,close
+JLPT1,ぞんざい,ぞんざい,"rough, rude"
+JLPT2,しびれる,しびれる,"become numb, get pins and needles"
+JLPT0,たこ,たこ,octopus
+JLPT2,ビタミン,ビタミン,vitamin
+JLPT2,つまずく,つまずく,"stumble, trip"
+JLPT0,つぼみ,つぼみ,bud
+JLPT2,うろうろ,うろうろ,wander
+JLPT2,女子,じょし,"woman, girl"
+JLPT2,あんまり,あんまり,"(not) that much, (not) so much"
+JLPT0,ジョギング,ジョギング,jogging
+JLPT0,えび,えび,"lobster, shrimp"
+JLPT3,コンサート,コンサート,concert
+JLPT0,ビーチ,ビーチ,beach
+JLPT2,出来上がる,できあがる,"be completed, be finished"
+JLPT2,カーブ,カーブ,"curve, bend"
+JLPT2,スタート,スタート,"start, begin"
+JLPT1,どうやら,どうやら,"seems, looks like"
+JLPT0,にわかに,にわかに,rapidly
+JLPT0,昨日,さくじつ,yesterday
+JLPT2,ひとりでに,ひとりでに,"automatically, by oneself"
+JLPT2,本人,ほんにん,"the person himself, the said person"
+JLPT1,メロディー,メロディー,melody
+JLPT2,ママ,ママ,"mommy, mummy"
+JLPT1,安っぽい,やすっぽい,"cheap, tacky"
+JLPT3,気分,きぶん,"feeling, mood"
+JLPT0,開き,あき,"gap, vacancy"
+JLPT2,日の入り,ひのいり,sunset
+JLPT0,半年,はんとし,half a year
+JLPT0,はれる,はれる,"swell, swell up"
+JLPT2,明ける,あける,to dawn
+JLPT2,いつのまにか,いつのまにか,before it is noticed
+JLPT2,夜,よ,"night, evening"
+JLPT0,七夕,たなばた,"Tanabata Festival, Star Festival"
+JLPT0,外食,がいしょく,"eating out, dining out"
+JLPT0,おにぎり,おにぎり,rice ball
+JLPT0,よそ,よそ,somewhere else
+JLPT2,ちゃんと,ちゃんと,"regularly, properly"
+JLPT1,デザート,デザート,dessert
+JLPT0,とんかつ,とんかつ,pork cutlet
+JLPT2,飯,めし,"cooked rice, meal"
+JLPT1,コーナー,コーナー,corner
+JLPT0,バーゲン,バーゲン,bargain sale
+JLPT2,たんす,たんす,"chest of drawers, wardrobe"
+JLPT0,天の川,あまのがわ,Milky Way
+JLPT0,じろじろ,じろじろ,stare
+JLPT0,ようやく,ようやく,"at last, at length"
+JLPT0,前方,ぜんぽう,front
+JLPT2,見上げる,みあげる,look up
+JLPT0,夜空,よぞら,night sky
+JLPT2,花火,はなび,"fireworks, firecrackers"
+JLPT2,見本,みほん,"sample, model"
+JLPT2,三日月,みかづき,"new moon, crescent moon"
+JLPT1,見晴らし,みはらし,"view, outlook"
+JLPT0,よる,よる,be caused by
+JLPT1,あっさり,あっさり,"plainly, matter-of-factly"
+JLPT3,うるさい,うるさい,"noisy, bothersome"
+JLPT0,今ごろ,いまごろ,about this time
+JLPT2,シリーズ,シリーズ,series
+JLPT0,つながり,つながり,"connection, relation"
+JLPT1,漢語,かんご,Chinese-character compounds
+JLPT0,後書き,あとがき,"postscript, afterword"
+JLPT0,見覚え,みおぼえ,"recognition, remembrance"
+JLPT0,目覚まし,めざまし,waking up
+JLPT0,話し合い,はなしあい,"talk, discussion"
+JLPT2,どうせ,どうせ,anyway
+JLPT0,間に合わせる,まにあわせる,make do
+JLPT0,週休,しゅうきゅう,weekend
+JLPT2,満ちる,みちる,"be filled, expire"
+JLPT2,満員,まんいん,full to capacity
+JLPT1,満月,まんげつ,full moon
+JLPT2,一体,いったい,"what on earth, what the…"
+JLPT2,事,こと,"thing, incident"
+JLPT1,サボる,サボる,"blow off, play truant"
+JLPT2,とんでもない,とんでもない,"unthinkable, outrageous"
+JLPT2,出場,しゅつじょう,participation
+JLPT2,コンクール,コンクール,"contest, competition"
+JLPT0,きょろきょろ,きょろきょろ,look around
+JLPT2,最中,さいちゅう,"in the middle of, during"
+JLPT0,つながる,つながる,"connect, join"
+JLPT3,ガソリン,ガソリン,gasoline
+JLPT2,ハンドル,ハンドル,steering wheel
+JLPT2,バック,バック,back
+JLPT2,ナンバー,ナンバー,number
+JLPT0,ひく,ひく,run over
+JLPT2,およそ,およそ,just about
+JLPT2,交ぜる,まぜる,include
+JLPT3,おっしゃる,おっしゃる,say
+JLPT2,客間,きゃくま,"guest room, parlor"
+JLPT1,見通し,みとおし,"perspective, prospect"
+JLPT2,下水,げすい,"sewerage, drainage"
+JLPT2,通行,つうこう,"passage, traffic"
+JLPT0,たまたま,たまたま,"by chance, accidentally"
+JLPT0,でこぼこ,でこぼこ,"unevenness, bumpiness"
+JLPT2,東西,とうざい,east and west
+JLPT0,地下道,ちかどう,"underpass, underground passage"
+JLPT2,地下,ちか,underground
+JLPT0,行き止まり,いきどまり,dead end
+JLPT2,やがて,やがて,"soon, before long"
+JLPT2,ふざける,ふざける,"mess around, fool around"
+JLPT0,通行止め,つうこうどめ,road closed
+JLPT2,くたびれる,くたびれる,"get tired, be worn out"
+JLPT0,くたくた,くたくた,exhausted
+JLPT0,地上,ちじょう,above ground
+JLPT2,のろのろ,のろのろ,"slowly, easy"
+JLPT0,二度と,にどと,never again
+JLPT2,もしかすると,もしかすると,"possibly, perhaps"
+JLPT2,毎度,まいど,"every time, always"
+JLPT0,ハード,ハード,hard
+JLPT0,近道,ちかみち,shortcut
+JLPT0,手足,てあし,"hands and feet, limbs"
+JLPT2,上達,じょうたつ,"progress, proficiency"
+JLPT0,四方,しほう,"all directions, far and wide"
+JLPT2,南北,なんぼく,north and south
+JLPT2,全力,ぜんりょく,"all one's might, full capacity"
+JLPT0,アルファベット,アルファベット,alphabet
+JLPT0,出国,しゅっこく,"departure, emigration"
+JLPT0,国土,こくど,"country, territory"
+JLPT2,国語,こくご,"national language, Japanese"
+JLPT1,国交,こっこう,"diplomatic relations, national friendship"
+JLPT2,通じる,つうじる,"pass, communicate with"
+JLPT1,交わる,まじわる,cross
+JLPT2,世の中,よのなか,"the world, society"
+JLPT0,最小,さいしょう,"the smallest, minimum"
+JLPT0,つなぐ,つなぐ,"connect, join"
+JLPT0,パンティー,パンティー,panties
+JLPT1,黒字,くろじ,"the black, surplus"
+JLPT1,赤字,あかじ,"deficit, in the red"
+JLPT2,ゆでる,ゆでる,boil
+JLPT1,おまけ,おまけ,free gift
+JLPT2,空き,あき,"vacancy, free time"
+JLPT1,ムード,ムード,mood
+JLPT0,ほこり,ほこり,dust
+JLPT1,末,まつ,"last part, end"
+JLPT2,手間,てま,"trouble, time"
+JLPT2,見解,けんかい,"opinion, view"
+JLPT2,理解,りかい,"understanding, comprehension"
+JLPT0,有りのまま,ありのまま,"as it is, unchanged"
+JLPT2,有料,ゆうりょう,"fee-charging, pay"
+JLPT3,無理,むり,impossibility
+JLPT0,何より,なにより,"above all, before everything else"
+JLPT1,無茶,むちゃ,"reckless, excessive"
+JLPT0,作り話,つくりばなし,"fable, fiction"
+JLPT2,電力,でんりょく,"electric power, electricity"
+JLPT0,はかり,はかり,scales
+JLPT0,シューズ,シューズ,"shoes, sports shoes"
+JLPT1,私用,しよう,"private business, private use"
+JLPT3,用,よう,things to do
+JLPT0,会費,かいひ,"fee, membership fee"
+JLPT0,食費,しょくひ,"food expenses, board"
+JLPT2,消費,しょうひ,"consumption, spending"
+JLPT0,消火,しょうか,fire fighting
+JLPT2,うっかり,うっかり,"carelessly, accidentally"
+JLPT0,開店,かいてん,"opening of a store, setting up"
+JLPT0,安売り,やすうり,sale
+JLPT0,閉店,へいてん,shop closing
+JLPT0,本店,ほんてん,head office
+JLPT2,商店,しょうてん,"shop, store"
+JLPT2,食品,しょくひん,"food, foodstuff"
+JLPT2,上品,じょうひん,"elegance, refinement"
+JLPT0,小売店,こうりてん,"retail store, outlet"
+JLPT2,出来上がり,できあがり,"completion, finish"
+JLPT1,世,よ,"world, public,"
+JLPT2,段,だん,"step, grade"
+JLPT0,値上がり,ねあがり,price rise
+JLPT0,値下がり,ねさがり,fall in price
+JLPT0,値下げ,ねさげ,price reduction
+JLPT2,価値,かち,"value, merit"
+JLPT2,ダイヤモンド,ダイヤモンド,diamond
+JLPT2,格好,かっこう,"shape, appearance"
+JLPT2,だらしない,だらしない,"slovenly, untidy"
+JLPT0,うきうき,うきうき,feel excited
+JLPT2,うがい,うがい,gargling
+JLPT1,寒気,さむけ,chill
+JLPT1,こたつ,こたつ,"kotatsu, heated table with a coverlet"
+JLPT0,暖か,あたたか,"warm, warmhearted"
+JLPT0,ぽかぽか,ぽかぽか,pleasantly warm
+JLPT2,マイナス,マイナス,"minus, below zero"
+JLPT2,体温,たいおん,body temperature
+JLPT0,ぴたりと,ぴたりと,suddenly
+JLPT1,報道,ほうどう,"news, report"
+JLPT0,マネー,マネー,"money, finance"
+JLPT2,広告,こうこく,"public notice, advertisement"
+JLPT1,売り出す,うりだす,put on sale
+JLPT3,新聞社,しんぶんしゃ,newspaper office
+JLPT2,書店,しょてん,bookstore
+JLPT2,広げる,ひろげる,"spread, unfold"
+JLPT2,ぴかぴか,ぴかぴか,"new, shiny"
+JLPT2,中古,ちゅうこ,secondhand goods
+JLPT0,聞かす,きかす,"tell, read aloud"
+JLPT0,ディスコ,ディスコ,disco
+JLPT0,飲み水,のみみず,drinking water
+JLPT2,内,うち,inside
+JLPT2,用心,ようじん,"care, caution"
+JLPT2,ふと,ふと,"suddenly, unexpectedly"
+JLPT1,つくづく,つくづく,"truly, deeply"
+JLPT2,いつまでも,いつまでも,forever
+JLPT0,忘年会,ぼうねんかい,year-end party
+JLPT2,上,かみ,"superiors, people in authority"
+JLPT1,使い道,つかいみち,"use, application"
+JLPT3,決して,けっして,"never, by no means"
+JLPT2,決心,けっしん,"determination, resolve"
+JLPT0,知り合う,しりあう,get acquainted with
+JLPT0,知れる,しれる,"become known, be found out"
+JLPT2,知らせ,しらせ,"information, notice"
+JLPT0,ウサギ,ウサギ,"rabbit, hare"
+JLPT0,ことわざ,ことわざ,"proverb, common saying"
+JLPT0,情けない,なさけない,"pitiful, shameful"
+JLPT2,知能,ちのう,"intelligence, mental capacity"
+JLPT2,能,のう,noh play
+JLPT2,不足,ふそく,"insufficiency, lack"
+JLPT0,不可能,ふかのう,impossible
+JLPT3,交通,こうつう,"traffic, transportation"
+JLPT2,小便,しょうべん,"urine, pee"
+JLPT2,手前,てまえ,in front
+JLPT0,駅前,えきまえ,in front of the station
+JLPT2,大家,おおや,landlord
+JLPT0,ねずみ,ねずみ,"rat, mouse"
+JLPT0,人名,じんめい,"personal name, name"
+JLPT0,国名,こくめい,country name
+JLPT0,間近,まぢか,"nearby, close at hand"
+JLPT2,地名,ちめい,place name
+JLPT2,来日,らいにち,coming to Japan
+JLPT1,カット,かっと,cut
+JLPT0,北東,ほくとう,northeast
+JLPT0,人情,にんじょう,"human feelings, humanity"
+JLPT0,区,く,ward
+JLPT2,住まい,すまい,"dwelling, residence"
+JLPT2,合わせる,あわせる,"adjust, match"
+JLPT2,日帰り,ひがえり,a day trip
+JLPT2,都,みやこ,"capital, city"
+JLPT3,いらっしゃる,いらっしゃる,"come, go"
+JLPT1,目方,めかた,weight
+JLPT3,すっかり,すっかり,"all, completely"
+JLPT2,セット,セット,set
+JLPT0,車内,しゃない,inside a vehicle
+JLPT2,物価,ぶっか,prices
+JLPT2,無料,むりょう,"no charge, free"
+JLPT2,本物,ほんもの,"real thing, genuine article"
+JLPT2,ロッカー,ロッカー,locker
+JLPT2,名物,めいぶつ,"specialty, noted product"
+JLPT2,日用品,にちようひん,"groceries, daily necessities"
+JLPT0,チキン,チキン,"chicken, fried chicken"
+JLPT2,重ねる,かさねる,"pile up, repeat"
+JLPT0,ちぎれる,ちぎれる,"be torn off, come off"
+JLPT2,重量,じゅうりょう,weight
+JLPT0,大量,たいりょう,"large quantity, great volume"
+JLPT3,明日,あす,tomorrow
+JLPT1,無用,むよう,"useless, unnecessary"
+JLPT0,最上,さいじょう,"best, highest"
+JLPT0,取り決め,とりきめ,"decision, agreement"
+JLPT2,コード,コード,cord
+JLPT0,お中元,おちゅうげん,"mid-year gift, summer gift"
+JLPT2,プラットホーム,プラットホーム,platform
+JLPT1,待ち合わせ,まちあわせ,"waiting, rendez-vous"
+JLPT0,長らく,ながらく,for a long time
+JLPT0,秋風,あきかぜ,autumn breeze
+JLPT2,友,とも,"friend, companion"
+JLPT0,持ち物,もちもの,"one's property, one's baggage"
+JLPT0,長持ち,ながもち,"endurance, lasting long"
+JLPT0,打ち合わせ,うちあわせ,"meeting, arrangement"
+JLPT0,ワープロ,ワープロ,word processor
+JLPT2,受け持つ,うけもつ,have charge of
+JLPT0,長生き,ながいき,"long life, longevity"
+JLPT2,性能,せいのう,"performance, capacity"
+JLPT1,国産,こくさん,domestically produced
+JLPT2,産地,さんち,production center
+JLPT2,活字,かつじ,printed type
+JLPT1,ゆとり,ゆとり,"room, leeway"
+JLPT2,じっと,じっと,"without moving, still"
+JLPT1,徒歩,とほ,"walking, going on foot"
+JLPT2,きっかけ,きっかけ,"chance, opportunity"
+JLPT1,休学,きゅうがく,"leave of absence, absence"
+JLPT1,交わる,まじわる,"associate with, socialize"
+JLPT2,行事,ぎょうじ,"event, function"
+JLPT2,帰す,かえす,"send home, see out"
+JLPT1,いやいや,いやいや,reluctantly
+JLPT4,門,もん,"gate, entrance"
+JLPT0,キリスト教,きりすときょう,Christianity
+JLPT0,やり方,やりかた,way of doing
+JLPT1,手軽,てがる,"easy, light"
+JLPT2,他人,たにん,"another person, stranger"
+JLPT2,下町,したまち,old part of town
+JLPT2,低下,ていか,"falling, lowering"
+JLPT2,語学,ごがく,language study
+JLPT2,初歩,しょほ,"first steps, beginning"
+JLPT1,強まる,つよまる,"become strong, gain strength"
+JLPT1,強める,つよめる,"strengthen, emphasize"
+JLPT1,費やす,ついやす,"expend, waste"
+JLPT0,火力,かりょく,"heating power, heat"
+JLPT1,弱まる,よわまる,"weaken, abate"
+JLPT1,弱める,よわめる,"weaken, lower"
+JLPT4,字引,じびき,dictionary
+JLPT0,引き受ける,ひきうける,undertake
+JLPT0,引き出す,ひきだす,"draw out, lure out"
+JLPT1,値引き,ねびき,discount
+JLPT2,引き止める,ひきとめる,"detain, keep"
+JLPT2,学習,がくしゅう,"study, learning"
+JLPT1,手本,てほん,"model, example"
+JLPT1,雨天,うてん,rainy weather
+JLPT0,入試,にゅうし,entrance examination
+JLPT2,受験,じゅけん,take an examination
+JLPT1,聞き取り,ききとり,"listening comprehension, dictation"
+JLPT2,質,しつ,"quality, nature"
+JLPT2,何か,なにか,"something, some"
+JLPT0,エイズ,エイズ,AIDS
+JLPT2,きちんと,きちんと,"properly, neatly"
+JLPT2,話題,わだい,topic of conversation
+JLPT2,解く,とく,solve
+JLPT2,多少,たしょう,"a little, somewhat"
+JLPT2,単語,たんご,word
+JLPT1,ルール,ルール,rule
+JLPT0,すらすら,すらすら,"unhesitantly, confidently"
+JLPT2,解ける,とける,"solve, resolve"
+JLPT2,明かり,あかり,light
+JLPT1,カンニング,カンニング,cheating
+JLPT2,満点,まんてん,"full marks, perfect score"
+JLPT3,点,てん,"point, issue"
+JLPT0,バツ,バツ,"cross, x-mark"
+JLPT2,商人,しょうにん,"merchant, trader"
+JLPT2,複数,ふくすう,plural
+JLPT2,単数,たんすう,singular
+JLPT1,後回し,あとまわし,"deferment, postponement"
+JLPT2,点数,てんすう,"points, score"
+JLPT2,回り道,まわりみち,"roundabout way, detour"
+JLPT1,個々,ここ,"individually, one at a time"
+JLPT2,ケース,ケース,case
+JLPT0,食パン,しょくぱん,"bread, loaf of bread"
+JLPT2,枚数,まいすう,number of flat things
+JLPT0,トースト,トースト,toast
+JLPT1,勝手,かって,"selfish, self-centered"
+JLPT2,負け,まけ,"defeat, loss"
+JLPT0,引き分け,ひきわけ,"draw, drawn game"
+JLPT1,負担,ふたん,"burden, charge"
+JLPT2,まさか,まさか,never in a million years
+JLPT2,日当たり,ひあたり,exposure to the sun
+JLPT0,のろい,のろい,"slow, sluggish"
+JLPT3,文法,ぶんぽう,grammar
+JLPT2,不規則,ふきそく,irregular
+JLPT2,プラス,プラス,"plus, advantage"
+JLPT2,年月,としつき,"time, years"
+JLPT2,済ませる,すませる,"finish off, get done with"
+JLPT0,大国,たいこく,"world power, large country"
+JLPT1,送金,そうきん,"money transfer, remittance"
+JLPT0,もうける,もうける,make a profit
+JLPT1,待ち遠しい,まちどおしい,"just can't wait for, long for"
+JLPT2,一時,いちじ,temporarily
+JLPT0,金利,きんり,"interest, interest rate"
+JLPT2,法則,ほうそく,"law, rule"
+JLPT2,利益,りえき,"profit, benefit"
+JLPT1,有益,ゆうえき,"beneficial, profitable"
+JLPT1,品質,ひんしつ,quality
+JLPT2,家屋,かおく,"house, building"
+JLPT0,少なくとも,すくなくとも,at least
+JLPT0,あらかじめ,あらかじめ,in advance
+JLPT2,見当,けんとう,"estimate, aim"
+JLPT2,入れ物,いれもの,"receptacle, container"
+JLPT2,要点,ようてん,"main point, gist"
+JLPT1,慣れ,なれ,"getting used to, habituation"
+JLPT1,値,あたい,"value, worth"
+JLPT2,品,しな,"article, item"
+JLPT2,会計,かいけい,"account, finance"
+JLPT2,計る,はかる,"compute, measure"
+JLPT2,合計,ごうけい,sum total
+JLPT2,差,さ,difference
+JLPT1,時差,じさ,time difference
+JLPT3,差し上げる,さしあげる,respectfully give
+JLPT2,一昨日,いっさくじつ,the day before yesterday
+JLPT2,まぶしい,まぶしい,"dazzling, glaring"
+JLPT0,日差し,ひざし,"rays of the sun, sunlight"
+JLPT2,物差し,ものさし,ruler
+JLPT0,学割,がくわり,student discount
+JLPT2,役割,やくわり,"role, part"
+JLPT0,割り当て,わりあて,"assignment, allotment"
+JLPT0,割り当てる,わりあてる,"assign, allot"
+JLPT0,割り引き,わりびき,"discount, reduction"
+JLPT0,割合に,わりあいに,"relatively, rather"
+JLPT2,残り,のこり,"remainder, leftover"
+JLPT2,もったいない,もったいない,"wasteful, a shame"
+JLPT2,支出,ししゅつ,"expenditure, disbursement"
+JLPT1,収支,しゅうし,earnings and expenses
+JLPT3,支度,したく,"arrangement, preparation"
+JLPT2,支払う,しはらう,pay
+JLPT0,支払い,しはらい,"payment, payout"
+JLPT2,料金,りょうきん,"charge, fee"
+JLPT0,めいめい,めいめい,"each, individual"
+JLPT0,払い,はらい,"payment, account"
+JLPT1,不良,ふりょう,"bad, defective"
+JLPT0,引き返す,ひきかえす,"turn back, retrace one's steps"
+JLPT1,借り,かり,"borrowing, debt"
+JLPT1,利子,りし,interest
+JLPT2,貸し出し,かしだし,"lending service, checking out"
+JLPT2,申請,しんせい,"application, petition"
+JLPT2,月末,げつまつ,end of the month
+JLPT0,ぎゅうぎゅう,ぎゅうぎゅう,"packed, crammed"
+JLPT0,年末,ねんまつ,end of year
+JLPT0,申し込み,もうしこみ,"application, proposal"
+JLPT0,割り込む,わりこむ,cut in
+JLPT2,人込み,ひとごみ,crowd
+JLPT0,前期,ぜんき,"previous term, last semester"
+JLPT2,短期,たんき,short-term
+JLPT2,期限,きげん,"time limit, term"
+JLPT2,限度,げんど,"limit, bounds"
+JLPT0,大急ぎ,おおいそぎ,in a great hurry
+JLPT2,区切る,くぎる,"punctuate, divide"
+JLPT2,生き物,いきもの,living creature
+JLPT2,作物,さくもつ,crop
+JLPT2,食物,しょくもつ,food
+JLPT2,一人一人,ひとりひとり,each and every person
+JLPT0,ぱいなっぷる,ぱいなっぷる,pineapple
+JLPT2,券,けん,"voucher, ticket"
+JLPT2,回数券,かいすうけん,book of tickets
+JLPT2,当日,とうじつ,that day
+JLPT0,前売り券,まえうりけん,advance ticket
+JLPT2,計,けい,total
+JLPT1,期日,きじつ,"date, due date"
+JLPT0,値上げ,ねあげ,price hike
+JLPT2,代金,だいきん,"charge, fee"
+JLPT2,指す,さす,"point to, aim at"
+JLPT2,小指,こゆび,"little finger, little toe"
+JLPT2,目指す,めざす,"aim for, have an eye on"
+JLPT2,氏,し,Mr.
+JLPT2,定価,ていか,fixed price
+JLPT0,割り引く,わりびく,"give a discount, make a reduction"
+JLPT2,定休日,ていきゅうび,regular holiday
+JLPT2,外出,がいしゅつ,outing
+JLPT0,打ち合わせる,うちあわせる,"arrange, discuss"
+JLPT2,予算,よさん,budget
+JLPT2,予報,よほう,"forecast, prediction"
+JLPT0,キャンセル,キャンセル,cancellation
+JLPT2,取り消す,とりけす,"cancel, nullify"
+JLPT2,せめて,せめて,at least
+JLPT2,束,たば,"bundle, counter for bundles"
+JLPT1,図る,はかる,"strive for, attempt"
+JLPT2,変更,へんこう,"alteration, change"
+JLPT0,夜更かし,よふかし,sitting up late at night
+JLPT0,急増,きゅうぞう,sudden increase
+JLPT2,増す,ます,"increase, augment"
+JLPT2,増大,ぞうだい,"increase, enlargement"
+JLPT0,年々,ねんねん,"year by year, annually"
+JLPT1,減少,げんしょう,"decrease, reduction"
+JLPT2,回数,かいすう,"frequency, number of times"
+JLPT2,増減,ぞうげん,"increase and decrease, rise and fall"
+JLPT2,量,りょう,"quantity, volume"
+JLPT0,乗車券,じょうしゃけん,"railway ticket, bus ticket"
+JLPT1,乗り込む,のりこむ,"board, march into"
+JLPT0,ラッシュ,ラッシュ,"rush, rush hour"
+JLPT2,各地,かくち,"every place, various parts"
+JLPT0,大雨,おおあめ,heavy rain
+JLPT2,今にも,いまにも,at any moment
+JLPT0,雨降り,あめふり,"rainfall, rainy weather"
+JLPT2,定員,ていいん,"fixed staff number, capacity"
+JLPT0,乗り降り,のりおり,getting on and off
+JLPT2,前後,ぜんご,"before and after, order"
+JLPT2,無事,ぶじ,"safely, peacefully"
+JLPT1,ほっと,ほっと,feel relieved
+JLPT0,年収,ねんしゅう,annual income
+JLPT2,アンテナ,アンテナ,antenna
+JLPT0,かえって,かえって,"on the contrary, rather"
+JLPT2,私立,しりつ,private
+JLPT0,役立つ,やくだつ,"be of use, serve a purpose"
+JLPT1,中立,ちゅうりつ,neutrality
+JLPT2,立ち止まる,たちどまる,"stop, halt"
+JLPT0,ろうそく,ろうそく,candle
+JLPT2,ストップ,ストップ,stop
+JLPT2,指定,してい,"designation, appointment"
+JLPT2,客席,きゃくせき,"seat, passenger seat"
+JLPT1,着席,ちゃくせき,taking a seat
+JLPT2,向かい,むかい,opposite side
+JLPT2,欠点,けってん,"weak point, defect"
+JLPT2,欠ける,かける,"be chipped, be missing"
+JLPT0,冬季,とうき,winter season
+JLPT1,取り次ぐ,とりつぐ,"relay a message, transfer a call"
+JLPT1,運営,うんえい,"operation, management"
+JLPT1,運賃,うんちん,passenger fare
+JLPT2,乗車,じょうしゃ,"boarding, getting on board"
+JLPT2,ボーイ,ボーイ,waiter
+JLPT0,よそ見,よそみ,look around
+JLPT0,春夏秋冬,しゅんかしゅうとう,"four seasons, all year round"
+JLPT2,移動,いどう,"movement, shift"
+JLPT2,青年,せいねん,"youth, young man"
+JLPT2,開会,かいかい,"opening, start a meeting"
+JLPT0,運動場,うんどうじょう,"playground, sports field"
+JLPT0,運動場,うんどうじょう,"playground, sports field"
+JLPT1,動向,どうこう,"trend, tendency"
+JLPT2,中止,ちゅうし,"suspension, stopping"
+JLPT1,動力,どうりょく,power
+JLPT1,本能,ほんのう,instinct
+JLPT1,理性,りせい,"reason, reasoning power"
+JLPT0,まねる,まねる,"imitate, mimic"
+JLPT0,業界,ぎょうかい,"industry, business world"
+JLPT0,上がる,あがる,be completed
+JLPT1,覚え,おぼえ,"recollection, memory"
+JLPT0,早まる,はやまる,"make a hasty decision, jump the gun"
+JLPT2,月日,つきひ,"time, days"
+JLPT2,出来るだけ,できるだけ,as much as possible
+JLPT2,高速,こうそく,high speed
+JLPT2,重なる,かさなる,"be piled up, come one after another"
+JLPT0,速達便,そくたつびん,"special delivery, express mail"
+JLPT0,残業,ざんぎょう,overtime
+JLPT0,ぐずぐず,ぐずぐず,"drag one's feet, waste time"
+JLPT2,勝負,しょうぶ,match
+JLPT2,学期,がっき,school term
+JLPT0,空き地,あきち,"unoccupied ground, vacant lot"
+JLPT0,ぎりぎり,ぎりぎり,"just in time, barely"
+JLPT2,大通り,おおどおり,main street
+JLPT2,明け方,あけがた,"dawn, near daybreak"
+JLPT1,生理,せいり,"period, menstruation"
+JLPT0,新学期,しんがっき,"new term, new semester"
+JLPT2,文明,ぶんめい,"civilization, culture"
+JLPT2,最終,さいしゅう,"last, final"
+JLPT2,終点,しゅうてん,"last stop, terminus"
+JLPT2,始終,しじゅう,"from beginning to end, at all times"
+JLPT0,終電,しゅうでん,last train
+JLPT2,会,かい,"meeting, association"
+JLPT3,なるべく,なるべく,"as...as possible, if possible"
+JLPT2,役目,やくめ,"duty, role"
+JLPT1,現地,げんち,"actual site, in the field"
+JLPT2,現場,げんば,"actual spot, job site"
+JLPT0,現住所,げんじゅうしょ,present address
+JLPT2,とにかく,とにかく,"in any case, anyway"
+JLPT2,実習,じっしゅう,"practice, training"
+JLPT1,受け止める,うけとめる,"catch, receive"
+JLPT2,生,せい,life
+JLPT2,のんびり,のんびり,take it easy
+JLPT1,データ,データ,data
+JLPT2,いよいよ,いよいよ,"finally, any moment"
+JLPT0,先に,さきに,"before, ahead"
+JLPT1,始発,しはつ,first departure
+JLPT1,遅らす,おくらす,"delay, put off"
+JLPT2,発売,はつばい,"sale, selling"
+JLPT2,鉄道,てつどう,railway
+JLPT0,発電所,はつでんしょ,"power plant, generating station"
+JLPT2,重大,じゅうだい,"important, serious"
+JLPT0,言い表わす,いいあらわす,"express, say"
+JLPT2,県,けん,prefecture
+JLPT2,下さる,くださる,"give, favor with"
+JLPT1,用紙,ようし,"blank form, stationery"
+JLPT2,表紙,ひょうし,"cover, binding"
+JLPT0,白紙,はくし,"blank sheet, clean slate"
+JLPT1,値する,あたいする,"be worth, deserve"
+JLPT0,絵本,えほん,picture book
+JLPT1,値打ち,ねうち,"value, worth"
+JLPT2,発行,はっこう,"publication, issue"
+JLPT2,スピーカー,スピーカー,speaker
+JLPT0,音読み,おんよみ,Chinese-derived kanji reading
+JLPT3,発音,はつおん,pronunciation
+JLPT2,物音,ものおと,"noise, sound"
+JLPT2,やかましい,やかましい,"noisy, clamorous"
+JLPT2,ヨット,ヨット,"sailboat, yacht"
+JLPT0,よほど,よほど,"very, by far"
+JLPT0,無制限,むせいげん,"unlimited, free"
+JLPT0,月見,つきみ,moon viewing
+JLPT0,わくわく,わくわく,feel excited
+JLPT0,ごくんと,ごくんと,in one gulp
+JLPT2,薬局,やっきょく,"drugstore, pharmacy"
+JLPT0,カラオケ,カラオケ,karaoke
+JLPT2,思い切り,おもいきり,"to one's heart's content, with all one's might"
+JLPT2,食欲,しょくよく,appetite
+JLPT1,欲,よく,"desire, greed"
+JLPT1,区画,くかく,"division, section"
+JLPT0,ウィークエンド,ウィークエンド,weekend
+JLPT0,当初,とうしょ,"original, initial"
+JLPT2,大体,だいたい,"outline, generally"
+JLPT0,画面,がめん,screen
+JLPT2,映る,うつる,"be reflected, appear"
+JLPT2,表面,ひょうめん,"surface, appearance"
+JLPT2,場面,ばめん,"scene, situation"
+JLPT2,出来事,できごと,"occurrence, incident"
+JLPT1,面する,めんする,face
+JLPT0,半面,はんめん,"profile, one side"
+JLPT0,割に,わりに,"comparatively, rather"
+JLPT1,ばかばかしい,ばかばかしい,"stupid, absurd"
+JLPT2,日時,にちじ,"date, time"
+JLPT0,出力,しゅつりょく,output
+JLPT1,真実,しんじつ,"truth, reality"
+JLPT0,真夏,まなつ,midsummer
+JLPT0,真っ最中,まっさいちゅう,midst
+JLPT0,無色,むしょく,"colorless, neutral"
+JLPT2,長方形,ちょうほうけい,rectangle
+JLPT1,地形,ちけい,"geographical features, topography"
+JLPT0,小型,こがた,small-sized
+JLPT2,型,かた,"type, mold"
+JLPT2,人種,じんしゅ,race
+JLPT2,種,たね,seed
+JLPT2,人類,じんるい,"mankind, humankind"
+JLPT2,早速,さっそく,immediately
+JLPT0,市役所,しやくしょ,"municipal office, city hall"
+JLPT2,書類,しょるい,"documents, papers"
+JLPT0,区役所,くやくしょ,ward office
+JLPT2,分類,ぶんるい,classification
+JLPT2,郵送,ゆうそう,mailing
+JLPT1,定食,ていしょく,"day's special, set menu"
+JLPT0,とじる,とじる,"bind, file"
+JLPT2,ともかく,ともかく,"at least, at any rate"
+JLPT0,やり直し,やりなおし,"doing over, redoing"
+JLPT0,やり直す,やりなおす,do over again
+JLPT2,直通,ちょくつう,direct link
+JLPT2,接近,せっきん,"approach, proximity"
+JLPT2,接する,せっする,"come in contact, adjoin"
+JLPT2,面接,めんせつ,interview
+JLPT1,無線,むせん,"radio, wireless"
+JLPT2,角度,かくど,angle
+JLPT0,南東,なんとう,southeast
+JLPT0,町角,まちかど,street corner
+JLPT2,テンポ,テンポ,"tempo, pace"
+JLPT2,直角,ちょっかく,right angle
+JLPT2,題,だい,"title, topic"
+JLPT2,熱する,ねっする,"heat, become hot"
+JLPT0,共通語,きょうつうご,"common language, lingua franca"
+JLPT2,共に,ともに,"together, both"
+JLPT2,夜明け,よあけ,"dawn, daybreak"
+JLPT2,共同,きょうどう,"joint, commonality"
+JLPT2,合同,ごうどう,"combination, joint"
+JLPT2,同一,どういつ,"sameness, identity"
+JLPT1,同情,どうじょう,"sympathy, compassion"
+JLPT2,アクセント,アクセント,"accent, stress"
+JLPT0,これまで,これまで,"until now, until here"
+JLPT2,それぞれ,それぞれ,"each, respective"
+JLPT3,タイプ,タイプ,type
+JLPT0,人違い,ひとちがい,mistaken identity
+JLPT2,違い,ちがい,"difference, mistake"
+JLPT2,日日,ひにち,"date, number of days"
+JLPT2,以降,いこう,hereafter
+JLPT2,税,ぜい,"tax, duty"
+JLPT0,セールスマン,セールスマン,"sales representative, salesperson"
+JLPT2,リットル,リットル,"liter, litre"
+JLPT1,ガイド,ガイド,guide
+JLPT0,ゴールデンウィーク,ゴールデンウィーク,golden week
+JLPT2,費用,ひよう,expenses
+JLPT0,始め,はじめ,"beginning, origin"
+JLPT1,旅客,りょかく,"traveler, passenger"
+JLPT0,海苔,のり,laver
+JLPT2,終える,おえる,"end, finish"
+JLPT2,大いに,おおいに,"very, greatly"
+JLPT1,気軽,きがる,"lighthearted, easy"
+JLPT1,済ます,すます,"settle, complete"
+JLPT0,生き生きと,いきいきと,"lively, vividly"
+JLPT2,交ざる,まざる,"mix, socialize with"
+JLPT0,和風,わふう,Japanese style
+JLPT0,和食,わしょく,Japanese-style food
+JLPT0,和らぐ,やわらぐ,"soften, calm down"
+JLPT0,和式,わしき,Japanese style
+JLPT1,洋風,ようふう,Western style
+JLPT0,洋画,ようが,foreign film
+JLPT0,洋食,ようしょく,"Western cooking, European dish"
+JLPT1,制服,せいふく,uniform
+JLPT2,上下,じょうげ,top and bottom
+JLPT2,やや,やや,"little, somewhat"
+JLPT2,ぴったり,ぴったり,"exactly right, perfect"
+JLPT0,びしょびしょ,びしょびしょ,soaked
+JLPT1,だぶだぶ,だぶだぶ,"baggy, too big"
+JLPT0,室内,しつない,indoors
+JLPT2,待合室,まちあいしつ,waiting room
+JLPT0,洋室,ようしつ,Western-style room
+JLPT1,水田,すいでん,"paddy field, rice field"
+JLPT1,ひび,ひび,crack
+JLPT3,済む,すむ,"be settled, complete"
+JLPT1,情熱,じょうねつ,"passion, enthusiasm"
+JLPT1,いびき,いびき,snoring
+JLPT2,大工,だいく,carpenter
+JLPT0,旅費,りょひ,traveling expenses
+JLPT2,よこす,よこす,"send, hand over"
+JLPT2,味わう,あじわう,"taste, appreciate"
+JLPT2,家事,かじ,"housework, domestic duties"
+JLPT2,便り,たより,"news, correspondence"
+JLPT3,電報,でんぽう,telegram
+JLPT0,長話,ながばなし,"long conversation, talk for a long time"
+JLPT2,味方,みかた,"friend, ally"
+JLPT3,親切,しんせつ,kindness
+JLPT3,下宿,げしゅく,"lodging, boarding house"
+JLPT0,キリスト,キリスト,"Christ, Christianity"
+JLPT3,似る,にる,"resemble, be alike"
+JLPT2,そっくり,そっくり,"identical, look alike"
+JLPT0,水族館,すいぞくかん,aquarium
+JLPT0,歳末,さいまつ,year end
+JLPT1,パパ,パパ,"dad, father"
+JLPT2,好み,このみ,"taste, preference"
+JLPT2,在学,ざいがく,attendance at school
+JLPT2,スタンド,スタンド,"table lamp, desk lamp"
+JLPT2,旅,たび,"journey, travel"
+JLPT2,姉妹,しまい,sisters
+JLPT0,父兄,ふけい,"parents, legal guardians"
+JLPT0,口げんか,くちげんか,quarrel
+JLPT0,第一,だいいち,"number one, the best"
+JLPT0,市立,しりつ,"municipal, city"
+JLPT0,まね,まね,"imitation, mimicry"
+JLPT2,休息,きゅうそく,"rest, break"
+JLPT0,読み書き,よみかき,reading and writing
+JLPT1,目下,もっか,"now, at present"
+JLPT1,左利き,ひだりきき,"left-handedness, left-hander"
+JLPT2,エネルギー,エネルギー,energy
+JLPT2,同時,どうじ,simultaneous
+JLPT0,次々に,つぎつぎに,"one after another, in succession"
+JLPT1,体力,たいりょく,physical strength
+JLPT0,歩行者天国,ほこうしゃてんごく,vehicle-free promenade
+JLPT2,者,もの,"person, fellow"
+JLPT2,活用,かつよう,"utilization, conjugation"
+JLPT2,行動,こうどう,"action, conduct"
+JLPT2,営業,えいぎょう,"business, sales"
+JLPT2,以前,いぜん,"before, ago"
+JLPT2,人物,じんぶつ,"character, person"
+JLPT2,人事,じんじ,"human affairs, personnel affairs"
+JLPT2,会員,かいいん,member
+JLPT1,世代,せだい,generation
+JLPT2,制限,せいげん,"restriction, limit"
+JLPT4,いつも,いつも,"always, usually"
+JLPT2,移転,いてん,"transfer, change of address"
+JLPT2,学者,がくしゃ,scholar
+JLPT2,以来,いらい,since
+JLPT2,作家,さっか,"writer, novelist"
+JLPT4,元気,げんき,"vigor, spirits"
+JLPT1,試みる,こころみる,"try, attempt"
+JLPT2,生まれ,うまれ,"birth, origin"
+JLPT4,クラス,クラス,"class, lesson"
+JLPT1,いかに,いかに,"how, in what way"
+JLPT1,ショック,ショック,"shock, surprise"
+JLPT2,ジャーナリスト,ジャーナリスト,journalist
+JLPT2,スタイル,スタイル,style
+JLPT1,個性,こせい,individuality
+JLPT2,局,きょく,"bureau, public service office"
+JLPT0,教員,きょういん,"teacher, teaching staff"
+JLPT0,生み出す,うみだす,"generate, produce"
+JLPT2,アイデア,アイデア,idea
+JLPT1,いかにも,いかにも,"indeed, as if"
+JLPT1,一見,いっけん,at a glance
+JLPT3,しっかり,しっかり,"mature, reliable"
+JLPT1,新人,しんじん,"newcomer, freshman"
+JLPT0,求人,きゅうじん,recruiting
+JLPT1,出産,しゅっさん,"birth, delivery"
+JLPT2,スター,スター,star
+JLPT1,アルコール,アルコール,"alcohol, alcoholic beverage"
+JLPT2,学年,がくねん,"school year, grade"
+JLPT2,弱点,じゃくてん,weak point
+JLPT1,工学,こうがく,engineering
+JLPT1,仕上げる,しあげる,"finish, complete"
+JLPT2,ステージ,ステージ,stage
+JLPT0,アドバイス,アドバイス,advice
+JLPT2,親友,しんゆう,close friend
+JLPT1,アマチュア,アマチュア,amateur
+JLPT1,生かす,いかす,"take advantage of, make use of"
+JLPT2,きつい,きつい,"severe, hard, strict"
+JLPT1,打ち込む,うちこむ,devote oneself
+JLPT0,後方,こうほう,"back, rear"
+JLPT2,英文,えいぶん,"English, English writing"
+JLPT2,さっぱり,さっぱり,"completely, not at all"
+JLPT1,元来,がんらい,"originally, essentially"
+JLPT1,出世,しゅっせ,"success, promotion"
+JLPT2,こっそり,こっそり,"stealthily, secretly"
+JLPT0,社会人,しゃかいじん,"member of society, working person"
+JLPT0,思いがけない,おもいがけない,"unexpected, accidental"
+JLPT2,せっせと,せっせと,"hard, diligently"
+JLPT0,気力,きりょく,"energy, vitality"
+JLPT2,いちいち,いちいち,"one by one, in detail"
+JLPT2,運,うん,"fortune, fate"
+JLPT0,利く,きく,"work, function"
+JLPT0,県立,けんりつ,prefectural
+JLPT3,オーバー,オーバー,exaggerate
+JLPT1,真理,しんり,truth
+JLPT2,クラシック,クラシック,"classical music, the classics"
+JLPT0,大げさ,おおげさ,exaggerate
+JLPT2,学部,がくぶ,"faculty, department"
+JLPT1,家出,いえで,running away from home
+JLPT2,生け花,いけばな,flower arrangement
+JLPT4,かかる,かかる,"catch, get"
+JLPT1,ジーパン,ジーパン,jeans
+JLPT2,担ぐ,かつぐ,"shoulder, carry"
+JLPT1,コマーシャル,コマーシャル,"commercial, advertising"
+JLPT0,最強,さいきょう,strongest
+JLPT0,アイドル,アイドル,"idol, pop singer"
+JLPT2,からかう,からかう,"make fun of, tease"
+JLPT2,貸し,かし,"loan, renting"
+JLPT2,末っ子,すえっこ,youngest child
+JLPT0,駅長,えきちょう,stationmaster
+JLPT1,おごる,おごる,treat
+JLPT0,ショッピング,ショッピング,shopping
+JLPT2,スマート,スマート,"sophisticated, skillful"
+JLPT0,聞き手,ききて,"listener, audience"
+JLPT0,サングラス,サングラス,sunglasses
+JLPT1,きっちり,きっちり,exactly
+JLPT0,言い返す,いいかえす,"talk back, retort"
+JLPT1,いやらしい,いやらしい,"disgusting, nasty"
+JLPT0,あぐら,あぐら,sit cross legged
+JLPT0,きっちん,きっちん,kitchen
+JLPT2,けち,けち,"stingy, miser"
+JLPT0,女らしい,おんならしい,"womanly, feminine"
+JLPT0,急用,きゅうよう,urgent business
+JLPT2,いらいら,いらいら,be irritated
+JLPT0,あいづち,あいづち,"responsive sounds, chiming in"
+JLPT2,現れ,あらわれ,"embodiment, manifestation"
+JLPT1,打ち消し,うちけし,"negation, denial"
+JLPT0,あだな,あだな,nickname
+JLPT0,行き来,いきき,"comings and goings, communication"
+JLPT0,いつのまに,いつのまに,when
+JLPT0,上下,うえした,above and below
+JLPT1,うつむく,うつむく,face downward
+JLPT1,おだてる,おだてる,flatter
+JLPT0,がぶがぶ,がぶがぶ,(the sound of) guzzling
+JLPT2,借金,しゃっきん,"borrowing money, debt"
+JLPT2,ただ,ただ,"simply, merely"
+JLPT0,入力,にゅうりょく,"input, power input"
+JLPT2,母親,ははおや,mother
+JLPT2,発つ,たつ,"start, leave"
+JLPT2,様子,ようす,"appearance, aspect"
+JLPT2,友人,ゆうじん,friend
+JLPT2,父親,ちちおや,father
+JLPT2,不満,ふまん,"dissatisfaction, discontent"
+JLPT2,チーム,チーム,team
+JLPT1,ビジネス,ビジネス,business
+JLPT2,直前,ちょくぜん,"just before, immediately prior"
+JLPT2,知事,ちじ,governor
+JLPT2,まるで,まるで,"just like, completely"
+JLPT2,年代,ねんだい,"age, date"
+JLPT2,都心,としん,heart of a city
+JLPT2,熱心,ねっしん,"enthusiasm, zeal"
+JLPT1,ファン,ファン,"fan, lover"
+JLPT2,大使,たいし,ambassador
+JLPT0,長年,ながねん,"many years, long time"
+JLPT2,見直す,みなおす,"reconsider, change one's opinion for the better"
+JLPT2,都会,とかい,"city, town"
+JLPT2,半ば,なかば,"middle, halfway"
+JLPT0,買収,ばいしゅう,"buying up, bribing"
+JLPT2,プロ,プロ,"pro, professional"
+JLPT2,入社,にゅうしゃ,entering a company
+JLPT2,取り入れる,とりいれる,"take in, adopt"
+JLPT2,外す,はずす,remove
+JLPT2,立ち上がる,たちあがる,"stand up, take action"
+JLPT2,中世,ちゅうせい,Middle Ages
+JLPT2,見事,みごと,"splendid, admirable"
+JLPT3,なかなか,なかなか,"rather, pretty"
+JLPT0,日ごろ,ひごろ,"routinely, daily"
+JLPT2,パイロット,パイロット,pilot
+JLPT2,出入り,でいり,coming and going
+JLPT2,ベテラン,ベテラン,veteran
+JLPT2,不利,ふり,disadvantage
+JLPT1,本質,ほんしつ,"essence, reality"
+JLPT0,ペース,ペース,pace
+JLPT2,マラソン,マラソン,marathon
+JLPT1,本国,ほんごく,one's native country
+JLPT2,トレーニング,トレーニング,"training, workout"
+JLPT2,方言,ほうげん,dialect
+JLPT0,当分,とうぶん,"for some time, for the present"
+JLPT2,プラン,プラン,plan
+JLPT2,マイク,マイク,"mic, microphone"
+JLPT0,引き取る,ひきとる,"take over, take custody"
+JLPT2,ぼんやり,ぼんやり,"vaguely, absent-mindedly"
+JLPT2,東洋,とうよう,Orient
+JLPT2,交じる,まじる,"be mingled, be mixed"
+JLPT2,試す,ためす,"try, test"
+JLPT2,方角,ほうがく,direction
+JLPT0,法学部,ほうがくぶ,law department
+JLPT0,ゆったり,ゆったり,comfortable
+JLPT2,見出し,みだし,"headline, heading"
+JLPT2,ユーモア,ユーモア,humor
+JLPT1,無口,むくち,"not speaking much, reticence"
+JLPT1,タレント,タレント,"celebrity, talent"
+JLPT3,たまに,たまに,"occasionally, by chance"
+JLPT2,和服,わふく,"Japanese clothes, kimono"
+JLPT1,内心,ないしん,"back of one's mind, one's real intention"
+JLPT2,有能,ゆうのう,"able, competent"
+JLPT1,体格,たいかく,"physique, build"
+JLPT2,わざと,わざと,on purpose
+JLPT2,とっくに,とっくに,long ago
+JLPT2,ワンピース,ワンピース,dress
+JLPT0,作り上げる,つくりあげる,"make up, build up"
+JLPT0,度々,たびたび,often
+JLPT0,プライド,プライド,pride
+JLPT0,一口,ひとくち,"mouthful, bite"
+JLPT4,まずい,まずい,"bad, no good"
+JLPT2,短所,たんしょ,"shortcoming, defect"
+JLPT1,飲み込む,のみこむ,"swallow, grasp"
+JLPT1,生やす,はやす,"grow, cultivate"
+JLPT0,文学者,ぶんがくしゃ,"literary person, literati"
+JLPT0,弱気,よわき,"timid, weak-spirited"
+JLPT0,ぱっと,ぱっと,"suddenly, quickly"
+JLPT1,必然,ひつぜん,"inevitable, necessary"
+JLPT0,ひょっとしたら,ひょっとしたら,perhaps
+JLPT0,見つめる,みつめる,stare
+JLPT2,目上,めうえ,"one's superiors, one's elders"
+JLPT1,年長,ねんちょう,seniority
+JLPT1,見習う,みならう,"learn, follow someone's example"
+JLPT1,無能,むのう,"inefficiency, incompetence"
+JLPT2,パンツ,パンツ,"pants, trousers"
+JLPT0,真夜中,まよなか,"midnight, middle of the night"
+JLPT2,似合う,にあう,"suit, match well"
+JLPT0,洋式,ようしき,Western style
+JLPT2,若々しい,わかわかしい,"youthful, young-looking"
+JLPT1,短気,たんき,short temper
+JLPT0,取り返す,とりかえす,"take back, regain"
+JLPT1,和やか,なごやか,"peaceful, mild"
+JLPT0,似せる,にせる,"imitate, forge"
+JLPT2,にっこり,にっこり,"smiling, grinning"
+JLPT2,待ち合わせる,まちあわせる,"wait for, meet by appointment"
+JLPT2,何で,なんで,"why, what for"
+JLPT0,値切る,ねぎる,"bargain, haggle"
+JLPT2,元々,もともと,"originally, by nature"
+JLPT1,指差す,ゆびさす,point to
+JLPT1,とっさに,とっさに,at once
+JLPT0,割り,わり,rate
+JLPT2,売買,ばいばい,"buying and selling, trade"
+JLPT0,町外れ,まちはずれ,outskirts of a town
+JLPT0,洋間,ようま,Western-style room
+JLPT1,ミュージック,ミュージック,music
+JLPT1,ロマンチック,ロマンチック,romantic
+JLPT0,短期大学,たんきだいがく,junior college
+JLPT0,月初め,つきはじめ,at the beginning of the month
+JLPT1,度忘れ,どわすれ,"memory lapse, mental block"
+JLPT0,にやにや,にやにや,grin to oneself
+JLPT0,真四角,ましかく,square
+JLPT0,物覚え,ものおぼえ,memory
+JLPT0,その内,そのうち,"before long, sooner or later"
+JLPT2,知人,ちじん,"acquaintance, friend"
+JLPT0,つぶやく,つぶやく,"mutter, murmur"
+JLPT2,強気,つよき,"tough, bullish"
+JLPT2,出会う,であう,meet
+JLPT0,低,てい,low
+JLPT0,何しろ,なにしろ,"anyhow, as you know"
+JLPT2,生,なま,"raw, fresh"
+JLPT0,にらむ,にらむ,"glare, stare"
+JLPT2,能,のう,"ability, capability"
+JLPT0,のんき,のんき,"carefree, easy-going"
+JLPT0,はねる,はねる,"run over, hit"
+JLPT0,ばら色,ばらいろ,rose color
+JLPT0,ふもと,ふもと,foot of the mountain
+JLPT0,ほほ,ほほ,cheek
+JLPT0,ほほえむ,ほほえむ,smile
+JLPT1,真心,まごころ,"sincerity, true heart"
+JLPT0,町中,まちなか,"the downtown area, the central area of a town"
+JLPT0,まれ,まれ,rarely
+JLPT1,無言,むごん,"silence, muteness"
+JLPT0,めくる,めくる,turn over
+JLPT0,もうかる,もうかる,"make a profit, be profitable"
+JLPT2,最も,もっとも,the most
+JLPT2,行方,ゆくえ,one's whereabouts
+JLPT1,予言,よげん,"prediction, forecast"
+JLPT2,悪口,わるくち,"slander, abuse"
+JLPT0,もうじき,もうじき,soon
+JLPT2,やたらに,やたらに,"frequently, persistently"
+JLPT2,結局,けっきょく,"after all, finally"
+JLPT2,友情,ゆうじょう,friendship
+JLPT1,結び,むすび,"end, close"
+JLPT2,婚約,こんやく,"engagement, betrothal"
+JLPT0,何と,なんと,"what, how"
+JLPT3,ちっとも,ちっとも,nothing at all
+JLPT1,未婚,みこん,unmarried
+JLPT0,この度,このたび,on this occasion
+JLPT2,一種,いっしゅ,"a kind of, a sort of"
+JLPT2,最高,さいこう,"maximum, supreme"
+JLPT3,試合,しあい,"match, game"
+JLPT2,満足,まんぞく,"satisfaction, contentment"
+JLPT0,果たして,はたして,"as was expected, really"
+JLPT3,申し上げる,もうしあげる,"speak humbly, do"
+JLPT0,早朝,そうちょう,early morning
+JLPT2,効く,きく,be effective
+JLPT2,効力,こうりょく,"effect, validity"
+JLPT1,無効,むこう,"invalidity, ineffectiveness"
+JLPT2,自動,じどう,automatic operation
+JLPT0,自国,じこく,one's own country
+JLPT0,生き方,いきかた,"way of life, lifestyle"
+JLPT2,各自,かくじ,"each one, every individual"
+JLPT2,高める,たかめる,"raise, enhance"
+JLPT1,パンク,パンク,puncture
+JLPT2,経由,けいゆ,"via, through"
+JLPT2,信用,しんよう,"trust, credit"
+JLPT0,お前,おまえ,"you, darling"
+JLPT2,発達,はったつ,"development, growth"
+JLPT2,通信,つうしん,"correspondence, communication"
+JLPT2,信頼,しんらい,"reliance, confidence"
+JLPT2,依頼,いらい,"request, commission"
+JLPT2,頼る,たよる,"rely on, depend on"
+JLPT0,頼み,たのみ,"request, favor"
+JLPT2,頼もしい,たのもしい,"reliable, dependable"
+JLPT2,国民,こくみん,"the people, nation"
+JLPT2,主要,しゅよう,"main, principal"
+JLPT2,主に,おもに,"mainly, mostly"
+JLPT1,主食,しゅしょく,staple food
+JLPT0,主,おも,"main, chief"
+JLPT0,使い,つかい,errand
+JLPT2,家主,やぬし,landlord
+JLPT2,主義,しゅぎ,"principle, -ism"
+JLPT0,共産主義,きょうさんしゅぎ,Communism
+JLPT1,義理,ぎり,"sense of duty, justice"
+JLPT0,民主,みんしゅ,democracy
+JLPT2,議会,ぎかい,"assembly, council"
+JLPT1,議題,ぎだい,"topic for discussion, agenda"
+JLPT0,初日,しょにち,"first day, opening day"
+JLPT0,次回,じかい,next time
+JLPT2,重役,じゅうやく,executive
+JLPT0,本社,ほんしゃ,head office
+JLPT2,不思議,ふしぎ,"mystery, wonder"
+JLPT0,つい,つい,"inadvertently, accidentally"
+JLPT0,明日,みょうにち,tomorrow
+JLPT2,長引く,ながびく,"be prolonged, drag on"
+JLPT0,明朝,みょうちょう,tomorrow morning
+JLPT2,議論,ぎろん,"argument, discussion"
+JLPT2,結論,けつろん,conclusion
+JLPT2,学会,がっかい,"academic association, academic conference"
+JLPT0,仕上げ,しあげ,"completion, finishing"
+JLPT2,引用,いんよう,"quotation, citation"
+JLPT2,下書き,したがき,draft
+JLPT1,世論,せろん,public opinion
+JLPT1,理論,りろん,theory
+JLPT0,まとめ,まとめ,summary
+JLPT2,違反,いはん,"violation, breach"
+JLPT1,反発,はんぱつ,"reaction, backlash"
+JLPT0,反論,はんろん,"objection, counterargument"
+JLPT1,反する,はんする,"oppose, act contrary to"
+JLPT0,少数,しょうすう,"small number, minority"
+JLPT1,対話,たいわ,"dialogue, conversation"
+JLPT1,対,つい,pair
+JLPT1,世論,よろん,public opinion
+JLPT2,応用,おうよう,application
+JLPT2,一応,いちおう,tentatively
+JLPT2,回答,かいとう,"reply, answer"
+JLPT2,インタビュー,インタビュー,interview
+JLPT1,アンケート,アンケート,questionnaire
+JLPT1,ごまかす,ごまかす,"deceive, evade"
+JLPT0,行,ぎょう,"line, row"
+JLPT1,本文,ほんぶん,"text, this text"
+JLPT2,問い,とい,"question, inquiry"
+JLPT4,まずい,まずい,"problematic, troublesome"
+JLPT2,特色,とくしょく,characteristic
+JLPT2,区別,くべつ,"distinction, classification"
+JLPT2,差別,さべつ,discrimination
+JLPT2,性別,せいべつ,"sex, gender"
+JLPT2,性,せい,"sex, nature"
+JLPT2,別に,べつに,"especially, particularly"
+JLPT0,送別会,そうべつかい,farewell party
+JLPT3,専門,せんもん,"specialty, profession"
+JLPT0,ファッション,ファッション,fashion
+JLPT0,外来語,がいらいご,"loanword, foreign word"
+JLPT2,実用,じつよう,"practical use, utility"
+JLPT0,経済的,けいざいてき,"economical, economic"
+JLPT2,才能,さいのう,"talent, ability"
+JLPT0,自主的,じしゅてき,"autonomous, voluntary"
+JLPT0,合理的,ごうりてき,"rational, logical"
+JLPT0,形式的,けいしきてき,formal
+JLPT0,実用的,じつようてき,practical
+JLPT0,本格的,ほんかくてき,"full-scale, authentic"
+JLPT0,全面的,ぜんめんてき,"all-out, overall"
+JLPT0,論理的,ろんりてき,logical
+JLPT1,知的,ちてき,"intellectual, mental"
+JLPT0,目的地,もくてきち,"destination, goal"
+JLPT0,文化的,ぶんかてき,cultural
+JLPT2,通り過ぎる,とおりすぎる,"go past, pass"
+JLPT0,男性的,だんせいてき,"masculine, manly"
+JLPT2,普段,ふだん,"usual, ordinary"
+JLPT3,なさる,なさる,do
+JLPT0,並み,なみ,"ordinary, average"
+JLPT2,男子,だんし,"boy, young man"
+JLPT1,もたらす,もたらす,"bring about, lead to"
+JLPT0,平面,へいめん,"level surface, plain"
+JLPT0,平行,へいこう,"parallel, side by side"
+JLPT2,平野,へいや,"plain, open field"
+JLPT2,平日,へいじつ,weekday
+JLPT3,以下,いか,below
+JLPT2,平均,へいきん,"average, equilibrium"
+JLPT2,高等,こうとう,"higher, high-grade"
+JLPT2,上等,じょうとう,"first-class, premium"
+JLPT1,同等,どうとう,equality
+JLPT1,対等,たいとう,"equality, parity"
+JLPT1,ストレス,ストレス,stress
+JLPT1,特有,とくゆう,"characteristic, special"
+JLPT0,病室,びょうしつ,"patient room, ward"
+JLPT0,病人,びょうにん,"sick person, patient"
+JLPT1,弱る,よわる,"weaken, be debilitated"
+JLPT2,サイン,サイン,"signature, autograph"
+JLPT0,イスラム教,イスラムきょう,"Islam, Muslim religion"
+JLPT0,都立,とりつ,"metropolitan, Tokyo metropolitan"
+JLPT3,医学,いがく,"medical science, medicine"
+JLPT2,生える,はえる,"grow, spring up"
+JLPT0,科学者,かがくしゃ,scientist
+JLPT2,科目,かもく,subject
+JLPT2,自然科学,しぜんかがく,natural science
+JLPT0,思い,おもい,"thoughts, feelings"
+JLPT0,死者,ししゃ,"dead person, the deceased"
+JLPT1,生死,せいし,life and death
+JLPT0,病死,びょうし,death from sickness
+JLPT1,天国,てんごく,paradise
+JLPT2,死亡,しぼう,death
+JLPT2,亡くす,なくす,lose (in death)
+JLPT0,人手,ひとで,"hand, manpower"
+JLPT1,多忙,たぼう,very busy
+JLPT0,知らず知らず,しらずしらず,"unawares, without knowing it"
+JLPT2,疲れ,つかれ,"fatigue, exhaustion"
+JLPT1,休める,やすめる,"give a rest, set at ease"
+JLPT0,目薬,めぐすり,eye drops
+JLPT1,禁じる,きんじる,"prohibit, forbid"
+JLPT0,立ち入り禁止,たちいりきんし,no trespassing
+JLPT0,酒屋,さかや,liquor store
+JLPT0,禁酒,きんしゅ,abstention from alcohol
+JLPT0,つぐ,つぐ,"pour, pour into"
+JLPT2,土産,みやげ,souvenir
+JLPT2,酔う,よう,get drunk
+JLPT3,会場,かいじょう,"venue, meeting place"
+JLPT2,取り上げる,とりあげる,"take up, confiscate"
+JLPT2,険しい,けわしい,"steep, craggy"
+JLPT1,保つ,たもつ,"preserve, sustain"
+JLPT2,万一,まんいち,if by any chance
+JLPT1,問い合わせる,といあわせる,"inquire, contact"
+JLPT2,保証,ほしょう,"guarantee, warranty"
+JLPT0,保証人,ほしょうにん,guarantor
+JLPT2,生存,せいぞん,"existence, survival"
+JLPT3,ご存じ,ごぞんじ,know
+JLPT2,保存,ほぞん,"preservation, conservation"
+JLPT0,低温,ていおん,low temperature
+JLPT2,存じる,ぞんじる,"think, know"
+JLPT0,カタログ,カタログ,catalogue
+JLPT2,注ぐ,そそぐ,"pour into, concentrate"
+JLPT1,受け入れる,うけいれる,"accept, accommodate"
+JLPT1,意向,いこう,"intention, inclination"
+JLPT1,意図,いと,"intention, aim"
+JLPT2,意義,いぎ,"meaning, significance"
+JLPT1,活発,かっぱつ,"lively, active"
+JLPT1,好意,こうい,"favor, affection"
+JLPT2,意地悪,いじわる,"nastiness, ill-natured person"
+JLPT0,もっとも,もっとも,quite right
+JLPT0,まとまる,まとまる,be collected
+JLPT1,同意,どうい,"consent, approval"
+JLPT1,無意味,むいみ,"meaningless, absurd"
+JLPT1,当人,とうにん,the person in question
+JLPT2,生意気,なまいき,"cheeky, conceited"
+JLPT2,面,めん,"surface, aspect"
+JLPT2,文,ぶん,"writings, sentence"
+JLPT2,金額,きんがく,"amount of money, sum"
+JLPT1,確定,かくてい,"decision, confirmation"
+JLPT2,解答,かいとう,"solution, answer"
+JLPT0,認可,にんか,"approval, authorization"
+JLPT2,認める,みとめる,"recognize, acknowledge"
+JLPT1,効率,こうりつ,efficiency
+JLPT2,確率,かくりつ,"probability, rate"
+JLPT1,軽率,けいそつ,"rash, light-headed"
+JLPT0,率直,そっちょく,"frank, openhearted"
+JLPT2,能率,のうりつ,efficiency
+JLPT3,機会,きかい,"opportunity, occasion"
+JLPT1,親しむ,したしむ,"get close to, get familiar with"
+JLPT0,時機,じき,"opportunity, chance"
+JLPT0,持ち込む,もちこむ,"bring in, carry on"
+JLPT2,要するに,ようするに,"in a word, in short"
+JLPT0,制御,せいぎょ,"control, command"
+JLPT1,内部,ないぶ,"interior, inner parts"
+JLPT2,分解,ぶんかい,taking apart
+JLPT2,楽器,がっき,musical instrument
+JLPT2,食器,しょっき,"tableware, dinner set"
+JLPT2,器用,きよう,"skillful, clever"
+JLPT2,受話器,じゅわき,receiver
+JLPT1,器,うつわ,"vessel, dish"
+JLPT2,器械,きかい,"instrument, apparatus"
+JLPT1,取材,しゅざい,"collection of data, gathering of news"
+JLPT3,具合,ぐあい,"condition, health"
+JLPT2,家具,かぐ,furniture
+JLPT1,雨具,あまぐ,"rain gear, rainwear"
+JLPT2,乗客,じょうきゃく,passenger
+JLPT1,論理,ろんり,logic
+JLPT1,準急,じゅんきゅう,local express
+JLPT1,設立,せつりつ,"establishment, foundation"
+JLPT2,器具,きぐ,"utensil, implement"
+JLPT2,使用,しよう,usage
+JLPT2,社説,しゃせつ,editorial
+JLPT2,実物,じつぶつ,"real thing, actual object"
+JLPT1,学説,がくせつ,theory
+JLPT1,手元,てもと,at hand
+JLPT2,一通り,ひととおり,"briefly, once over"
+JLPT1,公立,こうりつ,public
+JLPT2,モデル,モデル,model
+JLPT0,不公平,ふこうへい,"unfair, unjust"
+JLPT2,やっつける,やっつける,"beat, let someone have it"
+JLPT2,死体,したい,"corpse, body"
+JLPT2,遠足,えんそく,"excursion, hike"
+JLPT2,遊園地,ゆうえんち,amusement park
+JLPT2,ベンチ,ベンチ,bench
+JLPT0,人出,ひとで,"turnout, crowd"
+JLPT0,打ち上げる,うちあげる,shoot up
+JLPT2,祭日,さいじつ,"national holiday, festival day"
+JLPT0,国際的,こくさいてき,international
+JLPT0,国際化,こくさいか,internationalization
+JLPT2,交際,こうさい,"association, friendship"
+JLPT2,際,さい,"occasion, time"
+JLPT2,座席,ざせき,seat
+JLPT2,飛び出す,とびだす,"fly out, dash out"
+JLPT2,ヘリコプター,ヘリコプター,helicopter
+JLPT2,飛ばす,とばす,"fly, shoot"
+JLPT0,飛び上がる,とびあがる,"fly up, jump up"
+JLPT0,つばめ,つばめ,swallow
+JLPT0,はえ,はえ,fly
+JLPT2,飛行,ひこう,"flight, aviation"
+JLPT0,よける,よける,"avoid, evade"
+JLPT0,ぴょんと,ぴょんと,jump
+JLPT2,航空,こうくう,aviation
+JLPT0,航空機,こうくうき,"aircraft, airplane"
+JLPT0,航空券,こうくうけん,airline ticket
+JLPT2,材木,ざいもく,"timber, wood"
+JLPT0,乗り出す,のりだす,"lean forward, embark on"
+JLPT0,船長,せんちょう,captain
+JLPT0,水力,すいりょく,"waterpower, hydraulic power"
+JLPT2,半島,はんとう,peninsula
+JLPT0,島,とう,island
+JLPT2,完全,かんぜん,"perfect, complete"
+JLPT0,不完全,ふかんぜん,"imperfection, incompleteness"
+JLPT1,結成,けっせい,"organization, formation"
+JLPT2,賛成,さんせい,"approval, agreement"
+JLPT2,成人,せいじん,"adult, grownup"
+JLPT2,反映,はんえい,reflection
+JLPT1,要する,ようする,"require, need"
+JLPT1,無論,むろん,"of course, no doubt"
+JLPT0,未成年,みせいねん,"minor, underage"
+JLPT1,確信,かくしん,"firm belief, conviction"
+JLPT2,率,りつ,"ratio, proportion"
+JLPT2,違いない,ちがいない,"no mistaking it, for certain"
+JLPT2,森林,しんりん,"forest, woodland"
+JLPT3,失敗,しっぱい,"failure, mistake"
+JLPT0,せい,せい,"cause, fault"
+JLPT2,勝敗,しょうはい,victory or defeat
+JLPT1,事業,じぎょう,"business, achievement"
+JLPT0,立ち直る,たちなおる,"recover, regain one's footing"
+JLPT1,原則,げんそく,"principle, general rule"
+JLPT2,過ごす,すごす,"pass, let pass"
+JLPT2,スライド,スライド,slide
+JLPT2,原理,げんり,"principle, theory"
+JLPT0,原子力,げんしりょく,"atomic energy, nuclear power"
+JLPT0,初夏,しょか,early summer
+JLPT0,返る,かえる,"be restored to, return to"
+JLPT0,野原,のはら,"field, plain"
+JLPT2,原,はら,"plain, field"
+JLPT2,間接,かんせつ,indirect
+JLPT1,要因,よういん,"primary factor, main cause"
+JLPT1,不明,ふめい,unknown
+JLPT0,証券,しょうけん,"bill, bond"
+JLPT2,資料,しりょう,"materials, data"
+JLPT1,資格,しかく,"qualifications, competence"
+JLPT0,資本主義,しほんしゅぎ,capitalism
+JLPT1,ミスプリント,ミスプリント,"misprint, error"
+JLPT2,限り,かぎり,"limit, as far as possible"
+JLPT2,無限,むげん,"infinite, endless"
+JLPT2,現金,げんきん,cash
+JLPT2,一生,いっしょう,a lifetime
+JLPT1,願書,がんしょ,application form
+JLPT2,何とか,なんとか,"somehow or other, one way or another"
+JLPT2,願い,ねがい,"wish, request"
+JLPT1,手数,てすう,"trouble, bother"
+JLPT2,一言,ひとこと,single word
+JLPT2,説,せつ,"theory, opinion"
+JLPT2,後者,こうしゃ,the latter
+JLPT2,正面,しょうめん,"front, face"
+JLPT2,正午,しょうご,"noon, noontime"
+JLPT1,正義,せいぎ,"justice, righteousness"
+JLPT2,正門,せいもん,"main gate, main entrance"
+JLPT1,正解,せいかい,"right answer, correct solution"
+JLPT2,正方形,せいほうけい,square
+JLPT0,正座,せいざ,sitting upright with legs folded under one
+JLPT1,正当,せいとう,"just, legal"
+JLPT2,不正,ふせい,"fraud, impropriety"
+JLPT0,同性,どうせい,of the same sex
+JLPT2,異常,いじょう,"extraordinary, exceptional"
+JLPT2,日常,にちじょう,"daily, everyday"
+JLPT2,意識,いしき,"consciousness, awareness"
+JLPT2,常識,じょうしき,"common sense, common knowledge"
+JLPT1,異性,いせい,opposite sex
+JLPT2,等しい,ひとしい,"equal, same"
+JLPT0,非常識,ひじょうしき,lack of common sense
+JLPT0,非常口,ひじょうぐち,emergency exit
+JLPT1,もてる,もてる,be popular with the opposite sex
+JLPT2,エンジン,エンジン,engine
+JLPT1,好調,こうちょう,favorable condition
+JLPT1,下調べ,したしらべ,"preliminary investigation, preparation"
+JLPT0,ネットワーク,ネットワーク,network
+JLPT4,どうも,どうも,"for some reason, somehow"
+JLPT2,調子,ちょうし,"tone, condition"
+JLPT0,不安定,ふあんてい,instability
+JLPT0,体調,たいちょう,health condition
+JLPT1,単調,たんちょう,"monotonous, dull"
+JLPT2,メーター,メーター,"meter, taximeter"
+JLPT2,整備,せいび,"maintenance, servicing"
+JLPT2,整理,せいり,"disposition, arrangement"
+JLPT2,調整,ちょうせい,"regulation, adjustment"
+JLPT2,整う,ととのう,"be in order, be adjusted"
+JLPT1,経費,けいひ,expense
+JLPT2,節約,せつやく,"economizing, saving"
+JLPT0,行楽,こうらく,"excursion, outing"
+JLPT2,調節,ちょうせつ,"adjustment, regulation"
+JLPT2,田,た,"rice field, rice paddy"
+JLPT2,検査,けんさ,"inspection, examination"
+JLPT2,不安,ふあん,"uneasiness, anxiety"
+JLPT1,大便,だいべん,"stool, feces"
+JLPT2,提出,ていしゅつ,submittal
+JLPT2,案,あん,"plan, proposal"
+JLPT2,案外,あんがい,unexpectedly
+JLPT2,うなずく,うなずく,nod
+JLPT1,反応,はんのう,"reaction, response"
+JLPT2,投票,とうひょう,"vote, ballot"
+JLPT2,役所,やくしょ,public office
+JLPT2,目標,もくひょう,"target, goal"
+JLPT2,標準,ひょうじゅん,"standard, norm"
+JLPT1,達成,たっせい,"attain, achieve"
+JLPT2,明確,めいかく,"clear, precise"
+JLPT0,本年,ほんねん,this year
+JLPT1,国連,こくれん,United Nations
+JLPT1,連休,れんきゅう,consecutive holidays
+JLPT2,連れ,つれ,companion
+JLPT2,次第,しだい,as soon as
+JLPT3,連絡,れんらく,"connection, communication"
+JLPT2,方々,ほうぼう,"everyone, all people"
+JLPT1,前もって,まえもって,in advance
+JLPT2,父母,ふぼ,"father and mother, parents"
+JLPT2,接続,せつぞく,"connection, joining"
+JLPT0,前回,ぜんかい,last time
+JLPT2,更に,さらに,"furthermore, still more"
+JLPT2,市,し,city
+JLPT0,地価,ちか,price of land
+JLPT2,手続き,てつづき,"procedure, formalities"
+JLPT2,続々,ぞくぞく,"in rapid succession, one after another"
+JLPT2,続き,つづき,"continuation, sequel"
+JLPT0,長続き,ながつづき,lasting for a long time
+JLPT0,相変わらず,あいかわらず,"as usual, as before"
+JLPT2,相当,そうとう,"correspondence, suitability"
+JLPT0,前半,ぜんはん,first half
+JLPT0,思い切って,おもいきって,"boldly, decisively"
+JLPT0,部長,ぶちょう,"section chief, department head"
+JLPT0,日ソ,にっそ,Japanese-Soviet
+JLPT2,記号,きごう,"symbol, mark"
+JLPT2,記入,きにゅう,"entry, record"
+JLPT2,生年月日,せいねんがっぴ,date of birth
+JLPT2,暗記,あんき,memorization
+JLPT0,月日,がっぴ,date
+JLPT1,経る,へる,"pass, pass through"
+JLPT0,必死に,ひっしに,desperately
+JLPT2,記憶,きおく,"memory, recollection"
+JLPT0,不確か,ふたしか,"unreliable, uncertain"
+JLPT2,最低,さいてい,lowest
+JLPT0,録音テープ,ろくおんテープ,tape
+JLPT1,マスコミ,マスコミ,mass communication
+JLPT2,登山,とざん,"climbing, mountaineer"
+JLPT1,登校,とうこう,attending school
+JLPT0,山登り,やまのぼり,mountain climbing
+JLPT1,定める,さだめる,"fix, determine"
+JLPT2,社会科学,しゃかいかがく,social sciences
+JLPT2,機関,きかん,"engine, agency"
+JLPT1,一切,いっさい,"not at all, not one bit"
+JLPT2,係,かかり,person in charge
+JLPT2,現状,げんじょう,present condition
+JLPT2,ますます,ますます,increasingly
+JLPT1,実態,じったい,"the actual situation, the realities"
+JLPT2,態度,たいど,"attitude, manner"
+JLPT2,非常,ひじょう,"emergency, calamity"
+JLPT0,不自然,ふしぜん,"unnatural, artificial"
+JLPT1,行政,ぎょうせい,administration
+JLPT2,関心,かんしん,"concern, interest"
+JLPT0,政治家,せいじか,politician
+JLPT1,主体,しゅたい,"agent, main constituent"
+JLPT1,人民,じんみん,"the people, populace"
+JLPT2,体制,たいせい,"system, structure"
+JLPT0,無関心,むかんしん,"apathy, indifference"
+JLPT1,無知,むち,ignorance
+JLPT2,外交,がいこう,"diplomacy, foreign relations"
+JLPT0,府立,ふりつ,prefectural
+JLPT2,手段,しゅだん,"means, way"
+JLPT0,市長,しちょう,mayor
+JLPT2,シーズン,シーズン,season
+JLPT1,自主,じしゅ,"independence, autonomy"
+JLPT0,種目,しゅもく,"item, event"
+JLPT0,ラグビー,ラグビー,rugby
+JLPT2,入場,にゅうじょう,"entrance, admission"
+JLPT0,反則,はんそく,"foul, rule violation"
+JLPT0,入選,にゅうせん,"acceptance, selection"
+JLPT2,式,しき,ceremony
+JLPT1,当選,とうせん,election to office
+JLPT2,選択,せんたく,"selection, choice"
+JLPT2,気候,きこう,climate
+JLPT2,補う,おぎなう,"supplement, replenish"
+JLPT1,有力,ゆうりょく,"powerful, influential"
+JLPT2,国家,こっか,"state, country"
+JLPT0,関節,かんせつ,joint
+JLPT1,使用人,しようにん,servant
+JLPT0,足首,あしくび,ankle
+JLPT2,手首,てくび,wrist
+JLPT0,ぶら下げる,ぶらさげる,"hang, suspend"
+JLPT1,首脳,しゅのう,"head, leader"
+JLPT1,打ち明ける,うちあける,"confide in, reveal"
+JLPT3,それほど,それほど,"so much, that much"
+JLPT2,悩む,なやむ,"be troubled, suffer"
+JLPT1,頭,かしら,"head, chief"
+JLPT2,頭痛,ずつう,headache
+JLPT2,先頭,せんとう,"forefront, head"
+JLPT2,たまらない,たまらない,"can't stand, can't put up with"
+JLPT0,自信,じしん,self-confidence
+JLPT0,顔色,かおいろ,"complexion, countenance"
+JLPT1,一同,いちどう,"everybody, all"
+JLPT2,青白い,あおじろい,"pale, pallid"
+JLPT0,ずるがしこい,ずるがしこい,"sly, cunning"
+JLPT2,平気,へいき,"nonchalant, calm"
+JLPT2,改正,かいせい,"revision, amendment"
+JLPT2,改める,あらためる,"reform, change"
+JLPT2,改めて,あらためて,once again
+JLPT1,改まる,あらたまる,"be renewed, change"
+JLPT2,生命,せいめい,life
+JLPT2,命,いのち,life
+JLPT0,領事館,りょうじかん,consulate
+JLPT0,領収書,りょうしゅうしょ,"receipt, voucher"
+JLPT0,仕組み,しくみ,"construction, arrangement"
+JLPT2,組,くみ,school class
+JLPT2,組む,くむ,"pair up, partner with"
+JLPT1,組み合わせる,くみあわせる,"assort, join together"
+JLPT1,組み込む,くみこむ,"incorporate, integrate"
+JLPT1,クイズ,クイズ,"quiz, quiz show"
+JLPT1,取り組む,とりくむ,"grapple, pursue"
+JLPT0,録画,ろくが,videotaping
+JLPT0,リクエスト,リクエスト,request
+JLPT1,織物,おりもの,"cloth, textile"
+JLPT2,新た,あらた,"new, fresh"
+JLPT1,進出,しんしゅつ,advancement
+JLPT1,進行,しんこう,advancement
+JLPT2,進歩,しんぽ,"progress, advancement"
+JLPT0,国道,こくどう,national highway
+JLPT1,行進,こうしん,"march, parade"
+JLPT2,どんどん,どんどん,steadily
+JLPT0,北西,ほくせい,northwest
+JLPT0,南西,なんせい,southwest
+JLPT0,何となく,なんとなく,"in some way, somehow"
+JLPT1,推進,すいしん,promotion
+JLPT1,市場,しじょう,"market, exchange"
+JLPT1,家計,かけい,family finances
+JLPT1,主任,しゅにん,"person in charge, head"
+JLPT2,支える,ささえる,"support, maintain"
+JLPT1,果たす,はたす,"accomplish, realize"
+JLPT0,担任,たんにん,supervisor
+JLPT0,辞任,じにん,resignation
+JLPT0,お世辞,おせじ,"compliment, flattery"
+JLPT2,英和,えいわ,English-Japanese
+JLPT2,電子,でんし,"electron, electronic"
+JLPT2,和英,わえい,Japanese-English
+JLPT1,協議,きょうぎ,"conference, deliberation"
+JLPT0,委員会,いいんかい,committee
+JLPT2,委員,いいん,"committee member, delegate"
+JLPT0,大手,おおて,major companies
+JLPT0,国鉄,こくてつ,Japan National Railways
+JLPT2,支店,してん,branch
+JLPT0,おばさん,おばさん,middle-aged woman
+JLPT2,商社,しょうしゃ,trading firm
+JLPT2,出勤,しゅっきん,"to go to work, attendance at work"
+JLPT1,運送,うんそう,"shipping, transportation"
+JLPT1,勤勉,きんべん,"diligence, hard work"
+JLPT0,ＪＲ,じぇいあーる,"JR, Japan Railways"
+JLPT0,日数,にっすう,number of days
+JLPT1,勤め先,つとめさき,employment
+JLPT2,勤め,つとめ,"service, duties"
+JLPT2,もしかしたら,もしかしたら,"possibly, perhaps"
+JLPT1,勤務,きんむ,"duty, service"
+JLPT2,事務,じむ,"office duty, clerical work"
+JLPT3,公務員,こうむいん,"public officer, government worker"
+JLPT0,事務員,じむいん,"clerk, clerical staff"
+JLPT1,任務,にんむ,"duty, mission"
+JLPT1,従業員,じゅうぎょういん,"employee, worker"
+JLPT1,ストライキ,ストライキ,strike
+JLPT1,良心,りょうしん,conscience
+JLPT2,法,ほう,"law, rule"
+JLPT2,雇う,やとう,"employ, hire"
+JLPT2,実績,じっせき,"achievement, performance"
+JLPT0,当たり前,あたりまえ,"of course, obvious"
+JLPT2,下,げ,"low class, inferiority, below"
+JLPT2,トップ,トップ,top
+JLPT2,次ぐ,つぐ,"rank next to, come next"
+JLPT2,水準,すいじゅん,"level, standard"
+JLPT1,応募,おうぼ,application
+JLPT0,多数,たすう,"large number, multitude"
+JLPT2,大小,だいしょう,size
+JLPT1,有する,ゆうする,"have, possess"
+JLPT2,集中,しゅうちゅう,"concentration, convergence"
+JLPT2,集合,しゅうごう,"gathering, assembly"
+JLPT2,組合,くみあい,"union, guild"
+JLPT2,高度,こうど,high degree
+JLPT0,国々,くにぐに,"nations, countries"
+JLPT2,集まり,あつまり,"gathering, assembly"
+JLPT2,様々,さまざま,"various, diverse"
+JLPT2,募集,ぼしゅう,"recruitment, collection"
+JLPT1,早める,はやめる,"move forward (in time), expedite"
+JLPT2,答案,とうあん,"examination paper, answer"
+JLPT1,採算,さいさん,profit
+JLPT2,採点,さいてん,"marking, grading"
+JLPT2,採る,とる,"gather, pick"
+JLPT2,供給,きょうきゅう,"supply, provision"
+JLPT2,月給,げっきゅう,monthly salary
+JLPT0,時給,じきゅう,hourly wage
+JLPT2,一昨年,いっさくねん,the year before last
+JLPT1,見込み,みこみ,"hope, prospect"
+JLPT2,論文,ろんぶん,"thesis, paper"
+JLPT1,短大,たんだい,junior college
+JLPT0,花束,はなたば,bunch of flowers
+JLPT2,就任,しゅうにん,"inauguration, appointment"
+JLPT2,就く,つく,"set about a task, enter upon"
+JLPT1,職員,しょくいん,"staff, employee"
+JLPT2,職業,しょくぎょう,"occupation, vocation"
+JLPT2,私鉄,してつ,private railway
+JLPT2,名,な,"name, reputation"
+JLPT0,都内,とない,in the metropolitan area of Tokyo
+JLPT2,有利,ゆうり,"advantageous, profitable"
+JLPT2,都,と,metropolis of Tokyo
+JLPT0,不平等,ふびょうどう,"unequal, unfair"
+JLPT1,退職,たいしょく,"retirement, resignation"
+JLPT1,退学,たいがく,withdrawal from school
+JLPT0,早退,そうたい,early departure
+JLPT1,理屈,りくつ,"reason, logic"
+JLPT2,退屈,たいくつ,"boring, tedious"
+JLPT2,成立,せいりつ,formation
+JLPT0,雇用,こよう,employment
+JLPT2,自ら,みずから,oneself
+JLPT1,前提,ぜんてい,"assumption, premise"
+JLPT1,条約,じょうやく,treaty
+JLPT0,次第に,しだいに,"gradually, by degrees"
+JLPT1,真相,しんそう,the truth
+JLPT2,先日,せんじつ,"the other day, a few days ago"
+JLPT0,悪質,あくしつ,"bad, malignant"
+JLPT0,当局,とうきょく,the authorities concerned
+JLPT1,認識,にんしき,"recognition, acknowledgment"
+JLPT1,満たす,みたす,"fill, satisfy"
+JLPT0,無関係,むかんけい,"irrelevant, unrelated"
+JLPT2,投書,とうしょ,"contribution, letter"
+JLPT1,未定,みてい,"undecided, pending"
+JLPT1,用件,ようけん,"matter, things to be done"
+JLPT2,参考,さんこう,"reference, consultation"
+JLPT1,参議院,さんぎいん,"House of Councilors, Upper House"
+JLPT2,お参り,おまいり,visiting a shrine or temple
+JLPT0,参考書,さんこうしょ,reference book
+JLPT3,参る,まいる,"go, come"
+JLPT0,惨め,みじめ,"miserable, pitiable"
+JLPT2,加わる,くわわる,join in
+JLPT0,クラブ,クラブ,club
+JLPT1,さぞ,さぞ,"no doubt, must"
+JLPT0,いい加減,いいかげん,"irresponsible, half-baked"
+JLPT2,デモ,デモ,demonstration
+JLPT1,保険,ほけん,insurance
+JLPT1,申し出る,もうしでる,"offer, propose"
+JLPT0,人数,にんずう,number of people
+JLPT0,レクリエーション,レクリエーション,"recreation, games"
+JLPT2,去る,さる,"go away, leave"
+JLPT1,追い出す,おいだす,"turn out, kick out"
+JLPT2,追い掛ける,おいかける,"chase, run after"
+JLPT2,追加,ついか,addition
+JLPT0,前年,ぜんねん,the year before
+JLPT1,比率,ひりつ,"ratio, percentage"
+JLPT0,見比べる,みくらべる,"look from one to another, compare"
+JLPT2,比較,ひかく,comparison
+JLPT0,受け取り,うけとり,receipt
+JLPT1,判決,はんけつ,"judicial decision, judgment"
+JLPT2,判子,はんこ,"seal, stamp"
+JLPT2,評判,ひょうばん,"fame, reputation"
+JLPT2,感じ,かんじ,"feeling, impression"
+JLPT2,感情,かんじょう,"feeling, emotion"
+JLPT2,感動,かんどう,"emotion, impression"
+JLPT2,実感,じっかん,"true sense, realization"
+JLPT1,込める,こめる,"put in, concentrate on"
+JLPT2,思想,しそう,"thought, conception"
+JLPT2,感想,かんそう,"thought, impression"
+JLPT2,空想,くうそう,"fantasy, daydreams"
+JLPT0,当たり,あたり,"hit, success"
+JLPT1,予想,よそう,"prospect, expectation"
+JLPT2,理想,りそう,ideal
+JLPT2,生ずる,しょうずる,"arise, occur"
+JLPT1,合成,ごうせい,"composition, synthesis"
+JLPT1,現像,げんぞう,developing a film
+JLPT2,想像,そうぞう,imagination
+JLPT1,気象,きしょう,weather condition
+JLPT2,象,ぞう,elephant
+JLPT0,抽象的,ちゅうしょうてき,abstract
+JLPT2,製品,せいひん,manufactured goods
+JLPT1,回路,かいろ,circuit
+JLPT0,ハードウェア,ハードウェア,hardware
+JLPT1,保障,ほしょう,"guarantee, security"
+JLPT2,モーター,モーター,"motor, engine"
+JLPT1,悪化,あっか,"worsening, aggravation"
+JLPT2,傷,きず,"wound, scar"
+JLPT1,負傷,ふしょう,"hurt, injury"
+JLPT0,無意識,むいしき,"unconsciously, without thinking"
+JLPT2,交換,こうかん,"exchange, bartering"
+JLPT2,シーツ,シーツ,sheet
+JLPT0,消火器,しょうかき,fire extinguisher
+JLPT0,変換,へんかん,"change, conversion"
+JLPT0,タイヤ,タイヤ,tire
+JLPT2,交替,こうたい,"alternation, shift"
+JLPT2,部品,ぶひん,"parts, accessories"
+JLPT2,水着,みずぎ,bathing suit
+JLPT3,取り替える,とりかえる,"change, replace"
+JLPT1,立て替える,たてかえる,"pay for another, pay in advance"
+JLPT2,災難,さいなん,"calamity, misfortune"
+JLPT0,水害,すいがい,flood damage
+JLPT0,有害,ゆうがい,"harmful, hazardous"
+JLPT0,飲料水,いんりょうすい,drinking water
+JLPT2,被せる,かぶせる,cover
+JLPT2,被害,ひがい,"damage, harm"
+JLPT1,物資,ぶっし,"commodities, goods"
+JLPT2,所々,ところどころ,"here and there, at places"
+JLPT1,破壊,はかい,"breaking, destruction"
+JLPT2,くだらない,くだらない,"worthless, trifling"
+JLPT0,体温計,たいおんけい,thermometer
+JLPT2,救う,すくう,"save, relieve"
+JLPT1,救い,すくい,"rescue, relief"
+JLPT2,救助,きゅうじょ,"rescue, relief"
+JLPT0,有り難い,ありがたい,"welcome, grateful"
+JLPT1,もはや,もはや,"already, no longer"
+JLPT2,助かる,たすかる,"be helped, be rescued"
+JLPT0,支援,しえん,"support, backing"
+JLPT2,援助,えんじょ,"aid, assistance"
+JLPT1,要請,ようせい,"request, demand"
+JLPT2,派手,はで,"showy, flashy"
+JLPT0,派出所,はしゅつじょ,"branch office, police box"
+JLPT2,小遣い,こづかい,"pocket money, spending money"
+JLPT1,派遣,はけん,"dispatch, sending"
+JLPT2,センター,センター,center
+JLPT1,犯す,おかす,"offend against, rape"
+JLPT2,特定,とくてい,"specific, particular"
+JLPT2,犯人,はんにん,"criminal, offender"
+JLPT2,ピストル,ピストル,pistol
+JLPT1,明白,めいはく,"clear, plain"
+JLPT2,犯罪,はんざい,"offense, crime"
+JLPT2,罪,つみ,"crime, sin"
+JLPT2,強盗,ごうとう,robbery
+JLPT2,盗難,とうなん,"robbery, burglary"
+JLPT2,奪う,うばう,"rob, take by force"
+JLPT2,自殺,じさつ,suicide
+JLPT2,捕まる,つかまる,"be caught, be arrested"
+JLPT0,国外,こくがい,"abroad, outside the country"
+JLPT1,逃げ出す,にげだす,"make a break for, run off"
+JLPT0,逃げ道,にげみち,escape route
+JLPT1,作戦,さくせん,"tactic, strategy"
+JLPT1,主題,しゅだい,"subject, theme"
+JLPT0,戦前,せんぜん,prewar period
+JLPT2,勝ち,かち,"win, victory"
+JLPT2,戦う,たたかう,"wage war, fight"
+JLPT1,挑戦,ちょうせん,challenge
+JLPT1,敗戦,はいせん,"lost battle, defeat"
+JLPT2,戦い,たたかい,"war, match"
+JLPT0,敗れる,やぶれる,"be defeated, be beaten"
+JLPT2,大戦,たいせん,world war
+JLPT2,政党,せいとう,political party
+JLPT2,争う,あらそう,"compete, fight"
+JLPT2,競技,きょうぎ,"match, sporting event"
+JLPT0,高速道路,こうそくどうろ,"freeway, highway"
+JLPT2,混雑,こんざつ,"confusion, disorder"
+JLPT3,割合,わりあい,"rate, proportion"
+JLPT2,混ぜる,まぜる,"blend, mix by stirring"
+JLPT0,戦後,せんご,postwar period
+JLPT2,リズム,リズム,rhythm
+JLPT2,統一,とういつ,"unity, coordination"
+JLPT2,統計,とうけい,statistics
+JLPT1,総会,そうかい,general meeting
+JLPT1,総合,そうごう,"synthesis, integration"
+JLPT0,総数,そうすう,total
+JLPT2,捜す,さがす,"look for, search for"
+JLPT1,捜査,そうさ,"criminal investigation, search"
+JLPT2,小数,しょうすう,decimal
+JLPT2,残らず,のこらず,"entirely, without exception"
+JLPT2,索引,さくいん,index
+JLPT2,人工,じんこう,artificial
+JLPT0,ツル,ツル,"crane, stork"
+JLPT3,湖,みずうみ,lake
+JLPT2,飛び込む,とびこむ,dive into
+JLPT1,深める,ふかめる,"deepen, intensify"
+JLPT2,物事,ものごと,"things, everything"
+JLPT0,注意深い,ちゅういぶかい,"careful, discreet"
+JLPT0,落ち着く,おちつく,"calm down, settle in"
+JLPT0,スピード,スピード,speed
+JLPT1,落ち着き,おちつき,"presence of mind, composure"
+JLPT2,がっかり,がっかり,feel disappointed
+JLPT0,がくんと,がくんと,sharply
+JLPT0,段落,だんらく,end of paragraph
+JLPT1,見落とす,みおとす,"miss, fail to notice"
+JLPT2,落第,らくだい,failing an exam
+JLPT2,まあまあ,まあまあ,now now
+JLPT2,日中,にっちゅう,during the day
+JLPT2,水面,すいめん,surface of the water
+JLPT2,交流,こうりゅう,"interaction, contact"
+JLPT2,一流,いちりゅう,"top-ranked, world-class"
+JLPT1,海流,かいりゅう,ocean current
+JLPT0,三流,さんりゅう,third-rate
+JLPT0,小川,おがわ,"brook, stream"
+JLPT2,流れ,ながれ,"flow, stream"
+JLPT1,流通,りゅうつう,"circulation, distribution"
+JLPT2,中間,ちゅうかん,"middle, between"
+JLPT0,中流,ちゅうりゅう,"mid-stream, middle reaches"
+JLPT0,二流,にりゅう,second-rate
+JLPT0,流行,はやり,"fashion, trend"
+JLPT2,流行,りゅうこう,"fashion, trend"
+JLPT1,洪水,こうずい,"flood, inundation"
+JLPT2,崩す,くずす,"destroy, break"
+JLPT1,水洗,すいせん,"flushing, washing"
+JLPT2,クリーム,クリーム,cream
+JLPT0,洗い物,あらいもの,dishes to be washed
+JLPT0,じゃぶじゃぶ,じゃぶじゃぶ,vigorously
+JLPT2,洗面,せんめん,washing one's face
+JLPT0,洗面器,せんめんき,"washbowl, sink"
+JLPT2,原料,げんりょう,raw material
+JLPT3,代わり,かわり,substitution
+JLPT4,さす,さす,pour
+JLPT2,混ざる,まざる,"be mixed, be stirred"
+JLPT1,沈める,しずめる,"sink, submerge"
+JLPT1,引き上げる,ひきあげる,"pull up, salvage"
+JLPT2,地平線,ちへいせん,horizon
+JLPT2,夕日,ゆうひ,setting sun
+JLPT1,沈没,ちんぼつ,sinking
+JLPT3,将来,しょうらい,"future, in the future"
+JLPT2,確実,かくじつ,"certain, secure"
+JLPT1,カメラマン,カメラマン,"photographer, cameraman"
+JLPT0,気楽,きらく,"easygoing, comfortable"
+JLPT2,永遠,えいえん,eternity
+JLPT2,永久,えいきゅう,"permanence, eternity"
+JLPT0,全速力,ぜんそくりょく,"full speed, full steam"
+JLPT2,浮く,うく,float
+JLPT0,上がる,あがる,"eat, drink"
+JLPT2,感覚,かんかく,"sense, sensation"
+JLPT2,世間,せけん,"world, the public"
+JLPT0,北風,きたかぜ,north wind
+JLPT2,冷ます,さます,"cool, let cool"
+JLPT0,冷え込む,ひえこむ,get colder
+JLPT1,冷やかす,ひやかす,"tease, jeer"
+JLPT0,かちかち,かちかち,"hard, solid"
+JLPT2,冷凍,れいとう,"freezing, cold storage"
+JLPT2,車庫,しゃこ,"car shed, garage"
+JLPT0,内臓,ないぞう,internal organs
+JLPT2,快晴,かいせい,fair and clear weather
+JLPT2,適用,てきよう,application
+JLPT2,適する,てきする,"suit, be suitable"
+JLPT3,適当,てきとう,"suitable, appropriate"
+JLPT1,指摘,してき,"identification, pointing out"
+JLPT2,湿度,しつど,humidity
+JLPT0,湿っぽい,しめっぽい,"damp, gloomy"
+JLPT2,湿気,しっけ,"moisture, dampness"
+JLPT2,汚染,おせん,"pollution, contamination"
+JLPT2,頬,ほお,cheek
+JLPT1,廃止,はいし,"abolishment, abandonment"
+JLPT1,一面,いちめん,whole surface
+JLPT2,比較的,ひかくてき,"comparatively, relatively"
+JLPT2,風景,ふうけい,"scenery, landscape"
+JLPT1,不景気,ふけいき,"business depression, slump"
+JLPT2,影,かげ,"shadow, shade"
+JLPT0,円高,えんだか,appreciation of the yen
+JLPT0,インフレーション,インフレーション,inflation
+JLPT1,不況,ふきょう,"depression, slump"
+JLPT2,記事,きじ,"article, story"
+JLPT0,最適,さいてき,optimum
+JLPT2,国境,こっきょう,national border
+JLPT2,境,さかい,"boundary, border"
+JLPT1,適応,てきおう,"adaptation, adjustment"
+JLPT2,観察,かんさつ,"observation, supervision"
+JLPT0,客観的,きゃっかんてき,objective
+JLPT1,主観,しゅかん,"subjectivity, subject"
+JLPT0,主観的,しゅかんてき,subjective
+JLPT0,市内,しない,in the city
+JLPT2,観光,かんこう,sightseeing
+JLPT0,きらりと,きらりと,sparkle
+JLPT1,成り立つ,なりたつ,"consist of, be built on"
+JLPT2,日光,にっこう,"sunshine, sunlight"
+JLPT1,推測,すいそく,"conjecture, guess"
+JLPT2,測る,はかる,"measure, gauge"
+JLPT2,体重,たいじゅう,body weight
+JLPT0,河口,かこう,"river mouth, estuary"
+JLPT0,ウエスト,ウエスト,the waist
+JLPT2,水平線,すいへいせん,horizon
+JLPT2,発電,はつでん,generation of electricity
+JLPT2,陽気,ようき,"cheerful, bright"
+JLPT0,有限,ゆうげん,"limited, finite"
+JLPT2,観測,かんそく,observation
+JLPT2,無数,むすう,"countless, innumerable"
+JLPT2,衛星,えいせい,"satellite, moon"
+JLPT0,衛生的,えいせいてき,"sanitary, hygienic"
+JLPT0,一員,いちいん,member
+JLPT0,グラウンド,グラウンド,sports field
+JLPT2,球,きゅう,"globe, ball"
+JLPT0,日米,にちべい,Japan and U.S.
+JLPT0,プロ野球,プロやきゅう,professional baseball
+JLPT2,電球,でんきゅう,light bulb
+JLPT2,現れる,あらわれる,"appear, emerge"
+JLPT0,青空,あおぞら,blue sky
+JLPT2,たちまち,たちまち,"in a moment, instantly"
+JLPT2,失う,うしなう,"lose, miss"
+JLPT2,混乱,こんらん,"disorder, confusion"
+JLPT1,災害,さいがい,"calamity, disaster"
+JLPT0,震度,しんど,seismic intensity
+JLPT0,ぶるぶる,ぶるぶる,shiver
+JLPT2,脱線,だっせん,derailment
+JLPT2,人生,じんせい,"human life, life"
+JLPT0,大雪,おおゆき,heavy snow
+JLPT2,窓口,まどぐち,window
+JLPT1,振り,ふり,"swing, shake"
+JLPT0,電線,でんせん,electric wire
+JLPT1,作用,さよう,"action, effect"
+JLPT2,神様,かみさま,"god, the divine"
+JLPT0,神道,しんとう,Shinto
+JLPT2,外部,がいぶ,"outside, outer"
+JLPT2,安定,あんてい,"stability, composure"
+JLPT2,精神,せいしん,"mind, spirit"
+JLPT1,精算,せいさん,"settlement of accounts, adjustment"
+JLPT2,現実,げんじつ,"actuality, reality"
+JLPT1,教え,おしえ,"lesson, teachings"
+JLPT0,残暑,ざんしょ,lingering summer heat
+JLPT2,貴重,きちょう,"precious, valuable"
+JLPT0,貴重品,きちょうひん,"article of value, valuables"
+JLPT2,金庫,きんこ,"strong box, safe"
+JLPT1,貴い,とうとい,"precious, valuable"
+JLPT2,跡,あと,"trace, track"
+JLPT2,足跡,あしあと,"footprint, footmark"
+JLPT1,追跡,ついせき,"pursuit, chase"
+JLPT0,好奇心,こうきしん,curiosity
+JLPT0,奇跡,きせき,"miracle, wonder"
+JLPT0,奇数,きすう,odd number
+JLPT0,空ける,あける,"empty, clear out"
+JLPT2,近寄る,ちかよる,"go near, approach"
+JLPT0,寄り道,よりみち,"dropping by, going out of the way"
+JLPT0,寄り集まる,よりあつまる,"gather, assemble"
+JLPT0,何千,なんぜん,"several thousand, thousands"
+JLPT1,経歴,けいれき,"personal history, resume"
+JLPT1,学歴,がくれき,educational history
+JLPT1,革命,かくめい,revolution
+JLPT1,古代,こだい,"ancient times, antiquity"
+JLPT0,歴史的,れきしてき,historical
+JLPT1,乱す,みだす,"put into disorder, disrupt"
+JLPT2,高価,こうか,high-priced
+JLPT2,宝石,ほうせき,"gem, jewel"
+JLPT1,外観,がいかん,external appearance
+JLPT2,モダン,モダン,modern
+JLPT0,建て前,たてまえ,"a front, polite face"
+JLPT2,年月,ねんげつ,"years, time"
+JLPT2,建築,けんちく,"construction, architecture"
+JLPT1,新築,しんちく,new building
+JLPT2,基準,きじゅん,"standard, criterion"
+JLPT0,むしろ,むしろ,rather
+JLPT1,構想,こうそう,"conception, design"
+JLPT1,構える,かまえる,set up (shop)
+JLPT4,結構,けっこう,quite
+JLPT2,構う,かまう,"mind, care for"
+JLPT2,位,くらい,"rank, dignity"
+JLPT2,収入,しゅうにゅう,"income, earnings"
+JLPT0,運動会,うんどうかい,"sports festival, athletic meet"
+JLPT0,悪用,あくよう,"abuse, misuse"
+JLPT2,単位,たんい,"unit, credit"
+JLPT2,地位,ちい,"position, status"
+JLPT2,重点,じゅうてん,"important point, emphasis"
+JLPT0,ずれる,ずれる,"off track, out of line"
+JLPT2,本部,ほんぶ,"head office, headquarters"
+JLPT2,間,ま,"interval, duration of time, chamber"
+JLPT0,距離,きょり,"distance, interval"
+JLPT1,分離,ぶんり,"separation, split"
+JLPT2,離れる,はなれる,"separate, leave"
+JLPT2,離す,はなす,"separate, detach"
+JLPT2,停電,ていでん,"power cut, power failure"
+JLPT0,出入り口,でいりぐち,"doorway, gateway"
+JLPT2,不通,ふつう,interruption of service
+JLPT2,回り・周り,まわり・まわり,"vicinity, whereabouts"
+JLPT2,辺り,あたり,"vicinity, around"
+JLPT1,相場,そうば,"market price, speculation"
+JLPT2,書物,しょもつ,"book, volume"
+JLPT2,範囲,はんい,"range, scope"
+JLPT2,境界,きょうかい,"boundary, border"
+JLPT0,おじさん,おじさん,"Mister, middle-aged man"
+JLPT1,領土,りょうど,"territory, domain"
+JLPT3,村,むら,"village, hamlet"
+JLPT0,隣り合う,となりあう,"adjoin, be next door to each other"
+JLPT0,木造,もくぞう,wooden
+JLPT1,合わす,あわす,"match, add"
+JLPT2,横断,おうだん,"crossing, traversing"
+JLPT2,左右,さゆう,right and left
+JLPT1,中断,ちゅうだん,"interruption, discontinuance"
+JLPT2,断水,だんすい,water stoppage
+JLPT2,油断,ゆだん,"inattention, carelessness"
+JLPT2,断定,だんてい,"decision, conclusion"
+JLPT1,継ぐ,つぐ,"succeed, inherit"
+JLPT0,幅広い,はばひろい,"wide, broad"
+JLPT2,欧米,おうべい,Europe and America
+JLPT1,確立,かくりつ,establishment
+JLPT2,今日,こんにち,"today, these days"
+JLPT2,大陸,たいりく,continent
+JLPT1,着陸,ちゃくりく,landing
+JLPT0,離陸,りりく,takeoff
+JLPT1,内陸,ないりく,"inland, interior"
+JLPT0,陸上,りくじょう,"land, shore"
+JLPT2,間も無く,まもなく,"soon, in a short time"
+JLPT2,陸,りく,"land, shore"
+JLPT1,極めて,きわめて,"extremely, very"
+JLPT2,消極的,しょうきょくてき,"negative, passive"
+JLPT2,南極,なんきょく,South Pole
+JLPT2,北極,ほっきょく,North Pole
+JLPT1,極端,きょくたん,extreme
+JLPT0,最先端,さいせんたん,"cutting edge, forefront"
+JLPT2,しゃがむ,しゃがむ,squat down
+JLPT1,外相,がいしょう,Minister of Foreign Affairs
+JLPT0,総理,そうり,"president, prime minister"
+JLPT2,女房,にょうぼう,wife
+JLPT4,一緒,いっしょ,together
+JLPT1,心強い,こころづよい,"reassuring, heartening"
+JLPT1,内緒,ないしょ,"secrecy, privacy"
+JLPT0,男女,だんじょ,"men and women, both sexes"
+JLPT2,貨物,かもつ,"freight, cargo"
+JLPT0,百貨店,ひゃっかてん,department store
+JLPT2,石油,せきゆ,"petroleum, oil"
+JLPT1,規制,きせい,"regulation, control"
+JLPT2,輸送,ゆそう,"transport, ship"
+JLPT2,薬指,くすりゆび,"third finger, ring finger"
+JLPT2,はめる,はめる,"put on, wear"
+JLPT2,景気,けいき,economic climate
+JLPT2,回復,かいふく,"recovery, rehabilitation"
+JLPT1,過ち,あやまち,"fault, mistake"
+JLPT2,体操,たいそう,"gymnastics, physical exercise"
+JLPT1,操縦,そうじゅう,"steering, piloting"
+JLPT0,縦書き,たてがき,vertical writing
+JLPT2,渋滞,じゅうたい,"delay, traffic jam"
+JLPT2,長期,ちょうき,long period
+JLPT2,滞在,たいざい,stay
+JLPT2,帯,おび,"belt, sash"
+JLPT2,温帯,おんたい,temperate zone
+JLPT2,地帯,ちたい,"zone, area"
+JLPT2,熱帯,ねったい,tropics
+JLPT2,操作,そうさ,"operation, manipulation"
+JLPT0,国費,こくひ,national expenditure
+JLPT0,私費,しひ,private expense
+JLPT0,入国,にゅうこく,"entry into a country, immigration"
+JLPT2,形式,けいしき,"form, model"
+JLPT0,消費者,しょうひしゃ,consumer
+JLPT2,資源,しげん,resources
+JLPT2,決まり,きまり,"settlement, rule"
+JLPT2,エチケット,エチケット,etiquette
+JLPT0,マナー,マナー,manners
+JLPT2,務め,つとめ,"duty, task"
+JLPT2,留守番,るすばん,"caretaking, caretaker"
+JLPT2,職場,しょくば,"place of work, office"
+JLPT2,帰宅,きたく,return home
+JLPT0,住宅地,じゅうたくち,residential district
+JLPT0,ばらばら,ばらばら,separately
+JLPT0,立て込む,たてこむ,"full of, crowded with"
+JLPT2,夕立,ゆうだち,sudden evening shower
+JLPT2,宛名,あてな,"name of recipient, addressee"
+JLPT0,宛先,あてさき,"recipient, addressee"
+JLPT2,直ちに,ただちに,"at once, immediately"
+JLPT2,戻す,もどす,"return, give back"
+JLPT1,取り戻す,とりもどす,"take back, recover"
+JLPT2,払い戻す,はらいもどす,"pay back, reimburse"
+JLPT2,現象,げんしょう,phenomenon
+JLPT1,殺人,さつじん,"murder, homicide"
+JLPT2,消化,しょうか,"digestion, consumption"
+JLPT0,起き上がる,おきあがる,"get up, rise"
+JLPT2,不運,ふうん,"misfortune, bad luck"
+JLPT0,不注意,ふちゅうい,"carelessness, inattention"
+JLPT2,直後,ちょくご,immediately after
+JLPT0,ろくに,ろくに,"hardly, barely"
+JLPT0,寝かす,ねかす,put to sleep
+JLPT0,寝過ごす,ねすごす,oversleep
+JLPT1,寝かせる,ねかせる,"put to bed, lay down"
+JLPT0,寝転ぶ,ねころぶ,lie down
+JLPT2,しわ,しわ,wrinkle
+JLPT2,静まる,しずまる,"become quiet, calm down"
+JLPT2,冷静,れいせい,"cool, calm"
+JLPT2,休暇,きゅうか,"holiday, vacation"
+JLPT2,問答,もんどう,"questions and answers, argument"
+JLPT2,共通,きょうつう,commonality
+JLPT1,収集,しゅうしゅう,"collection, gathering"
+JLPT0,金もうけ,かねもうけ,making money
+JLPT2,読書,どくしょ,reading a book
+JLPT1,合意,ごうい,mutual agreement
+JLPT1,外貨,がいか,foreign currency
+JLPT2,教わる,おそわる,"be taught, learn"
+JLPT1,専用,せんよう,"exclusive use, private use"
+JLPT0,両者,りょうしゃ,both
+JLPT1,見合い,みあい,meeting with a view to marriage
+JLPT1,両立,りょうりつ,"managing two things, having it both ways"
+JLPT0,両面,りょうめん,both sides
+JLPT0,片手,かたて,one hand
+JLPT0,片方,かたほう,one side
+JLPT0,片側,かたがわ,one side
+JLPT1,側面,そくめん,"side, flank"
+JLPT2,両側,りょうがわ,both sides
+JLPT0,歩行者,ほこうしゃ,pedestrian
+JLPT0,白線,はくせん,"white line, warning line"
+JLPT2,通路,つうろ,"passage, alley"
+JLPT2,裏口,うらぐち,"back door, kitchen door"
+JLPT1,裏返し,うらがえし,"turn over, turn inside out"
+JLPT0,裏表,うらおもて,"inside-out, front and back"
+JLPT0,くすぐる,くすぐる,tickle
+JLPT2,夜間,やかん,"night, nighttime"
+JLPT2,項目,こうもく,"item, clause"
+JLPT0,要項,ようこう,important points
+JLPT2,印象,いんしょう,impression
+JLPT0,組み合わせ,くみあわせ,"combination, assortment"
+JLPT0,週刊,しゅうかん,published weekly
+JLPT0,月刊,げっかん,published monthly
+JLPT0,古本,ふるほん,secondhand book
+JLPT2,出版,しゅっぱん,"publishing, publication"
+JLPT0,出版社,しゅっぱんしゃ,publishing company
+JLPT3,地理,ちり,geography
+JLPT2,注,ちゅう,"annotation, explanatory note"
+JLPT2,神経,しんけい,"sensitivity, nerves"
+JLPT1,詳細,しょうさい,"details, particulars"
+JLPT1,心細い,こころぼそい,"helpless, lonely"
+JLPT2,通知,つうち,notification
+JLPT2,ちぎる,ちぎる,"tear, tear off"
+JLPT0,ファックス,ファックス,"facsimile, fax"
+JLPT2,掲示,けいじ,"notice, bulletin"
+JLPT2,載る,のる,appear in print
+JLPT2,積極的,せっきょくてき,"positive, active"
+JLPT0,三角形,さんかくけい,triangle
+JLPT2,積む,つむ,"pile up, accumulate"
+JLPT2,面積,めんせき,"area, square measure"
+JLPT0,ちり,ちり,dust
+JLPT1,平方,へいほう,square
+JLPT1,言い訳,いいわけ,"apology, excuse"
+JLPT2,どうしても,どうしても,"by any means, really"
+JLPT3,翻訳,ほんやく,translation
+JLPT2,通訳,つうやく,interpreting
+JLPT2,申し訳ない,もうしわけない,"sorry, inexcusable"
+JLPT3,訳,わけ,"reason, cause"
+JLPT2,申し訳,もうしわけ,"excuse, apology"
+JLPT2,誤り,あやまり,"error, mistake"
+JLPT1,誤る,あやまる,make a mistake
+JLPT2,誤解,ごかい,misunderstanding
+JLPT1,訂正,ていせい,"correction, amendment"
+JLPT2,修正,しゅうせい,"correction, revision"
+JLPT1,討論,とうろん,"debate, discussion"
+JLPT0,前向き,まえむき,"facing forward, positively"
+JLPT0,キャベツ,キャベツ,cabbage
+JLPT1,添う,そう,"accompany, go along with"
+JLPT2,需要,じゅよう,demand
+JLPT1,成果,せいか,"result, fruit"
+JLPT2,以後,いご,"from now on, after that"
+JLPT2,気付く,きづく,"notice, become aware of"
+JLPT0,衛生,えいせい,"hygiene, sanitation"
+JLPT0,エアコン,エアコン,"air-conditioning, air conditioner"
+JLPT2,学力,がくりょく,"scholastic performance, academic ability"
+JLPT2,印,しるし,"mark, symbol"
+JLPT0,ガード,ガード,guard rail
+JLPT0,イントネーション,イントネーション,intonation
+JLPT2,追い付く,おいつく,"overtake, catch up with"
+JLPT2,思い付く,おもいつく,"think of, hit upon"
+JLPT0,足下,あしもと,"step, under foot"
+JLPT1,傷付ける,きずつける,"wound, hurt"
+JLPT3,これから,これから,"from now on, after this"
+JLPT2,付き合い,つきあい,"friendship, association"
+JLPT1,付け加える,つけくわえる,add
+JLPT0,付き合う,つきあう,"socialize with, see someone"
+JLPT1,付録,ふろく,"appendix, supplement"
+JLPT2,近付ける,ちかづける,bring close
+JLPT0,付け足す,つけたす,"add on, append"
+JLPT0,日付け,ひづけ,date
+JLPT2,金属,きんぞく,metal
+JLPT1,所属,しょぞく,"belonging, attachment"
+JLPT0,付属,ふぞく,"attachment, belonging"
+JLPT1,バット,バット,bat
+JLPT2,属する,ぞくする,"belong to, be one of"
+JLPT2,ポスター,ポスター,poster
+JLPT0,大蔵省,おおくらしょう,Ministry of Finance
+JLPT0,外務省,がいむしょう,Ministry of Foreign Affairs
+JLPT0,帰省,きせい,homecoming
+JLPT2,反省,はんせい,"reflection, repentance"
+JLPT2,省く,はぶく,"omit, dispense with"
+JLPT2,省略,しょうりゃく,"omission, abbreviation"
+JLPT2,略す,りゃくす,"abbreviate, omit"
+JLPT0,略,りゃく,abbreviation
+JLPT1,概念,がいねん,"general idea, concept"
+JLPT2,記念,きねん,"commemoration, memory"
+JLPT0,信念,しんねん,"belief, conviction"
+JLPT0,不合格,ふごうかく,"failure, disqualification"
+JLPT1,規定,きてい,"regulation, provision"
+JLPT2,物質,ぶっしつ,"matter, substance"
+JLPT2,含める,ふくめる,include
+JLPT2,含む,ふくむ,"contain, include"
+JLPT2,順調,じゅんちょう,"favorable condition, smooth progress"
+JLPT1,経過,けいか,"progression, lapse"
+JLPT2,順,じゅん,"order, sequence"
+JLPT2,順番,じゅんばん,"order, turn"
+JLPT0,順位,じゅんい,"order, rank"
+JLPT2,五十音,ごじゅうおん,Japanese syllabary
+JLPT2,道順,みちじゅん,"route, itinerary"
+JLPT2,順序,じゅんじょ,order
+JLPT2,逆,ぎゃく,"reverse, inverse"
+JLPT1,運命,うんめい,"fate, fortune"
+JLPT2,逆らう,さからう,"disobey, go against"
+JLPT2,逆さ,さかさ,"reverse, inversion"
+JLPT0,逆さま,さかさま,"upside-down, reverse"
+JLPT2,前進,ぜんしん,advancement
+JLPT2,行列,ぎょうれつ,"queue, line"
+JLPT1,整列,せいれつ,"row, line"
+JLPT2,列車,れっしゃ,train
+JLPT2,縦,たて,"lengthways, vertical"
+JLPT2,列島,れっとう,archipelago
+JLPT0,何十,なんじゅう,several tens
+JLPT2,列,れつ,"row, line"
+JLPT2,実例,じつれい,"example, instance"
+JLPT2,例外,れいがい,exception
+JLPT0,用例,ようれい,"example, illustration"
+JLPT2,例える,たとえる,"compare, liken"
+JLPT0,例題,れいだい,"example, exercise"
+JLPT0,例年,れいねん,"normal year, average year"
+JLPT1,例え,たとえ,"metaphor, simile"
+JLPT2,余り,あまり,"remainder, leftover"
+JLPT0,かっと,かっと,"lose one's temper, fly into a rage"
+JLPT0,きれ,きれ,a cut of cloth
+JLPT1,余地,よち,"room, space"
+JLPT2,余計,よけい,"excess, needless"
+JLPT2,余分,よぶん,"excess, extra"
+JLPT2,あいにく,あいにく,unfortunately
+JLPT0,後戻り,あともどり,"turning back, retreat"
+JLPT2,下車,げしゃ,"get off, stopover"
+JLPT3,途中,とちゅう,"on the way, half way"
+JLPT2,用途,ようと,"use, service"
+JLPT2,中途,ちゅうと,halfway
+JLPT2,障害,しょうがい,"obstacle, disorder"
+JLPT2,削除,さくじょ,"deletion, elimination"
+JLPT0,不必要,ふひつよう,"unnecessary, superfluous"
+JLPT2,既に,すでに,"already, previously"
+JLPT0,既製,きせい,"ready-made, ready-to-wear"
+JLPT2,事態,じたい,"situation, state of affairs"
+JLPT2,深刻,しんこく,"serious, grave"
+JLPT2,時刻,じこく,"time, hour"
+JLPT1,しょっちゅう,しょっちゅう,"frequently, repeatedly"
+JLPT0,案の定,あんのじょう,"as feared, sure enough"
+JLPT0,締め切り,しめきり,"deadline, time limit"
+JLPT2,締め切る,しめきる,"close, fix a deadline"
+JLPT0,締まる,しまる,"tighten, be compact"
+JLPT1,どうにか,どうにか,somehow
+JLPT1,取り締まる,とりしまる,"control, crack down"
+JLPT1,緩める,ゆるめる,"loosen, unloose"
+JLPT1,緩む,ゆるむ,"slacken, be loose"
+JLPT1,栄える,さかえる,"flourish, thrive"
+JLPT2,教養,きょうよう,"culture, education"
+JLPT2,休養,きゅうよう,"rest, recreation"
+JLPT2,バランス,バランス,balance
+JLPT1,養う,やしなう,"foster, support"
+JLPT2,表情,ひょうじょう,"expression, look"
+JLPT2,豊か,ゆたか,"abundant, ample"
+JLPT1,富む,とむ,"be rich, abound in"
+JLPT2,豊富,ほうふ,"abundant, plentiful"
+JLPT2,正,せい,"right, positiveness"
+JLPT2,苦しむ,くるしむ,"suffer, be troubled"
+JLPT2,苦情,くじょう,"complaint, grievance"
+JLPT2,苦痛,くつう,"pain, agony"
+JLPT0,苦しめる,くるしめる,"torment, trouble"
+JLPT4,ああ,ああ,that kind of
+JLPT0,西洋人,せいようじん,Westerner
+JLPT0,不器用,ぶきよう,"clumsy, unskillful"
+JLPT0,目茶苦茶,めちゃくちゃ,"in a mess, terrible"
+JLPT2,苦労,くろう,"difficulty, hardship"
+JLPT2,義務,ぎむ,"duty, obligation"
+JLPT1,強制,きょうせい,"compulsion, force"
+JLPT1,勤労,きんろう,"labor, work"
+JLPT0,労働者,ろうどうしゃ,"laborer, worker"
+JLPT2,連続,れんぞく,"continuation, succession"
+JLPT2,労働,ろうどう,"labor, toil"
+JLPT1,労力,ろうりょく,"labor, work"
+JLPT2,因る,よる,"be caused by, be due to"
+JLPT2,困難,こんなん,"difficulty, hardship"
+JLPT0,せっかち,せっかち,impatient
+JLPT1,格差,かくさ,"gap, disparity"
+JLPT3,昔,むかし,"old times, the old days"
+JLPT1,乏しい,とぼしい,"scarce, short of"
+JLPT0,貧乏人,びんぼうにん,"poor person, the poor"
+JLPT1,守備,しゅび,"defense, fielding"
+JLPT1,甘える,あまえる,"depend on, take advantage of"
+JLPT2,甘やかす,あまやかす,"be indulgent to, spoil"
+JLPT0,とうもろこし,とうもろこし,"corn, maize"
+JLPT0,こしょう,こしょう,pepper
+JLPT2,辛い,つらい,"difficult, harsh"
+JLPT2,幸運,こううん,"good fortune, good luck"
+JLPT1,何だか,なんだか,"somehow, what's what"
+JLPT0,不幸せ,ふしあわせ,"unhappiness, misfortune"
+JLPT2,幸福,こうふく,"happiness, good fortune"
+JLPT1,削減,さくげん,"curtailment, reduction"
+JLPT1,福祉,ふくし,welfare
+JLPT0,海水,かいすい,seawater
+JLPT2,調味料,ちょうみりょう,"seasoning, flavoring"
+JLPT2,砂漠,さばく,desert
+JLPT1,模範,もはん,"model, role model"
+JLPT2,農民,のうみん,"peasants, farmers"
+JLPT2,農家,のうか,farmhouse
+JLPT2,農村,のうそん,"farm village, agricultural community"
+JLPT0,無害,むがい,harmless
+JLPT2,漁業,ぎょぎょう,fishing industry
+JLPT2,薄暗い,うすぐらい,"gloomy, dim"
+JLPT2,薄める,うすめる,"thin, dilute"
+JLPT0,薄着,うすぎ,light clothing
+JLPT0,ぺらぺら,ぺらぺら,"floppy, flimsy"
+JLPT0,厚着,あつぎ,heavy clothing
+JLPT2,気圧,きあつ,atmospheric pressure
+JLPT0,高気圧,こうきあつ,high pressure
+JLPT0,低気圧,ていきあつ,"low pressure, atmospheric depression"
+JLPT2,縮小,しゅくしょう,"reduction, curtailment"
+JLPT2,縮める,ちぢめる,"contract, shorten"
+JLPT2,縮む,ちぢむ,"shrink, contract"
+JLPT0,縮み,ちぢみ,shrinkage
+JLPT0,引き伸ばす,ひきのばす,"stretch out, enlarge"
+JLPT0,追伸,ついしん,P.S.
+JLPT0,売り上げ,うりあげ,"sales, proceeds"
+JLPT3,倍,ばい,double
+JLPT2,超過,ちょうか,excess
+JLPT2,州,しゅう,state
+JLPT2,環境,かんきょう,"environment, surroundings"
+JLPT3,とうとう,とうとう,"at last, after all"
+JLPT0,届け,とどけ,"report, delivery"
+JLPT2,乗り越し,のりこし,riding past one's stop
+JLPT0,追い抜く,おいぬく,"pass, overtake"
+JLPT2,抜ける,ぬける,"come out, leave"
+JLPT2,トンネル,トンネル,tunnel
+JLPT2,抜く,ぬく,pull out
+JLPT0,課長,かちょう,section chief
+JLPT0,朝日,あさひ,morning sun
+JLPT2,一段と,いちだんと,"greater, further"
+JLPT2,昇る,のぼる,"rise,"
+JLPT2,風船,ふうせん,balloon
+JLPT2,全員,ぜんいん,"all members, entire staff"
+JLPT2,札,さつ,"bill, paper money"
+JLPT2,改札,かいさつ,ticket gate
+JLPT1,札,ふだ,"sign, billboard"
+JLPT1,名札,なふだ,"name badge, tag"
+JLPT2,場,ば,"opportunity, occasion"
+JLPT2,礼,れい,"bow, courtesy"
+JLPT2,感謝,かんしゃ,"gratitude, thanks"
+JLPT1,月謝,げっしゃ,monthly fee
+JLPT2,射す,さす,shine on
+JLPT1,反射,はんしゃ,reflection
+JLPT2,過程,かてい,"process, course"
+JLPT0,行程,こうてい,"distance, journey"
+JLPT2,日程,にってい,"program, schedule"
+JLPT1,確保,かくほ,securement
+JLPT2,優れる,すぐれる,"be superior to, be fine"
+JLPT2,前者,ぜんしゃ,the former
+JLPT1,コンテスト,コンテスト,contest
+JLPT2,優勝,ゆうしょう,"victory, championship"
+JLPT1,対談,たいだん,interview
+JLPT2,目下,めした,one's inferiors
+JLPT0,見かけ,みかけ,"looks, appearance"
+JLPT2,優秀,ゆうしゅう,"excellent, exceptional"
+JLPT1,秘書,ひしょ,secretary
+JLPT1,部下,ぶか,subordinate
+JLPT2,透き通る,すきとおる,be transparent
+JLPT2,強引,ごういん,"overbearing, coercive"
+JLPT2,指導,しどう,"guide, lead"
+JLPT2,コーチ,コーチ,coach
+JLPT0,半導体,はんどうたい,semiconductor
+JLPT1,導く,みちびく,"guide, lead"
+JLPT2,応じる,おうじる,"answer, comply with"
+JLPT2,希望,きぼう,"hope, wish"
+JLPT2,失望,しつぼう,"disappointment, loss of hope"
+JLPT2,望む,のぞむ,"desire, hope"
+JLPT1,望ましい,のぞましい,"desirable, welcome"
+JLPT1,要望,ようぼう,"demand, request"
+JLPT1,有望,ゆうぼう,"promising, hopeful"
+JLPT1,欲望,よくぼう,"desire, craving"
+JLPT1,待ち望む,まちのぞむ,"expect, look forward to"
+JLPT2,意志,いし,"will, volition"
+JLPT1,志す,こころざす,"have an ambition for, aspire"
+JLPT1,受かる,うかる,pass
+JLPT1,向上,こうじょう,improvement
+JLPT2,公害,こうがい,environmental pollution
+JLPT2,努める,つとめる,"endeavor, make efforts, try hard"
+JLPT1,比例,ひれい,"proportion, ratio"
+JLPT0,不十分,ふじゅうぶん,"insufficiency, lack"
+JLPT2,実る,みのる,"bear fruit, ripen"
+JLPT0,日々,ひび,"daily, every day"
+JLPT0,かんかん,かんかん,furious
+JLPT2,一種,いっしゅ,"a kind of, of sorts"
+JLPT2,独立,どくりつ,"independence, self-reliance"
+JLPT2,独特,どくとく,"peculiarity, uniqueness"
+JLPT2,ぶつぶつ,ぶつぶつ,grumble
+JLPT2,独り言,ひとりごと,"soliloquy, monologue"
+JLPT0,論,ろん,"argument, opinion"
+JLPT1,調べ,しらべ,"investigation, inquiry"
+JLPT2,出身,しゅっしん,"come from, origin"
+JLPT1,企画,きかく,"plan, project"
+JLPT2,意外,いがい,"unexpected, unforeseen"
+JLPT2,身長,しんちょう,"stature, height"
+JLPT2,心身,しんしん,mind and body
+JLPT2,身,み,"body, one's own person"
+JLPT2,測定,そくてい,"measure, gauge"
+JLPT2,中身,なかみ,"content, interior"
+JLPT1,身近,みぢか,"near oneself, close to one"
+JLPT1,身の回り,みのまわり,"one's person, one's appearance"
+JLPT1,身なり,みなり,"dress, one's appearance"
+JLPT2,中,ちゅう,"middle, medium size"
+JLPT1,身振り,みぶり,"gesture, gesticulation"
+JLPT1,縮まる,ちぢまる,"be shortened, be contracted"
+JLPT4,私,わたくし,"I, myself"
+JLPT1,独占,どくせん,"exclusive possession, monopoly"
+JLPT1,証拠,しょうこ,"proof, evidence"
+JLPT0,不要,ふよう,"unnecessary, waste"
+JLPT2,一家,いっか,"household, family"
+JLPT2,裏切る,うらぎる,betray
+JLPT2,論じる,ろんじる,"argue, discuss"
+JLPT2,仲良し,なかよし,"good friend, chum"
+JLPT2,仲直り,なかなおり,"reconciliation, making up"
+JLPT2,仲,なか,personal relationship
+JLPT2,仲間,なかま,"comrade, peer"
+JLPT2,正式,せいしき,"formal, regular"
+JLPT1,照明,しょうめい,"illumination, lighting"
+JLPT2,照る,てる,"shine, be fine"
+JLPT2,工夫,くふう,"contrivance, scheme"
+JLPT2,夫人,ふじん,"wife, married lady"
+JLPT2,主婦,しゅふ,housewife
+JLPT1,新婚,しんこん,newlywed
+JLPT1,産婦人科,さんふじんか,obstetrics and gynecology
+JLPT2,婦人,ふじん,"woman, lady"
+JLPT1,分担,ぶんたん,"assigning tasks, sharing burden"
+JLPT1,仲人,なこうど,"go-between, matchmaker"
+JLPT2,訪問,ほうもん,visit
+JLPT2,夫妻,ふさい,"husband and wife, Mr. and Mrs."
+JLPT1,不在,ふざい,absence
+JLPT0,奥様,おくさま,"married woman, someone's wife"
+JLPT2,実力,じつりょく,"real ability, capability"
+JLPT2,お互い,おたがい,each other
+JLPT1,交互,こうご,"by turns, alternatively"
+JLPT2,相互,そうご,"mutual, reciprocal"
+JLPT2,互い,たがい,each other
+JLPT1,策,さく,"scheme, policy"
+JLPT2,一度に,いちどに,"at a time, at once"
+JLPT0,見守る,みまもる,"watch, keep watch over"
+JLPT0,我が国,わがくに,"our country, Japan"
+JLPT0,我が家,わがや,one's home
+JLPT2,作者,さくしゃ,"author, writer"
+JLPT2,公共,こうきょう,"public society, community"
+JLPT0,苦しみ,くるしみ,"distress, suffering"
+JLPT2,作曲,さっきょく,composition
+JLPT0,親しみ,したしみ,"intimacy, familiarity"
+JLPT0,がらがら,がらがら,gargle
+JLPT2,ミス,ミス,mistake
+JLPT0,持ち主,もちぬし,"owner, proprietor"
+JLPT2,送別,そうべつ,"farewell, send-off"
+JLPT2,区分,くぶん,"division, section"
+JLPT0,高齢,こうれい,"advanced age, elderly"
+JLPT1,問う,とう,"ask, question"
+JLPT2,年齢,ねんれい,"age, years"
+JLPT2,芸術,げいじゅつ,"art, arts and crafts"
+JLPT2,愛情,あいじょう,"love, affection"
+JLPT0,可愛らしい,かわいらしい,"lovely, charming"
+JLPT2,深まる,ふかまる,"deepen, become deeper"
+JLPT1,マーク,マーク,logo
+JLPT0,むなしい,むなしい,"empty, vain"
+JLPT2,求める,もとめる,"seek, wish for"
+JLPT2,恋,こい,"love, romance"
+JLPT2,失恋,しつれん,broken heart
+JLPT1,恋する,こいする,"love, fall in love with"
+JLPT1,引きずる,ひきずる,"drag along, trail"
+JLPT1,恋愛,れんあい,love
+JLPT0,初恋,はつこい,first love
+JLPT1,統合,とうごう,"integration, combination"
+JLPT2,誕生,たんじょう,birth
+JLPT1,密か,ひそか,"secret, private"
+JLPT2,延長,えんちょう,"extension, prolongation"
+JLPT2,延期,えんき,"postponement, deferment"
+JLPT0,明々後日,しあさって,three days from today
+JLPT2,延びる,のびる,"extend, be postponed"
+JLPT2,延ばす,のばす,"extend, postpone"
+JLPT2,祝う,いわう,"celebrate, congratulate"
+JLPT0,代わる代わる,かわるがわる,"by turns, alternately"
+JLPT2,単純,たんじゅん,"simple, uncomplicated"
+JLPT2,純粋,じゅんすい,"pure, unmixed"
+JLPT2,女優,じょゆう,actress
+JLPT2,おしゃべり,おしゃべり,"chatter, idle talk"
+JLPT2,夢中,むちゅう,be absorbed
+JLPT2,慎重,しんちょう,"prudence, discretion"
+JLPT0,泣き顔,なきがお,tear-stained face
+JLPT2,流す,ながす,"let flow, set adrift"
+JLPT2,笑顔,えがお,"smiling face, smile"
+JLPT0,からから,からから,"roar, laugh loudly"
+JLPT0,げらげら,げらげら,out loud
+JLPT1,天才,てんさい,genius
+JLPT2,必ずしも,かならずしも,"not always, not necessarily"
+JLPT2,表す,あらわす,"express, represent"
+JLPT0,大喜び,おおよろこび,"great joy, delight"
+JLPT0,喜ばす,よろこばす,"please, gladden"
+JLPT3,皆,みな,"all, everybody"
+JLPT1,恥,はじ,"shame, disgrace"
+JLPT1,弁論,べんろん,"discussion, oral proceedings"
+JLPT1,保護,ほご,"protection, safeguard"
+JLPT1,弁護,べんご,defense
+JLPT0,保護者,ほごしゃ,"guardian, protector"
+JLPT1,運用,うんよう,"operation, management"
+JLPT3,屋上,おくじょう,"housetop, roof"
+JLPT0,ついに,ついに,"at last, finally"
+JLPT1,同士,どうし,"fellow, to each other"
+JLPT0,弁護士,べんごし,"lawyer, attorney"
+JLPT1,バッジ,バッジ,badge
+JLPT1,看護,かんご,nursing
+JLPT2,看病,かんびょう,"nursing, nursing care"
+JLPT2,否定,ひてい,"denial, negation"
+JLPT1,記述,きじゅつ,description
+JLPT2,裁判,さいばん,"trial, judgment"
+JLPT0,裁判所,さいばんしょ,courthouse
+JLPT0,総裁,そうさい,"president, governor"
+JLPT1,訴え,うったえ,"lawsuit, appeal"
+JLPT0,進路,しんろ,"course, route"
+JLPT2,あれこれ,あれこれ,"this and that, one thing or another"
+JLPT2,サークル,サークル,"circle, club"
+JLPT2,迷信,めいしん,superstition
+JLPT2,迷子,まいご,"lost child, lost person"
+JLPT2,しつこい,しつこい,persistent
+JLPT2,区域,くいき,zone
+JLPT1,大水,おおみず,"flood, inundation"
+JLPT1,未知,みち,unknown
+JLPT2,自身,じしん,self
+JLPT0,疑い,うたがい,"doubt, suspicion"
+JLPT2,疑う,うたがう,"doubt, be suspicious"
+JLPT0,疑わしい,うたがわしい,"doubtful, questionable"
+JLPT2,宇宙,うちゅう,"universe, space"
+JLPT1,物体,ぶったい,"object, physical body"
+JLPT2,謎,なぞ,"puzzle, mystery"
+JLPT1,著しい,いちじるしい,"remarkable, conspicuous"
+JLPT2,著す,あらわす,"write, compose"
+JLPT2,著者,ちょしゃ,"author, writer"
+JLPT1,著書,ちょしょ,"literary work, book"
+JLPT2,権利,けんり,"right, privilege"
+JLPT1,権力,けんりょく,"power, authority"
+JLPT0,人権,じんけん,human rights
+JLPT2,支配,しはい,"control, management"
+JLPT1,言論,げんろん,"speech, discussion"
+JLPT1,棄権,きけん,"dropping out, renouncing rights"
+JLPT1,侵す,おかす,"invade, violate"
+JLPT0,偽物,にせもの,"sham, imitation"
+JLPT1,行為,こうい,"act, conduct"
+JLPT1,添える,そえる,"add to, attach to"
+JLPT0,ばら,ばら,rose
+JLPT2,賞,しょう,"prize, award"
+JLPT2,当てる,あてる,"guess, hit the jackpot"
+JLPT2,公平,こうへい,"impartiality, fairness"
+JLPT2,賞品,しょうひん,"prize, trophy"
+JLPT1,部門,ぶもん,"division, department"
+JLPT0,ノーベル賞,ノーベルしょう,Nobel Prize
+JLPT1,野党,やとう,opposition party
+JLPT2,楽,らく,"comfort, relief"
+JLPT1,財政,ざいせい,"public finance, financial affairs"
+JLPT2,財産,ざいさん,"fortune, asset"
+JLPT1,文化財,ぶんかざい,cultural assets
+JLPT2,助手,じょしゅ,"assistant, helper"
+JLPT1,利息,りそく,interest
+JLPT1,預金,よきん,"deposit, bank account"
+JLPT2,金融,きんゆう,finance
+JLPT2,間隔,かんかく,"interval, space"
+JLPT2,終了,しゅうりょう,"end, expiry"
+JLPT2,完了,かんりょう,completion
+JLPT2,課程,かてい,"course, curriculum"
+JLPT0,修了,しゅうりょう,completion
+JLPT2,承認,しょうにん,"approval, recognition"
+JLPT3,承知,しょうち,"consent, knowledge"
+JLPT2,納める,おさめる,pay a tax or fee
+JLPT1,株式,かぶしき,stock
+JLPT1,説得,せっとく,persuasion
+JLPT1,所得,しょとく,"income, earnings"
+JLPT1,支持,しじ,"support, maintenance"
+JLPT2,学科,がっか,"subject, department"
+JLPT2,得る,える,"obtain, gain"
+JLPT2,知識,ちしき,knowledge
+JLPT2,納得,なっとく,"acceptance, persuasion"
+JLPT2,批評,ひひょう,"criticism, comment"
+JLPT0,不得意,ふとくい,one's weak point
+JLPT0,得する,とくする,"profit, gain"
+JLPT0,得,とく,"gain, advantage"
+JLPT2,損,そん,"loss, damage"
+JLPT2,損害,そんがい,"damage, harm"
+JLPT0,損する,そんする,"lose, suffer loss"
+JLPT1,意欲,いよく,"volition, motivation"
+JLPT1,燃料,ねんりょう,fuel
+JLPT2,燃やす,もやす,burn
+JLPT1,日焼け,ひやけ,suntan
+JLPT0,焼き肉,やきにく,"grilled meat, barbequed meat"
+JLPT1,夕焼け,ゆうやけ,sunset glow
+JLPT0,焼きそば,やきそば,pan-fried noodles
+JLPT2,乾燥,かんそう,"drying up, desiccation"
+JLPT1,幹部,かんぶ,executive
+JLPT2,時速,じそく,speed per hour
+JLPT2,速度,そくど,"speed, velocity"
+JLPT1,幹,みき,tree trunk
+JLPT1,業績,ぎょうせき,"achievement, performance"
+JLPT2,酸素,さんそ,oxygen
+JLPT2,素直,すなお,"honest, straightforward"
+JLPT2,水素,すいそ,hydrogen
+JLPT1,素早い,すばやい,"nimble, quick"
+JLPT2,スピーチ,スピーチ,speech
+JLPT1,効き目,ききめ,"effect, efficacy"
+JLPT3,心,こころ,"heart, mind"
+JLPT2,実に,じつに,"truly, surely"
+JLPT1,対応,たいおう,"correspondence, equivalence"
+JLPT2,働き,はたらき,"work, function"
+JLPT2,チャンス,チャンス,chance
+JLPT2,石炭,せきたん,coal
+JLPT2,岩,いわ,"rock, crag"
+JLPT0,もろい,もろい,"weak, brittle"
+JLPT0,無生物,むせいぶつ,inanimate object
+JLPT2,岸,きし,"shore, bank"
+JLPT0,キス,キス,kiss
+JLPT2,成長,せいちょう,growth
+JLPT2,校庭,こうてい,"schoolyard, campus"
+JLPT0,一周,いっしゅう,"circle, around"
+JLPT0,昨晩,さくばん,"last night, last evening"
+JLPT2,貧しい,まずしい,"poor, needy"
+JLPT2,照らす,てらす,"illuminate, shine on"
+JLPT2,手入れ,ていれ,"care, repairs"
+JLPT0,まく,まく,"sow, scatter"
+JLPT2,実,み,"fruit, nut"
+JLPT2,膨らむ,ふくらむ,"expand, swell"
+JLPT2,名所,めいしょ,"noted place, sights"
+JLPT1,高原,こうげん,"plateau, highland"
+JLPT1,分散,ぶんさん,dispersion
+JLPT2,散る,ちる,"scatter, fall"
+JLPT2,散らかる,ちらかる,"lie scattered about, be in disorder"
+JLPT2,散らかす,ちらかす,"scatter, disarrange"
+JLPT0,月夜,つきよ,moonlit night
+JLPT2,植物,しょくぶつ,"plant, vegetation"
+JLPT1,植民地,しょくみんち,"colony, settlement"
+JLPT2,植木,うえき,"garden plant, shrub"
+JLPT2,全般,ぜんぱん,"whole, general"
+JLPT0,どく,どく,move out of the way
+JLPT2,田植え,たうえ,rice planting
+JLPT2,継続,けいぞく,"continuation, succession"
+JLPT1,根拠,こんきょ,"grounds, basis"
+JLPT1,根本,こんぽん,"basis, root"
+JLPT0,金色,きんいろ,golden color
+JLPT2,平ら,たいら,"flat, level"
+JLPT2,目印,めじるし,"landmark, sign"
+JLPT2,根,ね,"root, source"
+JLPT0,大根,だいこん,"daikon radish, oriental radish"
+JLPT0,はしご,はしご,ladder
+JLPT2,板,いた,"board, plank"
+JLPT2,看板,かんばん,"signboard, sign"
+JLPT0,まな板,まないた,chopping board
+JLPT0,草花,くさばな,plants and flowers
+JLPT0,ほうれん草,ほうれんそう,spinach
+JLPT2,疑問,ぎもん,"question, doubt"
+JLPT2,言葉遣い,ことばづかい,"wording, language"
+JLPT0,落ち葉,おちば,fallen leaves
+JLPT0,言い換える,いいかえる,"express in different words, paraphrase"
+JLPT0,木の葉,このは,tree leaves
+JLPT0,書き言葉,かきことば,written language
+JLPT1,傷付く,きずつく,"get injured, be hurt"
+JLPT0,女性的,じょせいてき,"feminine, womanly"
+JLPT2,適切,てきせつ,"appropriate, adequate"
+JLPT0,和語,わご,native Japanese word
+JLPT0,話し言葉,はなしことば,spoken language
+JLPT0,ひらひら,ひらひら,"lightly, floating"
+JLPT0,葉っぱ,はっぱ,leaf
+JLPT3,警官,けいかん,"police officer, policeman"
+JLPT2,ついで,ついで,on the way
+JLPT2,呼び出す,よびだす,"call, page"
+JLPT2,吸収,きゅうしゅう,"absorption, merger"
+JLPT2,息,いき,breath
+JLPT2,呼吸,こきゅう,"breathing, respiration"
+JLPT1,正常,せいじょう,"normality, normalcy"
+JLPT0,吸い込む,すいこむ,"inhale, suck in"
+JLPT1,及ぶ,およぶ,"reach to, come up to"
+JLPT1,取り扱う,とりあつかう,"handle, deal in"
+JLPT2,平等,びょうどう,"equality, impartiality"
+JLPT0,取り扱い,とりあつかい,"handling, manipulation"
+JLPT2,高級,こうきゅう,"high rank, high class"
+JLPT2,級,きゅう,"grade, class"
+JLPT2,上級,じょうきゅう,"higher grade, advanced class"
+JLPT2,初級,しょきゅう,"beginner class, elementary level"
+JLPT0,同級生,どうきゅうせい,classmate
+JLPT0,中級,ちゅうきゅう,"middle-class, intermediate"
+JLPT3,すっと,すっと,clear
+JLPT2,食う,くう,"eat, live on"
+JLPT4,結構,けっこう,"all right, no thank you"
+JLPT2,腹,はら,belly
+JLPT2,引っ込む,ひっこむ,"draw back, pull in"
+JLPT0,腹一杯,はらいっぱい,full stomach
+JLPT1,肺,はい,"lung, lungs"
+JLPT1,平たい,ひらたい,"flat, level"
+JLPT2,番,ばん,"one's turn, watch"
+JLPT1,出血,しゅっけつ,"bleeding, hemorrhage"
+JLPT2,血液,けつえき,blood
+JLPT0,高温,こうおん,high temperature
+JLPT2,溶ける,とける,"be dissolved, be melted"
+JLPT2,溶かす,とかす,"dissolve, melt"
+JLPT2,証明,しょうめい,"proof, evidence"
+JLPT1,液,えき,"liquid, fluid"
+JLPT2,容易,ようい,"easy, simple"
+JLPT2,容器,ようき,"receptacle, container"
+JLPT2,好む,このむ,"like, be fond of"
+JLPT3,背中,せなか,back
+JLPT4,背広,せびろ,business suit
+JLPT2,痛み,いたみ,"pain, ache"
+JLPT1,形成,けいせい,formation
+JLPT2,外科,げか,surgery
+JLPT2,骨折,こっせつ,"fracture, broken bone"
+JLPT2,分析,ぶんせき,analysis
+JLPT1,健全,けんぜん,"healthy, sound"
+JLPT2,保健,ほけん,"health, health care"
+JLPT2,健康,けんこう,health
+JLPT2,害,がい,"harm, damage"
+JLPT1,ブーム,ブーム,boom
+JLPT2,適度,てきど,"moderate, proper"
+JLPT0,早寝,はやね,going to bed early
+JLPT2,診察,しんさつ,medical examination
+JLPT2,内科,ないか,internal medicine
+JLPT2,診る,みる,examine
+JLPT0,植物園,しょくぶつえん,botanical garden
+JLPT1,体験,たいけん,experience
+JLPT0,日本酒,にほんしゅ,"sake, rice wine"
+JLPT2,医療,いりょう,"medical service, healthcare"
+JLPT1,治療,ちりょう,medical treatment
+JLPT2,気の毒,きのどく,"pitiable, regrettable"
+JLPT2,消毒,しょうどく,"disinfection, sterilization"
+JLPT2,毒,どく,"poison, harm"
+JLPT1,中毒,ちゅうどく,poisoning
+JLPT0,有毒,ゆうどく,"poisonous, noxious"
+JLPT0,ばい菌,ばいきん,"bacterium, germ"
+JLPT2,症状,しょうじょう,symptom
+JLPT2,中年,ちゅうねん,middle age
+JLPT2,清書,せいしょ,clean copy
+JLPT2,イメージ,イメージ,image
+JLPT2,清潔,せいけつ,"cleanliness, neatness"
+JLPT2,不潔,ふけつ,"dirty, filthy"
+JLPT2,監督,かんとく,"supervisor, film director"
+JLPT2,撮影,さつえい,"photographing, shoot"
+JLPT1,アップ,アップ,close-up
+JLPT0,水中,すいちゅう,"in the water, underwater"
+JLPT2,プリント,プリント,print
+JLPT1,レントゲン,レントゲン,X-rays
+JLPT2,描く,えがく,"depict, describe"
+JLPT2,図,ず,"figure, map"
+JLPT2,画家,がか,"artist, painter"
+JLPT2,地面,じめん,"surface, ground"
+JLPT2,曲線,きょくせん,"curve, curved line"
+JLPT2,苦心,くしん,"pains, efforts"
+JLPT1,油絵,あぶらえ,oil painting
+JLPT2,直線,ちょくせん,straight line
+JLPT2,活躍,かつやく,"activity, action"
+JLPT0,再開,さいかい,"reopening, restart"
+JLPT1,再生,さいせい,playback
+JLPT1,再会,さいかい,reunion
+JLPT0,交わす,かわす,exchange
+JLPT2,編む,あむ,knit
+JLPT2,編集,へんしゅう,"editing, compilation"
+JLPT0,後半,こうはん,"latter half, second half"
+JLPT2,火災,かさい,"fire, conflagration"
+JLPT2,解放,かいほう,"release, setting free"
+JLPT0,機長,きちょう,airplane captain
+JLPT2,開放,かいほう,opening
+JLPT2,本来,ほんらい,"originally, essentially"
+JLPT1,追放,ついほう,"banishment, deportation"
+JLPT1,中継,ちゅうけい,"relay, broadcasting"
+JLPT1,放射能,ほうしゃのう,radioactivity
+JLPT2,放る,ほうる,"fling, hurl"
+JLPT2,重視,じゅうし,"importance, value"
+JLPT1,視点,してん,viewpoint
+JLPT1,近視,きんし,"nearsightedness, shortsightedness"
+JLPT2,無視,むし,"ignoring, disregarding"
+JLPT1,他方,たほう,other side
+JLPT1,ジャズ,ジャズ,jazz
+JLPT1,衣類,いるい,"clothes, garments"
+JLPT2,衣服,いふく,"clothes, dress"
+JLPT1,衣料,いりょう,"clothing, garments"
+JLPT2,衣食住,いしょくじゅう,clothing and food and housing
+JLPT2,地味,じみ,"plain, sober"
+JLPT1,整える,ととのえる,"arrange, adjust"
+JLPT0,相応しい,ふさわしい,"suitable, appropriate"
+JLPT0,仮に,かりに,"supposing that, even if"
+JLPT2,仮定,かてい,"assumption, supposition"
+JLPT0,仮,かり,"provisional, temporary"
+JLPT2,振り仮名,ふりがな,reading aid in kana characters
+JLPT2,演説,えんぜつ,"speech, address"
+JLPT1,公演,こうえん,public performance
+JLPT1,出演,しゅつえん,"appearance on stage, performance"
+JLPT2,力強い,ちからづよい,"powerful, vigorous"
+JLPT2,役,やく,"role, part"
+JLPT2,劇,げき,"drama, play"
+JLPT2,主役,しゅやく,"leading part, starring role"
+JLPT2,劇場,げきじょう,theater
+JLPT2,演劇,えんげき,"drama, play"
+JLPT1,喜劇,きげき,comedy
+JLPT2,国立,こくりつ,national
+JLPT0,昨夜,さくや,last night
+JLPT2,始まり,はじまり,beginning
+JLPT2,別れ,わかれ,"separation, parting"
+JLPT0,乗り越える,のりこえる,"overcome, get over"
+JLPT2,悲劇,ひげき,"tragedy, tragic drama"
+JLPT1,まして,まして,much more
+JLPT2,集団,しゅうだん,"group, mass"
+JLPT2,団体,だんたい,"group, corporation"
+JLPT2,団地,だんち,"housing estate, housing complex"
+JLPT1,固める,かためる,"harden, strengthen"
+JLPT2,固まる,かたまる,"harden, solidify"
+JLPT0,固体,こたい,"solid, solid matter"
+JLPT2,我々,われわれ,we
+JLPT1,インテリ,インテリ,intelligent
+JLPT0,かぼちゃ,かぼちゃ,pumpkin
+JLPT2,かじる,かじる,"nibble, bite"
+JLPT0,ぎょうざ,ぎょうざ,Chinese dumpling
+JLPT1,対比,たいひ,"contrast, comparison"
+JLPT0,はっと,はっと,taken aback
+JLPT1,定義,ていぎ,definition
+JLPT0,何百,なんびゃく,"several hundred, hundreds"
+JLPT0,博士,はくし,Ph.D.
+JLPT2,博士,はかせ,"expert, doctor"
+JLPT2,急速,きゅうそく,"rapid, swift"
+JLPT2,近代,きんだい,modern times
+JLPT2,展開,てんかい,"unfolding, development"
+JLPT2,発展,はってん,"expansion, prosperity"
+JLPT1,主催,しゅさい,"sponsorship, promotion"
+JLPT0,オリンピック,オリンピック,the Olympics
+JLPT2,催し,もよおし,"event, function"
+JLPT1,促す,うながす,"hasten, urge"
+JLPT2,催促,さいそく,"demand, urging"
+JLPT2,古典,こてん,classics
+JLPT3,辞典,じてん,dictionary
+JLPT2,漢和,かんわ,Chinese and Japanese
+JLPT0,典型的,てんけいてき,"typical, representative"
+JLPT2,典型,てんけい,"type, model"
+JLPT1,殊に,ことに,"especially, exceptionally"
+JLPT1,ダウン,ダウン,"down, malfunction"
+JLPT2,特殊,とくしゅ,"special, unique"
+JLPT1,微か,かすか,"faint, dim"
+JLPT2,微妙,びみょう,"subtle, delicate"
+JLPT0,ご免,ごめん,sorry
+JLPT2,免税,めんぜい,tax exemption
+JLPT2,許可,きょか,"permission, approval"
+JLPT2,有効,ゆうこう,"effective, valid"
+JLPT2,どうか,どうか,please
+JLPT2,免許,めんきょ,"license, permit"
+JLPT0,無責任,むせきにん,irresponsibility
+JLPT0,取消し,とりけし,"cancellation, annulment"
+JLPT0,訓読み,くんよみ,Japanese pronunciation
+JLPT2,訓,くん,Japanese reading of kanji
+JLPT1,助詞,じょし,"particle, postposition"
+JLPT2,形容詞,けいようし,adjective
+JLPT2,動詞,どうし,verb
+JLPT2,名詞,めいし,noun
+JLPT2,副詞,ふくし,adverb
+JLPT2,代名詞,だいめいし,pronoun
+JLPT2,従う,したがう,"follow, obey"
+JLPT1,上司,じょうし,boss
+JLPT2,厳重,げんじゅう,"strict, secure"
+JLPT2,司会,しかい,"master of ceremonies, host"
+JLPT2,先程,さきほど,"some time ago, a little while ago"
+JLPT2,務める,つとめる,"perform a duty, play a role"
+JLPT2,向ける,むける,"turn toward, point at"
+JLPT0,引き延ばす,ひきのばす,"extend, prolong"
+JLPT1,ぺこぺこ,ぺこぺこ,"bow, kowtow"
+JLPT1,購入,こうにゅう,purchase
+JLPT2,講演,こうえん,lecture
+JLPT3,講義,こうぎ,lecture
+JLPT0,夏季,かき,"summer, summer season"
+JLPT2,休講,きゅうこう,cancellation of lecture
+JLPT2,テーマ,テーマ,"the theme, the subject"
+JLPT2,講師,こうし,"speaker, lecturer"
+JLPT2,診断,しんだん,diagnosis
+JLPT2,技師,ぎし,"engineer, technician"
+JLPT1,歯科,しか,dentistry
+JLPT0,関わる,かかわる,"involve, concern"
+JLPT0,師走,しわす,December
+JLPT2,化学,かがく,chemistry
+JLPT0,後期,こうき,latter period
+JLPT0,工学部,こうがくぶ,department of engineering
+JLPT1,雑談,ざつだん,"chat, idle talk"
+JLPT0,時間割り,じかんわり,time table
+JLPT2,レベル,レベル,level
+JLPT0,専門家,せんもんか,"specialist, expert"
+JLPT1,短縮,たんしゅく,"shortening, contraction"
+JLPT1,登録,とうろく,registration
+JLPT2,必死,ひっし,desperation
+JLPT2,体育,たいいく,"physical training, physical education"
+JLPT2,レポート,レポート,"report, paper"
+JLPT2,払い込む,はらいこむ,"pay in, pay up"
+JLPT0,下,もと,under the supervision
+JLPT2,全て,すべて,"all, entirely"
+JLPT0,お手伝い,おてつだい,"helper, assistant"
+JLPT0,後片付け,あとかたづけ,cleaning up
+JLPT2,言付ける,ことづける,leave a message
+JLPT1,保守,ほしゅ,"conservation, maintenance"
+JLPT2,伝統,でんとう,"tradition, convention"
+JLPT2,伝わる,つたわる,"be transmitted, be handed down"
+JLPT1,伝説,でんせつ,"legend, folk tale"
+JLPT2,手伝い,てつだい,"help, assistant"
+JLPT2,真っ先,まっさき,"first thing, forefront"
+JLPT1,伝言,でんごん,verbal message
+JLPT1,固有,こゆう,"peculiar to, characteristic"
+JLPT3,小鳥,ことり,small bird
+JLPT0,焼き鳥,やきとり,"yakitori, grilled chicken"
+JLPT0,からす,からす,"crow, raven"
+JLPT1,悲鳴,ひめい,"shriek, scream"
+JLPT2,周囲,しゅうい,"circumference, surroundings"
+JLPT2,雑音,ざつおん,"noise, interference"
+JLPT0,大声,おおごえ,loud voice
+JLPT1,高まる,たかまる,"rise, increase"
+JLPT2,響く,ひびく,"reverberate, vibrate"
+JLPT0,笑い声,わらいごえ,laughter
+JLPT0,泣き声,なきごえ,"tearful voice, crying"
+JLPT0,話し声,はなしごえ,"voice, whisper"
+JLPT2,混じる,まじる,"be blended, get mixed"
+JLPT3,世話,せわ,"take care of, provide service"
+JLPT0,ぐるぐる,ぐるぐる,round and round
+JLPT1,くすぐったい,くすぐったい,ticklish
+JLPT2,日課,にっか,daily routine
+JLPT2,放す,はなす,"release, free"
+JLPT2,利口,りこう,"clever, bright"
+JLPT0,なめる,なめる,"lick, lap"
+JLPT2,禁止,きんし,"prohibition, forbiddance"
+JLPT2,警告,けいこく,"warning, admonition"
+JLPT0,後ろ向き,うしろむき,facing backward
+JLPT0,取り締まり,とりしまり,"regulation, crackdown"
+JLPT2,駐車,ちゅうしゃ,parking
+JLPT2,騒ぎ,さわぎ,"clamor, commotion"
+JLPT2,騒がしい,さわがしい,noisy
+JLPT0,がやがや,がやがや,chatter loudly
+JLPT2,騒音,そうおん,noise
+JLPT1,騒動,そうどう,"disturbance, confusion"
+JLPT2,騒々しい,そうぞうしい,"noisy, rowdy"
+JLPT2,飼う,かう,"raise, keep"
+JLPT0,いか,いか,squid
+JLPT2,名刺,めいし,"business card, calling card"
+JLPT0,まぐろ,まぐろ,tuna
+JLPT0,わさび,わさび,"wasabi, Japanese horseradish"
+JLPT2,急激,きゅうげき,"sudden, abrupt"
+JLPT2,刺激,しげき,"stimulus, stimulation"
+JLPT2,感激,かんげき,"deep emotion, moving"
+JLPT2,日中,にっちゅう,Sino-Japanese
+JLPT2,天候,てんこう,"weather, climate"
+JLPT2,人通り,ひとどおり,traffic
+JLPT1,脳,のう,brain
+JLPT3,興味,きょうみ,interest
+JLPT3,西洋,せいよう,"the West, the Occident"
+JLPT1,起源,きげん,"origin, beginning"
+JLPT0,一向に,いっこうに,"absolutely, at all"
+JLPT1,民族,みんぞく,"race, people"
+JLPT2,パターン,パターン,pattern
+JLPT3,文学,ぶんがく,literature
+JLPT1,興奮,こうふん,"excitement, agitation"
+JLPT2,観客,かんきゃく,"audience, spectator"
+JLPT2,現代,げんだい,"present age, modern times"
+JLPT2,驚かす,おどろかす,"surprise, amaze"
+JLPT2,至る,いたる,"come to, reach"
+JLPT0,至る所,いたるところ,"everywhere, all over"
+JLPT2,至急,しきゅう,"urgent, pressing"
+JLPT2,末,すえ,(after) the end
+JLPT0,出荷,しゅっか,"shipping, dispatch"
+JLPT2,一致,いっち,"accord, agreement"
+JLPT3,致す,いたす,humbly do
+JLPT1,遅れ,おくれ,"delay, being late"
+JLPT2,到着,とうちゃく,arrival
+JLPT2,地点,ちてん,"spot, point"
+JLPT1,過労,かろう,overwork
+JLPT0,急病,きゅうびょう,sudden illness
+JLPT1,倒産,とうさん,insolvency
+JLPT2,面倒,めんどう,"troublesome, difficult"
+JLPT1,疲労,ひろう,fatigue
+JLPT2,並木,なみき,"row of trees, roadside trees"
+JLPT2,斜め,ななめ,"diagonal, slant"
+JLPT2,たっぷり,たっぷり,"fully, amply"
+JLPT2,傾く,かたむく,"decline, go down"
+JLPT1,傾ける,かたむける,"lean, cock (one's head)"
+JLPT2,坂,さか,"slope, incline"
+JLPT1,緩やか,ゆるやか,"slack, loose"
+JLPT1,チェンジ,チェンジ,"change, exchange"
+JLPT0,狭まる,せばまる,"become narrow, contract"
+JLPT0,狭める,せばめる,"narrow, contract"
+JLPT1,空間,くうかん,"space, room"
+JLPT2,幅,はば,"width, breadth"
+JLPT1,徐行,じょこう,slow speed
+JLPT1,血管,けっかん,blood vessel
+JLPT0,硬さ,かたさ,hardness
+JLPT0,自然に,しぜんに,"naturally, instinctively"
+JLPT1,柔軟,じゅうなん,"pliable, flexible"
+JLPT1,傷める,いためる,"damage, spoil"
+JLPT3,柔らかい,やわらかい,"soft, gentle"
+JLPT1,緊急,きんきゅう,"urgent, pressing"
+JLPT2,緊張,きんちょう,"tension, strain"
+JLPT2,しばしば,しばしば,"often, frequently"
+JLPT2,出張,しゅっちょう,business trip
+JLPT2,命じる,めいじる,"order, give orders"
+JLPT0,人前,ひとまえ,in front of other people
+JLPT2,張り切る,はりきる,"go all out, make efforts"
+JLPT2,欲張り,よくばり,"greed, greedy"
+JLPT2,衝突,しょうとつ,"collision, conflict"
+JLPT2,失業,しつぎょう,"unemployment, loss of job"
+JLPT2,煙突,えんとつ,"chimney, smokestack"
+JLPT1,十字路,じゅうじろ,crossroads
+JLPT0,海上,かいじょう,maritime
+JLPT2,言い出す,いいだす,begin to speak
+JLPT2,煙,けむり,"smoke, fumes"
+JLPT2,突然,とつぜん,"abruptly, suddenly"
+JLPT2,突く,つく,"thrust, poke"
+JLPT0,発熱,はつねつ,"generation of heat, get a fever"
+JLPT0,追突,ついとつ,collision
+JLPT0,どきっと,どきっと,"surprised, shocked"
+JLPT2,停止,ていし,"stop, suspension"
+JLPT1,滑らか,なめらか,"smooth, glassy"
+JLPT2,触れる,ふれる,"touch, come in contact with"
+JLPT0,寝室,しんしつ,bedroom
+JLPT0,くっ付ける,くっつける,"join, paste"
+JLPT2,ぶつける,ぶつける,bump
+JLPT0,はげる,はげる,"come off, peel off"
+JLPT2,避ける,さける,"avoid, evade"
+JLPT2,訓練,くんれん,"training, drill"
+JLPT0,最悪,さいあく,the worst
+JLPT1,避難,ひなん,"refuge, shelter"
+JLPT2,基地,きち,"base, military base"
+JLPT1,軍事,ぐんじ,military affairs
+JLPT0,自衛隊,じえいたい,Self Defense Forces
+JLPT2,軍隊,ぐんたい,"army, troops"
+JLPT1,墜落,ついらく,"fall, crash"
+JLPT0,旅客機,りょかくき,passenger plane
+JLPT1,兵器,へいき,"arms, weapon"
+JLPT1,結核,けっかく,tuberculosis
+JLPT2,武器,ぶき,"weapon, arms"
+JLPT2,兵隊,へいたい,"soldier, troops"
+JLPT2,弾,たま,"bullet, shot"
+JLPT1,弾む,はずむ,"spring back, bounce"
+JLPT2,試し,ためし,"trial, test"
+JLPT2,シャッター,シャッター,shutter
+JLPT0,くしゃくしゃ,くしゃくしゃ,"messy, scrunch"
+JLPT0,真ん丸,まんまる,perfect circle
+JLPT2,専攻,せんこう,"major, specialization"
+JLPT2,攻める,せめる,"attack, take the offensive"
+JLPT0,ジャーナリズム,ジャーナリズム,journalism
+JLPT2,人文科学,じんぶんかがく,humanities
+JLPT1,美術,びじゅつ,"art, fine arts"
+JLPT2,物理,ぶつり,"physics, natural law"
+JLPT1,怒り,いかり,"anger, rage"
+JLPT1,管,かん,"pipe, tube"
+JLPT1,兵士,へいし,soldier
+JLPT2,爆発,ばくはつ,"explosion, eruption"
+JLPT1,爆弾,ばくだん,bomb
+JLPT0,起こす,おこす,"bring about, cause"
+JLPT2,暴れる,あばれる,"act violently, rage about"
+JLPT0,暴落,ぼうらく,"slump, crash"
+JLPT1,説く,とく,"explain, preach"
+JLPT1,暴力,ぼうりょく,"violence, force"
+JLPT2,乱暴,らんぼう,violence
+JLPT0,悲しみ,かなしみ,"grief, sadness"
+JLPT1,改良,かいりょう,"improvement, reform"
+JLPT1,争い,あらそい,"conflict, battle"
+JLPT2,絶対,ぜったい,absolutely
+JLPT0,気絶,きぜつ,fainting
+JLPT2,絶えず,たえず,"constantly, always"
+JLPT2,笑い,わらい,laughter
+JLPT1,肉体,にくたい,"body, flesh"
+JLPT1,滅びる,ほろびる,"go to ruin, fall"
+JLPT1,設置,せっち,establishment
+JLPT1,核,かく,"core, atomic nucleus"
+JLPT1,防衛,ぼうえい,"defense, protection"
+JLPT2,防止,ぼうし,"prevention, determent"
+JLPT1,防火,ぼうか,"fire prevention, fireproof"
+JLPT1,天災,てんさい,natural disaster
+JLPT1,妨害,ぼうがい,"hindrance, obstruction"
+JLPT2,嫌う,きらう,dislike
+JLPT2,嫌がる,いやがる,"dislike, hate"
+JLPT2,機嫌,きげん,"mood, health"
+JLPT2,好き嫌い,すききらい,"likes and dislikes, taste"
+JLPT2,徹夜,てつや,staying up all night
+JLPT2,生物,せいぶつ,"living creature, lifeform"
+JLPT0,徹底的,てっていてき,"thorough, exhaustive"
+JLPT1,到底,とうてい,"after all, in the long run"
+JLPT1,抗議,こうぎ,"protest, remonstrance"
+JLPT2,抵抗,ていこう,"resistance, opposition"
+JLPT0,グリーン,グリーン,green
+JLPT0,素敵,すてき,"lovely, nice"
+JLPT3,男性,だんせい,"male, man"
+JLPT1,デザイン,デザイン,design
+JLPT2,破る,やぶる,defeat
+JLPT2,ドレス,ドレス,dress
+JLPT0,横顔,よこがお,"profile, face seen from side"
+JLPT2,敵,てき,"enemy, foe"
+JLPT0,脅かす,おどかす,"threaten, intimidate"
+JLPT1,権威,けんい,"authority, power"
+JLPT2,威張る,いばる,"put on airs, be arrogant"
+JLPT1,情勢,じょうせい,"state of things, situation"
+JLPT2,勢い,いきおい,"vigor, momentum"
+JLPT2,方々,かたがた,people
+JLPT0,見物人,けんぶつにん,"spectator, sightseer"
+JLPT1,態勢,たいせい,"state, preparedness"
+JLPT2,映す,うつす,"reflect, project"
+JLPT2,書道,しょどう,Japanese calligraphy
+JLPT0,受け身,うけみ,"passiveness, passive voice"
+JLPT2,現す,あらわす,"show, reveal"
+JLPT2,常に,つねに,"always, at all times"
+JLPT1,死,し,death
+JLPT2,恐れる,おそれる,"fear, apprehend"
+JLPT0,恐らく,おそらく,probably
+JLPT1,顔付き,かおつき,"face, expression"
+JLPT0,怖がる,こわがる,"be afraid of, fear"
+JLPT2,巨大,きょだい,"huge, gigantic"
+JLPT1,拒否,きょひ,"denial, rejection"
+JLPT0,系列,けいれつ,affiliation
+JLPT2,系統,けいとう,"system, lineage"
+JLPT2,体系,たいけい,"system, organization"
+JLPT0,理系,りけい,science
+JLPT0,文系,ぶんけい,"liberal arts, humanities"
+JLPT2,子孫,しそん,"descendant, offspring"
+JLPT3,絹,きぬ,"silk, silk fabrics"
+JLPT2,綿,めん,cotton
+JLPT2,維持,いじ,"maintenance, upkeep"
+JLPT1,紳士,しんし,gentleman
+JLPT1,繁栄,はんえい,"prosperity, thriving"
+JLPT2,偉大,いだい,"great, mighty"
+JLPT2,発明,はつめい,invention
+JLPT0,日韓,にっかん,Japan and Korea
+JLPT2,刀,かたな,"sword, blade"
+JLPT0,かみそり,かみそり,razor
+JLPT1,耐える,たえる,"withstand, endure"
+JLPT2,矢印,やじるし,arrow
+JLPT1,孤独,こどく,"solitary, lonely"
+JLPT0,爪切り,つめきり,nail clipper
+JLPT0,ざらざら,ざらざら,"rough, gritty"
+JLPT0,散らばる,ちらばる,be scattered
+JLPT1,枠,わく,"frame, limits"
+JLPT2,水平,すいへい,"horizontal, level"
+JLPT1,振動,しんどう,vibration
+JLPT2,端,はし,"end, edge"
+JLPT1,固定,こてい,"fixing, stability"
+JLPT2,先端,せんたん,"edge, vanguard"
+JLPT2,棒,ぼう,"rod, stick"
+JLPT0,細長い,ほそながい,"long and thin, slender"
+JLPT1,事柄,ことがら,"matter, affair"
+JLPT2,柄,がら,"pattern, design"
+JLPT1,人柄,ひとがら,"character, personality"
+JLPT2,武士,ぶし,"samurai, warrior"
+JLPT0,重み,おもみ,"weight, importance"
+JLPT3,枝,えだ,"branch, twig"
+JLPT0,草木,くさき,plants and trees
+JLPT0,木枯らし,こがらし,cold wintry wind
+JLPT2,詩,し,poetry
+JLPT2,詩人,しじん,poet
+JLPT2,着替え,きがえ,change of clothes
+JLPT2,パイプ,パイプ,pipe
+JLPT2,詰める,つめる,"stuff, fill"
+JLPT2,詰まる,つまる,"be stuffed, be stopped up"
+JLPT0,無理やり,むりやり,"by force, against one's will"
+JLPT2,譲る,ゆずる,"transfer, concede"
+JLPT0,年配,ねんぱい,"age, elderly age"
+JLPT1,欠く,かく,lack
+JLPT1,誠実,せいじつ,"sincerity, honesty"
+JLPT0,誠に,まことに,"truly, very"
+JLPT3,盛ん,さかん,"prosperous, active"
+JLPT2,登場,とうじょう,"appearance on stage, appearance"
+JLPT0,盛り上げる,もりあげる,build up excitement
+JLPT2,地方,ちほう,"district, region"
+JLPT1,盛り上がる,もりあがる,"become lively, get fired up"
+JLPT2,盛る,もる,"heap up, fill"
+JLPT2,謙遜,けんそん,"humility, modesty"
+JLPT2,兼ねる,かねる,"serve two functions, combine"
+JLPT2,公式,こうしき,"formal, official"
+JLPT2,通す,とおす,"let pass, run through"
+JLPT2,針,はり,"needle, needle-shaped object"
+JLPT2,ペンチ,ペンチ,pliers
+JLPT2,確かめる,たしかめる,"make sure of, confirm"
+JLPT2,名人,めいじん,"master, master hand"
+JLPT0,釣り,つり,angling
+JLPT2,逃がす,にがす,let go
+JLPT0,釣り合い,つりあい,"balance, proportion"
+JLPT2,釣り合う,つりあう,"balance, match"
+JLPT2,鈍い,にぶい,"dull, sluggish"
+JLPT1,鈍感,どんかん,thick-headedness
+JLPT2,鎖,くさり,"chain, tether"
+JLPT3,申す,もうす,"speak humbly, state humbly"
+JLPT2,作製,さくせい,"manufacture, production"
+JLPT2,鑑賞,かんしょう,"viewing, enjoyment (of art)"
+JLPT1,印鑑,いんかん,personal seal
+JLPT2,鐘,かね,"bell, gong"
+JLPT0,観賞,かんしょう,ornamental
+JLPT0,アルミニウム,アルミニウム,aluminum
+JLPT2,鉄,てつ,iron
+JLPT0,出前,でまえ,home delivery of food
+JLPT2,谷,たに,"valley, ravine"
+JLPT2,余裕,よゆう,"room, leeway"
+JLPT2,海水浴,かいすいよく,sea bathing
+JLPT1,入浴,にゅうよく,bathing
+JLPT2,赤道,せきどう,equator
+JLPT1,沿う,そう,"lie along, follow along"
+JLPT0,砂浜,すなはま,"sandy beach, sands"
+JLPT1,浜,はま,"beach, seashore"
+JLPT0,はだし,はだし,"barefoot, bare feet"
+JLPT0,浮かぶ,うかぶ,float
+JLPT2,沖,おき,offshore
+JLPT2,湾,わん,"bay, gulf"
+JLPT2,泉,いずみ,"spring, fountain"
+JLPT2,温泉,おんせん,hot spring
+JLPT2,天然,てんねん,nature
+JLPT0,上流,じょうりゅう,upstream
+JLPT0,下流,かりゅう,downstream
+JLPT2,広場,ひろば,"square, open space"
+JLPT1,慣らす,ならす,accustom
+JLPT2,潜る,もぐる,dive into
+JLPT1,冷淡,れいたん,"cool, indifferent"
+JLPT2,濁る,にごる,get cloudy
+JLPT2,澄む,すむ,"clear, become clear"
+JLPT2,あふれる,あふれる,"over flow, flood"
+JLPT1,ポット,ポット,"pot, thermos"
+JLPT2,湯気,ゆげ,"steam, vapor"
+JLPT2,喜び,よろこび,"joy, happiness"
+JLPT2,湿る,しめる,"get damp, get wet"
+JLPT0,多量,たりょう,"large quantity, great deal"
+JLPT1,漏れる,もれる,"leak, be disclosed"
+JLPT1,漏らす,もらす,"give away, let leak"
+JLPT2,底,そこ,"bottom, depths"
+JLPT2,大部分,だいぶぶん,"most, greater part"
+JLPT2,濡らす,ぬらす,"wet, moisten"
+JLPT1,溝,みぞ,"ditch, groove"
+JLPT0,ねぎ,ねぎ,"Welsh onion, green onion"
+JLPT1,危機,きき,"crisis, emergency"
+JLPT1,叫び,さけび,"shout, cry"
+JLPT2,叫ぶ,さけぶ,"shout, cry out"
+JLPT2,吐く,はく,"holler, spew"
+JLPT1,嘆く,なげく,"sigh, grieve"
+JLPT0,喫煙,きつえん,smoking
+JLPT0,痛む,いたむ,"feel pain, hurt"
+JLPT1,音,ね,"sound, note"
+JLPT2,予防,よぼう,"prevention, protection"
+JLPT2,虫歯,むしば,"decayed tooth, cavity"
+JLPT3,虫,むし,"insect, worm"
+JLPT0,忠実,ちゅうじつ,"faithfulness, devotion"
+JLPT1,忠告,ちゅうこく,"advice, admonishment"
+JLPT2,いけない,いけない,"wrong, must not"
+JLPT0,懸ける,かける,stake
+JLPT0,一まず,ひとまず,first of all
+JLPT2,恩,おん,"debt of gratitude, kindness"
+JLPT2,恵まれる,めぐまれる,"be blessed, be privileged"
+JLPT1,天,てん,"sky, Heaven"
+JLPT2,道徳,どうとく,"morality, morals"
+JLPT0,知り合い,しりあい,acquaintance
+JLPT0,市街,しがい,"the streets, downtown"
+JLPT1,問屋,とんや,"wholesale store, wholesaler"
+JLPT2,直径,ちょっけい,diameter
+JLPT2,半径,はんけい,radius
+JLPT0,和室,わしつ,Japanese style room
+JLPT1,漏る,もる,"leak, be leaky"
+JLPT2,丼,どんぶり,bowl
+JLPT0,小量,しょうりょう,small amount
+JLPT2,転がす,ころがす,"roll, roll over"
+JLPT2,粉,こな,"powder, flour"
+JLPT2,粒,つぶ,"grain, drop"
+JLPT2,小麦,こむぎ,wheat
+JLPT0,小麦粉,こむぎこ,flour
+JLPT0,大麦,おおむぎ,barley
+JLPT2,量る,はかる,"measure, weigh"
+JLPT1,一帯,いったい,"area, vicinity"
+JLPT2,取れる,とれる,"be harvested, be cultivated"
+JLPT0,麦,むぎ,wheat
+JLPT0,田畑,たはた,fields and rice paddies
+JLPT2,炊事,すいじ,cooking
+JLPT2,灯油,とうゆ,"kerosene, lamp oil"
+JLPT3,電灯,でんとう,"lamp, electric light"
+JLPT2,炎,ほのお,"flame, blaze"
+JLPT0,スモッグ,スモッグ,smog
+JLPT1,暦,こよみ,"calendar, almanac"
+JLPT0,年月日,ねんがっぴ,date
+JLPT2,皮,かわ,"peel, fur"
+JLPT2,皮肉,ひにく,"cynicism, irony"
+JLPT0,むける,むける,"come off, peel"
+JLPT0,むく,むく,"peel, pare"
+JLPT2,皮膚,ひふ,skin
+JLPT2,毛皮,けがわ,fur
+JLPT2,税関,ぜいかん,"custom house, customs"
+JLPT2,毛糸,けいと,"woolen yarn, wool"
+JLPT2,ブラシ,ブラシ,brush
+JLPT1,尾,お,tail
+JLPT2,結ぶ,むすぶ,"tie, join"
+JLPT1,乱れる,みだれる,"be disordered, be disturbed"
+JLPT2,そっと,そっと,"softly, gently"
+JLPT2,ピン,ピン,"hairpin, pin"
+JLPT1,染める,そめる,"dye, color"
+JLPT2,いきなり,いきなり,"all of a sudden, without warning"
+JLPT2,張る,はる,"strain, be stretched"
+JLPT0,もむ,もむ,"rub, massage"
+JLPT1,耳鼻科,じびか,"otorhinology, ENT"
+JLPT2,唇,くちびる,"lip, lips"
+JLPT0,臭い,におい,"smell, odor"
+JLPT1,生臭い,なまぐさい,smelling of fish
+JLPT0,臭う,におう,stink (unpleasant)
+JLPT2,面倒臭い,めんどうくさい,"troublesome, tiresome"
+JLPT2,匂う,におう,smell (pleasant)
+JLPT1,ベスト,ベスト,best
+JLPT2,解釈,かいしゃく,"interpretation, explanation"
+JLPT2,居間,いま,living room
+JLPT2,居る,おる,"be present, stay (humble)"
+JLPT0,間,かん,"interval, duration of time"
+JLPT2,まあ,まあ,well
+JLPT1,同居,どうきょ,living together
+JLPT2,土,つち,"soil, ground"
+JLPT2,寄せる,よせる,"draw near, draw up, gather"
+JLPT2,一層,いっそう,"more, even more"
+JLPT2,高層,こうそう,"high altitude, high-rise"
+JLPT0,そびえる,そびえる,tower
+JLPT2,大層,たいそう,"very, highly"
+JLPT1,履歴,りれき,"history, personal history"
+JLPT0,履歴書,りれきしょ,"resume, bio"
+JLPT2,覆う,おおう,"cover, hide"
+JLPT1,戸籍,こせき,family register
+JLPT0,ガラス戸,がらすど,glass door
+JLPT1,成年,せいねん,"majority, adult"
+JLPT2,薬品,やくひん,"medicine, drug"
+JLPT2,戸棚,とだな,"closet, cupboard"
+JLPT1,扉,とびら,door
+JLPT0,うちわ,うちわ,round paper fan
+JLPT2,羽根,はね,feather
+JLPT0,翌日,よくじつ,the following day
+JLPT0,翌朝,よくあさ,the following morning
+JLPT0,翌年,よくねん,the following year
+JLPT0,陸,おか,"land, shore"
+JLPT2,新鮮,しんせん,fresh
+JLPT2,市場,いちば,"market, marketplace"
+JLPT1,鮮やか,あざやか,vivid
+JLPT0,あり,あり,ant
+JLPT1,群集,ぐんしゅう,crowd
+JLPT2,群れ,むれ,"crowd, herd"
+JLPT2,郡,ぐん,county
+JLPT2,スケジュール,スケジュール,schedule
+JLPT3,君,きみ,you
+JLPT3,連れる,つれる,"take along, bring along"
+JLPT2,任せる,まかせる,"entrust to, leave it to"
+JLPT2,長所,ちょうしょ,"strong point, merit"
+JLPT0,殴る,なぐる,"hit, strike"
+JLPT2,要旨,ようし,"gist, overview"
+JLPT2,脂,あぶら,"fat, grease"
+JLPT1,脂肪,しぼう,"fat, grease"
+JLPT0,すべすべ,すべすべ,smooth
+JLPT2,肌,はだ,"skin, surface"
+JLPT2,肌着,はだぎ,underwear
+JLPT0,肌色,はだいろ,flesh color
+JLPT2,コック,コック,"cook, chef"
+JLPT1,領域,りょういき,"territory, domain"
+JLPT0,胃腸,いちょう,stomach and intestines
+JLPT1,腸,ちょう,"intestines, entrails"
+JLPT1,肝心,かんじん,"vital, essential"
+JLPT1,大胆,だいたん,"boldness, daring"
+JLPT2,幕,まく,curtain
+JLPT2,暮らす,くらす,"live, earn one's livelihood"
+JLPT2,暮らし,くらし,"living, livelihood"
+JLPT2,暮れ,くれ,"dusk, the end (of a season or a year)"
+JLPT3,暮れる,くれる,grow dark
+JLPT2,温暖,おんだん,"warm, mild"
+JLPT0,お歳暮,おせいぼ,year-end gift
+JLPT0,ぜいたく,ぜいたく,"luxury, extravagance"
+JLPT0,わずか,わずか,"few, little"
+JLPT2,不自由,ふじゆう,"inconvenience, discomfort"
+JLPT1,調和,ちょうわ,"harmony, agreement"
+JLPT2,望み,のぞみ,"desire, hope"
+JLPT1,夕暮れ,ゆうぐれ,"evening, twilight"
+JLPT0,仲良く,なかよく,"harmoniously, amicably"
+JLPT2,王,おう,king
+JLPT1,墓地,ぼち,"graveyard, cemetery"
+JLPT0,墓参り,はかまいり,visit to a grave
+JLPT2,芝生,しばふ,"lawn, turf"
+JLPT2,芽,め,"bud, sprout"
+JLPT1,茎,くき,stem
+JLPT0,順々に,じゅんじゅんに,"by turns, in order"
+JLPT0,つまむ,つまむ,munch on
+JLPT2,推薦,すいせん,"recommendation, nomination"
+JLPT1,沿岸,えんがん,"coast, shore"
+JLPT2,荒れる,あれる,"be wild, run waste"
+JLPT2,荒い,あらい,"wild, reckless"
+JLPT2,荒い,あらい,"harsh, rough"
+JLPT0,荒す,あらす,"damage, ransack"
+JLPT0,慌ただしい,あわただしい,busy
+JLPT0,慌てる,あわてる,"be flurried, hurry"
+JLPT2,葬式,そうしき,funeral ceremony
+JLPT2,儀式,ぎしき,"ceremony, ritual"
+JLPT2,行儀,ぎょうぎ,"manners, behavior"
+JLPT2,礼儀,れいぎ,"good manners, courtesy"
+JLPT1,犠牲,ぎせい,sacrifice
+JLPT1,悪,あく,"evil, badness"
+JLPT2,憎む,にくむ,"hate, detest"
+JLPT1,憎しみ,にくしみ,"hatred, enmity"
+JLPT2,憎らしい,にくらしい,"hateful, horrible"
+JLPT2,憎い,にくい,"hateful, abominable"
+JLPT2,仏,ほとけ,"buddha, Buddhist image"
+JLPT0,仏教,ぶっきょう,Buddhism
+JLPT2,日,にち,Japan
+JLPT0,お坊さん,おぼうさん,"monk, priest"
+JLPT2,鳴らす,ならす,"ring, sound"
+JLPT2,題名,だいめい,title
+JLPT2,坊さん,ぼうさん,Buddhist priest
+JLPT0,乗り遅れる,のりおくれる,miss
+JLPT0,ホット,ホット,hot
+JLPT0,国旗,こっき,national flag
+JLPT1,日の丸,ひのまる,"Rising Sun Flag, Japanese flag"
+JLPT2,筆者,ひっしゃ,writer
+JLPT0,筆記試験,ひっきしけん,written examination
+JLPT0,とがる,とがる,be sharp
+JLPT0,筆記用具,ひっきようぐ,"writing materials, pens and pencils"
+JLPT2,筆,ふで,"writing brush, penmanship"
+JLPT2,竹,たけ,bamboo
+JLPT2,笛,ふえ,"flute, whistle"
+JLPT1,名簿,めいぼ,"registry, name list"
+JLPT2,全身,ぜんしん,the whole body
+JLPT2,筋肉,きんにく,"muscle, sinews"
+JLPT0,筋道,すじみち,"method, logic"
+JLPT2,筋,すじ,muscle
+JLPT2,伸ばす,のばす,"stretch, straighten"
+JLPT2,光,ひかり,"light, flash"
+JLPT2,ぎっしり,ぎっしり,tightly
+JLPT2,小,しょう,"smallness, small size"
+JLPT2,食料,しょくりょう,food supplies
+JLPT0,ふた,ふた,"lid, cover"
+JLPT0,水色,みずいろ,"sky blue, turquoise"
+JLPT2,透明,とうめい,transparent
+JLPT2,座布団,ざぶとん,cushion
+JLPT0,まし,まし,"more, better"
+JLPT3,すり,すり,pickpocket
+JLPT0,落とし物,おとしもの,lost property
+JLPT2,突っ込む,つっこむ,"thrust in, dash into"
+JLPT0,たった,たった,"only, merely"
+JLPT2,ふわふわ,ふわふわ,soft
+JLPT2,取り出す,とりだす,"take out, pull out"
+JLPT2,布,ぬの,cloth
+JLPT1,自己,じこ,"oneself, self"
+JLPT2,切れ,きれ,sharpness
+JLPT0,包丁,ほうちょう,"kitchen knife, carving knife"
+JLPT2,包み,つつみ,"package, parcel"
+JLPT0,包み紙,つつみがみ,wrapping paper
+JLPT2,抱える,かかえる,hold in one's arms
+JLPT2,抱く,いだく,"embrace, hug"
+JLPT1,悩み,なやみ,"troubles, worries"
+JLPT0,少量,しょうりょう,small quantity
+JLPT2,句,く,"phrase, clause"
+JLPT0,慣用句,かんようく,"idiom, common phrase"
+JLPT2,文句,もんく,complaint
+JLPT2,下旬,げじゅん,end of the month
+JLPT2,上旬,じょうじゅん,beginning of the month
+JLPT2,中旬,ちゅうじゅん,middle ten days of a month
+JLPT2,飽きる,あきる,be fed up
+JLPT2,額,がく,picture frame
+JLPT2,飾り,かざり,"ornament, decoration"
+JLPT2,餌,えさ,"bait, feed"
+JLPT2,平凡,へいぼん,"common, ordinary"
+JLPT2,通帳,つうちょう,"bankbook, passbook"
+JLPT2,旧,きゅう,"old, former"
+JLPT2,育児,いくじ,"childcare, child-raising"
+JLPT1,小児科,しょうにか,pediatrics
+JLPT1,妊娠,にんしん,"pregnancy, conception"
+JLPT1,姓名,せいめい,full name
+JLPT2,姓,せい,"surname, family name"
+JLPT0,同姓,どうせい,same surname
+JLPT2,嫁,よめ,"bride, daughter-in-law"
+JLPT2,花嫁,はなよめ,bride
+JLPT0,花婿,はなむこ,bridegroom
+JLPT0,品切れ,しなぎれ,"run out, sell out"
+JLPT2,親類,しんるい,"relatives, kin"
+JLPT2,幼い,おさない,"young, childish"
+JLPT2,幼児,ようじ,"young child, infant"
+JLPT0,がさがさ,がさがさ,rustle
+JLPT2,着ける,つける,"pull up, park (a vehicle)"
+JLPT1,眼科,がんか,ophthalmology
+JLPT1,近眼,きんがん,"nearsightedness, shortsightedness"
+JLPT2,レンズ,レンズ,lens
+JLPT1,快い,こころよい,"pleasant, agreeable"
+JLPT2,すっきり,すっきり,refreshed
+JLPT0,すやすや,すやすや,peaceful and content
+JLPT2,居眠り,いねむり,"doze, nap"
+JLPT2,単に,たんに,"merely, simply"
+JLPT1,催す,もよおす,"feel, experience"
+JLPT1,膨れる,ふくれる,"expand, fill up"
+JLPT0,乗り越す,のりこす,ride past
+JLPT1,眠たい,ねむたい,sleepy
+JLPT0,眠り,ねむり,"sleep, slumber"
+JLPT2,まぶた,まぶた,eyelid
+JLPT2,眺め,ながめ,"view, prospect"
+JLPT2,一瞬,いっしゅん,"instant, moment"
+JLPT2,睡眠,すいみん,"sleep, slumber"
+JLPT2,垂直,すいちょく,"vertical, perpendicular"
+JLPT1,同封,どうふう,enclosure
+JLPT1,封,ふう,"seal, sealing"
+JLPT1,圧力,あつりょく,pressure
+JLPT2,回転,かいてん,"revolution, rotation"
+JLPT2,カバー,カバー,"cover, covering"
+JLPT1,心掛ける,こころがける,"bear in mind, try"
+JLPT2,腰掛ける,こしかける,sit down
+JLPT0,男らしい,おとこらしい,"manly, masculine"
+JLPT0,寒暖計,かんだんけい,thermometer
+JLPT2,腰掛け,こしかけ,"stool, seat"
+JLPT0,じゃんじゃん,じゃんじゃん,"many times, repeatedly"
+JLPT2,呼び掛ける,よびかける,"call to, appeal to"
+JLPT2,引っ掛かる,ひっかかる,"be caught, be trapped"
+JLPT2,話し掛ける,はなしかける,"address someone, speak to someone"
+JLPT2,通り掛かる,とおりかかる,happen to pass by
+JLPT0,引っ掛ける,ひっかける,hook on
+JLPT1,寄り掛かる,よりかかる,lean against something
+JLPT1,措置,そち,"measure, step"
+JLPT2,拝む,おがむ,"bow in veneration, worship"
+JLPT3,拝見,はいけん,humbly look at or see
+JLPT1,控える,ひかえる,"hold back, show moderation"
+JLPT0,控え室,ひかえしつ,waiting room
+JLPT2,コンセント,コンセント,"outlet, wall socket"
+JLPT2,当番,とうばん,"being on duty, person on duty"
+JLPT0,見違える,みちがえる,"mistake, fail to recognize"
+JLPT0,ほうき,ほうき,broom
+JLPT1,差し出す,さしだす,"submit, stretch out"
+JLPT2,少女,しょうじょ,girl
+JLPT2,上,じょう,"upper, best"
+JLPT0,弱み,よわみ,"weakness, shortcoming"
+JLPT0,握り締める,にぎりしめる,"squeeze, grip"
+JLPT0,両手,りょうて,both hands
+JLPT2,設備,せつび,"equipment, facilities"
+JLPT1,各種,かくしゅ,"each kind, various"
+JLPT2,揃う,そろう,be (all) together
+JLPT3,道具,どうぐ,tool
+JLPT2,括弧,かっこ,"parentheses, brackets"
+JLPT2,マーケット,マーケット,market
+JLPT2,オーケストラ,オーケストラ,"orchestra, orchestral music"
+JLPT1,指揮,しき,"command, initiative"
+JLPT2,輝く,かがやく,"shine brilliantly, glitter"
+JLPT0,抑える,おさえる,"suppress, bring under control"
+JLPT0,欲求,よっきゅう,"want, desire"
+JLPT2,信仰,しんこう,"faith, religious belief"
+JLPT1,定年,ていねん,mandatory retirement age
+JLPT2,出迎え,でむかえ,"meeting, receiving"
+JLPT0,保育園,ほいくえん,"day-care center, nursery school"
+JLPT2,迎え,むかえ,"greeting, meeting"
+JLPT1,遂げる,とげる,"accomplish, achieve"
+JLPT0,目覚ましい,めざましい,"striking, marvelous"
+JLPT2,巡る,めぐる,"go round, circulate"
+JLPT2,偶然,ぐうぜん,"chance, accident"
+JLPT2,偶数,ぐうすう,even number
+JLPT3,隅,すみ,"nook, corner"
+JLPT2,城,しろ,"castle, fort"
+JLPT1,栽培,さいばい,"cultivation, raising"
+JLPT1,警戒,けいかい,"vigilance, precaution"
+JLPT0,挙げる,あげる,"cite, give (an example)"
+JLPT2,幾ら,いくら,no matter how much
+JLPT2,伺う,うかがう,politely ask
+JLPT2,俳句,はいく,haiku
+JLPT2,俳優,はいゆう,"actor, actress"
+JLPT2,動作,どうさ,"movements, actions"
+JLPT1,敏感,びんかん,sensitive
+JLPT1,後悔,こうかい,regret
+JLPT2,悔しい,くやしい,"vexing, frustrating"
+JLPT0,今更,いまさら,"now, too late"
+JLPT2,倣う,ならう,"copy, follow an example"
+JLPT1,俺,おれ,"I, me"
+JLPT0,ロック,ロック,rock (music)
+JLPT1,反感,はんかん,"ill feeling, antipathy"
+JLPT2,振り向く,ふりむく,"turn around, look back"
+JLPT2,性格,せいかく,"character, personality"
+JLPT1,一部分,いちぶぶん,"part, portion"
+JLPT2,肯定,こうてい,affirmation
+JLPT2,空っぽ,からっぽ,empty
+JLPT2,オルガン,オルガン,"organ, pipe organ"
+JLPT4,辛い,からい,"strict, severe"
+JLPT0,書き取り,かきとり,dictation
+JLPT1,本気,ほんき,"seriousness, earnestness"
+JLPT0,つかむ,つかむ,"grip, grab"
+JLPT2,相撲,すもう,sumo wrestling
+JLPT0,入門,にゅうもん,initiation
+JLPT2,不平,ふへい,"discontent, dissatisfaction"
+JLPT2,寮,りょう,"dormitory, lodging house"
+JLPT0,偏る,かたよる,"be one-sided, deviate"
+JLPT1,偏見,へんけん,"prejudice, biased view"
+JLPT0,一遍に,いっぺんに,all at once
+JLPT0,何遍,なんべん,how many times
+JLPT2,程,ほど,"extent, limit"
+JLPT2,掘る,ほる,"dig, unearth"
+JLPT2,宗教,しゅうきょう,religion
+JLPT2,宣伝,せんでん,"publicity, advertisement"
+JLPT1,審議,しんぎ,"deliberation, consideration"
+JLPT2,憲法,けんぽう,"constitution, constitutional law"
+JLPT2,扱う,あつかう,"handle, deal with"
+JLPT3,展覧会,てんらんかい,exhibition
+JLPT1,資産,しさん,"property, assets"
+JLPT1,非難,ひなん,"criticism, blame"
+JLPT2,総理大臣,そうりだいじん,prime minister
+JLPT2,大臣,だいじん,minister
+JLPT2,休業,きゅうぎょう,"suspension of business, closure"
+JLPT1,臨む,のぞむ,be present at
+JLPT2,臨時,りんじ,"temporary, provisional"
+JLPT2,改造,かいぞう,"remodeling, reorganization"
+JLPT1,内閣,ないかく,cabinet
+JLPT0,闘う,たたかう,fight
+JLPT0,派閥,はばつ,"clique, faction"
+JLPT1,分裂,ぶんれつ,"division, split"
+JLPT1,衰える,おとろえる,"weaken, decline"
+JLPT1,振り返る,ふりかえる,"turn one's head, turn round"
+JLPT2,懐かしい,なつかしい,"longed-for, old"
+JLPT1,惜しむ,おしむ,"grudge, regret"
+JLPT2,惜しい,おしい,"almost, close"
+JLPT2,火山,かざん,volcano
+JLPT2,噴火,ふんか,"eruption, volcanic activity"
+JLPT2,噴水,ふんすい,"jet, fountain"
+JLPT2,恨み,うらみ,"grudge, hatred"
+JLPT2,恨む,うらむ,"hold a grudge, feel resentment"
+JLPT0,不愉快,ふゆかい,"unpleasant, disagreeable"
+JLPT2,愉快,ゆかい,"pleasant, delightful"
+JLPT2,覚悟,かくご,"readiness, resolution"
+JLPT2,追う,おう,"chase, pursue"
+JLPT2,親指,おやゆび,thumb
+JLPT2,怪しい,あやしい,"suspicious, dubious"
+JLPT0,怪しむ,あやしむ,suspect
+JLPT2,軍,ぐん,"army, troops"
+JLPT2,鋭い,するどい,"pointed, acute"
+JLPT2,防ぐ,ふせぐ,"prevent, defend"
+JLPT1,復活,ふっかつ,"revival, rebirth"
+JLPT2,付近,ふきん,"neighborhood, environs"
+JLPT0,手当て,てあて,"allowance, medical care"
+JLPT0,人差し指,ひとさしゆび,index finger
+JLPT2,限界,げんかい,"boundary, limit"
+JLPT2,自慢,じまん,showing off
+JLPT2,感心,かんしん,admiration
+JLPT2,少々,しょうしょう,"a little, a few"
+JLPT2,下品,げひん,"vulgar, low"
+JLPT3,漫画,まんが,"manga, comics"
+JLPT2,囲む,かこむ,"enclose, encircle"
+JLPT2,食卓,しょくたく,dining table
+JLPT2,元,もと,"origin, source"
+JLPT0,電卓,でんたく,pocket calculator
+JLPT2,歓迎,かんげい,welcome
+JLPT2,医師,いし,"doctor, physician"
+JLPT2,勧める,すすめる,"suggest, recommend"
+JLPT1,焦る,あせる,"feel pressured, feel hurried"
+JLPT2,焦げる,こげる,"scorch, burn"
+JLPT1,英雄,えいゆう,hero
+JLPT1,山脈,さんみゃく,mountain range
+JLPT0,雄大,ゆうだい,"grand, magnificent"
+JLPT0,正に,まさに,"just, surely"
+JLPT1,獲得,かくとく,acquisition
+JLPT2,収穫,しゅうかく,"harvest, harvesting"
+JLPT2,幼稚,ようち,"childish, infantile"
+JLPT2,稲,いね,rice plant
+JLPT2,稼ぐ,かせぐ,"earn, make money"
+JLPT0,学費,がくひ,"school expenses, tuition"
+JLPT1,名称,めいしょう,name
+JLPT1,秩序,ちつじょ,"order, method"
+JLPT0,原稿用紙,げんこうようし,"manuscript paper, writing pad"
+JLPT2,性質,せいしつ,"nature, property"
+JLPT2,穏やか,おだやか,"calm, mild"
+JLPT2,波,なみ,"wave, fluctuations"
+JLPT2,隠す,かくす,"hide, conceal"
+JLPT1,驚き,おどろき,"surprise, amazement"
+JLPT0,お陰,おかげ,"help, thanks to"
+JLPT2,陰,かげ,"shade, behind the scenes"
+JLPT0,物陰,ものかげ,place behind something
+JLPT2,魅力,みりょく,"charm, attraction"
+JLPT2,塊,かたまり,"lump, ingot"
+JLPT2,醜い,みにくい,"ugly, bad-looking"
+JLPT1,卑しい,いやしい,"mean, greedy"
+JLPT2,砕く,くだく,"crush, smash"
+JLPT2,砕ける,くだける,"be crushed, break down"
+JLPT2,基礎,きそ,"basis, foundation"
+JLPT2,貝,かい,"shellfish, shell"
+JLPT0,ぬるぬる,ぬるぬる,slimy
+JLPT1,浜辺,はまべ,"beach, seashore"
+JLPT2,賢い,かしこい,"wise, smart"
+JLPT2,王様,おうさま,king
+JLPT0,悪賢い,わるがしこい,"cunning, sly"
+JLPT0,頻りに,しきりに,"frequently, repeatedly"
+JLPT2,心理,しんり,"mental state, psychology"
+JLPT1,決勝,けっしょう,"final, final game"
+JLPT1,頑固,がんこ,"stubborn, obstinate"
+JLPT0,ぴょんぴょん,ぴょんぴょん,"jump, hop"
+JLPT2,あきれる,あきれる,be stunned in disappointment or disbelief
+JLPT0,せいぜい,せいぜい,at most
+JLPT2,祝い,いわい,"celebration, congratulation"
+JLPT2,頂く,いただく,"receive, eat"
+JLPT1,到達,とうたつ,"arrival, attainment"
+JLPT2,頂上,ちょうじょう,"summit, climax"
+JLPT2,見下ろす,みおろす,"look down, overlook"
+JLPT0,マヨネーズ,マヨネーズ,mayonnaise
+JLPT1,勢力,せいりょく,"influence, power"
+JLPT2,学問,がくもん,"learning, scholarship"
+JLPT1,青春,せいしゅん,youth
+JLPT3,赤ん坊,あかんぼう,baby
+JLPT0,秋分,しゅうぶん,autumnal equinox
+JLPT0,春分,しゅんぶん,vernal equinox
+JLPT0,不機嫌,ふきげん,"bad mood, displeasure"
+JLPT2,近頃,ちかごろ,"recently, nowadays"
+JLPT2,矛盾,むじゅん,contradiction
+JLPT2,倉庫,そうこ,"warehouse, storehouse"
+JLPT1,創立,そうりつ,"establishment, organization"
+JLPT0,一斉に,いっせいに,"all together, all at once"
+JLPT2,強力,きょうりょく,powerful
+JLPT2,液体,えきたい,"liquid, fluid"
+JLPT2,真剣,しんけん,"serious, sincere"
+JLPT1,演じる,えんじる,"perform, play"
+JLPT0,刑務所,けいむしょ,prison
+JLPT2,刑事,けいじ,detective
+JLPT0,罰金,ばっきん,"fine, penalty"
+JLPT2,罰する,ばっする,punish
+JLPT1,罰,ばつ,"punishment, penalty"
+JLPT0,一般に,いっぱんに,"generally, in general"
+JLPT2,老人,ろうじん,"old person, elderly"
+JLPT2,楽しみ,たのしみ,"pleasure, something looked forward to"
+JLPT0,物知り,ものしり,"knowledgeable person, know-it-all"
+JLPT2,豆,まめ,"bean, peas"
+JLPT2,煮る,にる,"boil, cook"
+JLPT2,煮える,にえる,"boil, be boiled"
+JLPT2,蒸し暑い,むしあつい,humid
+JLPT1,強烈,きょうれつ,"intense, severe"
+JLPT2,黙る,だまる,"become silent, shut one's mouth"
+JLPT1,獣,けもの,"beast, brute"
+JLPT2,税金,ぜいきん,tax
+JLPT2,無駄,むだ,"no good, pointless"
+JLPT1,無駄遣い,むだづかい,wasting money
+JLPT2,応援,おうえん,"support, cheering"
+JLPT1,駆ける,かける,"gallop, run quickly"
+JLPT1,駆け足,かけあし,"gallop, run"
+JLPT2,気体,きたい,"gas, vapor"
+JLPT1,沸騰,ふっとう,boiling
+JLPT2,丘,おか,"hill, slope"
+JLPT1,見渡す,みわたす,look out over
+JLPT2,民間,みんかん,"citizens, civilians"
+JLPT0,返却,へんきゃく,return
+JLPT2,官庁,かんちょう,government office
+JLPT2,県庁,けんちょう,prefectural office
+JLPT0,庁,ちょう,"public office, agency"
+JLPT0,都庁,とちょう,Tokyo Metropolitan City Hall
+JLPT0,府庁,ふちょう,urban prefectural office
+JLPT2,栄養,えいよう,"nutrition, nourishment"
+JLPT2,洗剤,せんざい,"detergent, cleanser"
+JLPT2,ペンキ,ペンキ,paint
+JLPT0,つるつる,つるつる,"smooth, slippery"
+JLPT2,生じる,しょうじる,"happen, cause"
+JLPT2,擦る,こする,"rub, strike"
+JLPT2,摩擦,まさつ,"friction, rubbing"
+JLPT2,汗,あせ,sweat
+JLPT2,額,ひたい,"forehead, brow"
+JLPT1,びっしょり,びっしょり,soaked
+JLPT0,てのひら,てのひら,palm
+JLPT1,軸,じく,axis
+JLPT2,後輩,こうはい,one's junior
+JLPT3,先輩,せんぱい,"senior, superior"
+JLPT2,製作,せいさく,"manufacture, production"
+JLPT2,香り,かおり,"perfume, fragrance"
+JLPT2,香水,こうすい,perfume
+JLPT0,あえて,あえて,boldly
+JLPT2,冒険,ぼうけん,"adventure, risk"
+JLPT1,合唱,がっしょう,chorus
+JLPT0,かえる,かえる,frog
+JLPT1,結晶,けっしょう,crystallization
+JLPT1,人格,じんかく,"character, personality"
+JLPT2,敬う,うやまう,"respect, honor"
+JLPT2,座敷,ざしき,"drawing room, Japanese-style room"
+JLPT0,敷金,しききん,"deposit, key money"
+JLPT0,取り敢えず,とりあえず,"for now, first of all"
+JLPT2,消防,しょうぼう,"fire fighting, fire prevention"
+JLPT2,勇気,ゆうき,"courage, nerve"
+JLPT1,勇敢,ゆうかん,"brave, heroic"
+JLPT2,劣る,おとる,"be inferior to, be worse than"
+JLPT1,励ます,はげます,"encourage, urge"
+JLPT0,わく,わく,well up
+JLPT2,実は,じつは,actually
+JLPT2,勘定,かんじょう,"check, tab"
+JLPT2,勘,かん,"sense, intuition"
+JLPT2,勘違い,かんちがい,misunderstanding
+JLPT0,ごろごろ,ごろごろ,rumble
+JLPT2,霧,きり,"fog, mist"
+JLPT0,開ける,ひらける,"widen, develop"
+JLPT2,霜,しも,frost
+JLPT1,露,つゆ,"dew, dewdrop"
+JLPT0,零下,れいか,"below zero, sub-zero"
+JLPT2,雰囲気,ふんいき,"atmosphere, mood"
+JLPT1,和らげる,やわらげる,"soften, relieve"
+JLPT2,盆地,ぼんち,"valley, basin"
+JLPT2,盆,ぼん,Bon Festival
+JLPT2,盆,ぼん,tray
+JLPT2,解散,かいさん,"breakup, dissolution"
+JLPT2,公衆,こうしゅう,the public
+JLPT1,衆議院,しゅうぎいん,"House of Representatives, Lower House"
+JLPT1,観衆,かんしゅう,audience
+JLPT1,群衆,ぐんしゅう,"the masses, multitude"
+JLPT1,大衆,たいしゅう,"the masses, the populace"
+JLPT2,どっと,どっと,burst (out laughing)
+JLPT0,暑中見舞い,しょちゅうみまい,summer greeting
+JLPT0,お仕舞い,おしまい,"finished, over"
+JLPT2,舞台,ぶたい,"stage, setting"
+JLPT2,見舞う,みまう,visit someone
+JLPT2,見舞い,みまい,personal visit
+JLPT0,ひらりと,ひらりと,"lightly, delicately"
+JLPT1,軽快,けいかい,"light, cheerful"
+JLPT1,リード,リード,"the lead, take a lead"
+JLPT0,盆踊り,ぼんおどり,Bon Festival dance
+JLPT2,海洋,かいよう,"ocean, sea"
+JLPT2,ブレーキ,ブレーキ,brake
+JLPT2,跳ねる,はねる,"leap, hop, bound"
+JLPT2,金銭,きんせん,"money, cash"
+JLPT0,銭湯,せんとう,"public bath, bathhouse"
+JLPT2,古里,ふるさと,"hometown, birthplace"
+JLPT2,児童,じどう,"child, juvenile"
+JLPT2,図書,としょ,books
+JLPT2,埋める,うめる,"bury, fill up"
+JLPT1,埋める,うずめる,"bury, fill in"
+JLPT2,墨,すみ,black ink
+JLPT3,講堂,こうどう,"lecture hall, auditorium"
+JLPT0,セルフサービス,セルフサービス,self-service
+JLPT1,決意,けつい,"resolution, determination"
+JLPT2,奨学金,しょうがくきん,"scholarship, fellowship"
+JLPT2,狂う,くるう,"become insane, get out of order"
+JLPT2,瞬間,しゅんかん,"instant, moment"
+JLPT2,障子,しょうじ,paper sliding-door
+JLPT2,転がる,ころがる,"roll over, tumble"
+JLPT0,くるくる,くるくる,"round and round, spin"
+JLPT1,雄,おす,male
+JLPT0,可愛がる,かわいがる,"love, cherish"
+JLPT2,眺める,ながめる,"look out, gaze"
+JLPT2,線路,せんろ,"line, track"
+JLPT2,横切る,よこぎる,"cross, go across"
+JLPT2,塀,へい,"fence, wall"
+JLPT1,名付ける,なづける,"name, give a name to"
+JLPT0,百科事典,ひゃっかじてん,encyclopedia
+JLPT0,飛び下りる,とびおりる,"jump off, jump down"
+JLPT1,雌,めす,female
+JLPT2,猿,さる,"monkey, ape"
+JLPT1,ジャンプ,ジャンプ,jump
+JLPT0,ぶら下がる,ぶらさがる,"hang down, dangle"
+JLPT2,狙う,ねらう,"aim, be after"
+JLPT1,地獄,じごく,"hell, inferno"
+JLPT2,章,しょう,chapter
+JLPT2,目次,もくじ,table of contents
+JLPT2,彫る,ほる,"engrave, carve"
+JLPT2,車輪,しゃりん,wheel
+JLPT1,頑丈,がんじょう,"solid, strong"
+JLPT0,生まれつき,うまれつき,"born, by nature"
+JLPT2,服装,ふくそう,"clothes, garments"
+JLPT2,中央,ちゅうおう,center
+JLPT2,双子,ふたご,twins
+JLPT1,恐れ,おそれ,"fear, risk"
+JLPT2,役人,やくにん,government official
+JLPT2,牧場,ぼくじょう,"stock farm, pasture"
+JLPT3,寄る,よる,"stop by, stop off"
+JLPT2,年中,ねんじゅう,all year
+JLPT3,祈る,いのる,"pray, wish for"
+JLPT2,裸,はだか,"naked body, bareness"
+JLPT1,襟,えり,"collar, lapel"
+JLPT2,心臓,しんぞう,heart
+JLPT0,戦場,せんじょう,"battlefield, front"
+JLPT0,戦死,せんし,death in war
+JLPT2,先祖,せんぞ,"forefather, ancestor"
+JLPT2,親戚,しんせき,a relative
+JLPT0,市外,しがい,"city outskirts, suburbs"
+JLPT2,白髪,しらが,"white hair, gray hair"
+JLPT2,仮名遣い,かなづかい,"kana orthography, use of kana"
+JLPT0,がん,がん,cancer
+JLPT2,抱く,だく,"hug, embrace"
+JLPT2,墓,はか,"grave, gravestone"
+JLPT0,大正,たいしょう,Taisho era
+JLPT0,明治,めいじ,Meiji era
+JLPT2,祖先,そせん,"ancestor, forefather"
+JLPT0,粗筋,あらすじ,"outline, plot"
+JLPT2,酢,す,vinegar
+JLPT1,報酬,ほうしゅう,"remuneration, reward"
+JLPT3,郊外,こうがい,"suburbs, outskirts"
+JLPT1,近郊,きんこう,"suburbs, outskirts"
+JLPT0,学園,がくえん,"educational institution, school"
+JLPT0,初期,しょき,"early days, initial"
+JLPT2,邪魔,じゃま,"hindrance, obstruction"
+JLPT2,くしゃみ,くしゃみ,sneeze
+JLPT1,無邪気,むじゃき,"innocence, simplicity"
+JLPT0,つかまる,つかまる,"grip, grab"
+JLPT1,だるい,だるい,"be dull, feel dull, weary"
+JLPT1,大概,たいがい,"generally, probably"
+JLPT2,手洗い,てあらい,"toilet, washstand"
+JLPT2,刻む,きざむ,cut fine
+JLPT2,模様,もよう,"pattern, design"
+JLPT2,フライパン,フライパン,frying pan
+JLPT0,玉ねぎ,たまねぎ,onion
+JLPT2,玉,たま,"bead, ball"
+JLPT2,銅,どう,copper
+JLPT1,象徴,しょうちょう,"symbol, symbolize"
+JLPT2,天皇,てんのう,emperor
+JLPT2,浮かべる,うかべる,set afloat
+JLPT1,班,はん,"squad, group"
+JLPT3,召し上がる,めしあがる,"eat, drink"
+JLPT2,学ぶ,まなぶ,"learn, study"
+JLPT2,哲学,てつがく,philosophy
+JLPT2,改善,かいぜん,"improvement, amelioration"
+JLPT1,親善,しんぜん,"goodwill, friendly relations"
+JLPT1,待遇,たいぐう,"treatment, pay"
+JLPT2,綱,つな,"rope, line"
+JLPT2,方面,ほうめん,direction
+JLPT2,縄,なわ,"rope, cord"
+JLPT2,縛る,しばる,"bind, restrict"
+JLPT2,縫う,ぬう,"sew, stitch"
+JLPT2,焦点,しょうてん,"focus, focal point"
+JLPT2,絞る,しぼる,"wring out, squeeze"
+JLPT2,紺,こん,"dark blue, navy blue"
+JLPT0,朝顔,あさがお,morning glory
+JLPT2,紅葉,こうよう,"autumn leaves, crimson foliage"
+JLPT2,あちらこちら,あちらこちら,"all over, here and there"
+JLPT0,クッキー,クッキー,"cookie, biscuit"
+JLPT2,口紅,くちべに,"lipstick, rouge"
+JLPT2,虹,にじ,rainbow
+JLPT2,梅,うめ,plum blossom
+JLPT0,梅干,うめぼし,pickled plum
+JLPT0,じめじめ,じめじめ,"feel damp, clammy"
+JLPT0,梅雨明け,つゆあけ,end of the rainy season
+JLPT0,梅雨入り,つゆいり,start of the rainy season
+JLPT2,解説,かいせつ,"explanation, commentary"
+JLPT0,読者,どくしゃ,"reader, subscriber"
+JLPT2,欄,らん,"column, field"
+JLPT0,栓抜き,せんぬき,"bottle opener, corkscrew"
+JLPT2,巣,す,"nest, den"
+JLPT0,囲碁,いご,"game of ""go"""
+JLPT1,嘘つき,うそつき,liar
+JLPT2,考慮,こうりょ,"consideration, deliberation"
+JLPT2,癖,くせ,"habit, mannerism"
+JLPT1,下痢,げり,diarrhea
+JLPT2,越す,こす,"go over, surmount"
+JLPT2,峠,とうげ,"mountain pass, ridge"
+JLPT2,崩れる,くずれる,"crumble, collapse"
+JLPT1,崖,がけ,cliff
+JLPT1,ロープ,ロープ,rope
+JLPT2,幸い,さいわい,"happiness, good fortune"
+JLPT2,嵐,あらし,storm
+JLPT2,たとえ,たとえ,"even if, granting that"
+JLPT1,海峡,かいきょう,"straits, channel"
+JLPT2,噂,うわさ,"gossip, rumor"
+JLPT1,広まる,ひろまる,"spread, be in general circulation"
+JLPT2,広める,ひろめる,"spread, extend"
+JLPT2,わがまま,わがまま,"selfishness, willfulness"
+JLPT3,田舎,いなか,"country, countryside"
+JLPT2,校舎,こうしゃ,school building
+JLPT0,歌声,うたごえ,singing voice
+JLPT1,のどか,のどか,"tranquil, peaceful"
+JLPT0,小雨,こさめ,drizzle
+JLPT2,差す,さす,open (an umbrella)
+JLPT1,柄,え,"handle, grip"
+JLPT3,お嬢さん,おじょうさん,"young lady, someone's daughter"
+JLPT0,婆さん,ばあさん,"grandmother, old lady"
+JLPT2,娯楽,ごらく,"amusement, pastime"
+JLPT0,裏門,うらもん,back gate
+JLPT1,生涯,しょうがい,"for life, lifetime"
+JLPT2,地,ち,"ground, place"
+JLPT0,白菜,はくさい,nappa cabbage
+JLPT0,漬け物,つけもの,"pickle, pickled vegetable"
+JLPT2,潰す,つぶす,"crush, smash"
+JLPT2,潰れる,つぶれる,crush
+JLPT3,汽車,きしゃ,train
+JLPT2,拡張,かくちょう,"expansion, extension"
+JLPT2,印刷,いんさつ,printing
+JLPT1,年賀,ねんが,New Year's card
+JLPT1,賭ける,かける,"bet, stake"
+JLPT1,連日,れんじつ,"day after day, everyday"
+JLPT1,賑わう,にぎわう,"bustle, enliven"
+JLPT0,ひねる,ひねる,"twist, turn"
+JLPT0,蛇,へび,"snake, serpent"
+JLPT2,蛍光灯,けいこうとう,fluorescent lamp
+JLPT2,合図,あいず,"signal, sign"
+JLPT2,車掌,しゃしょう,train conductor
+JLPT0,芋,いも,"potato, yam"
+JLPT0,菊,きく,chrysanthemum
+JLPT1,華やか,はなやか,"gorgeous, colorful"
+JLPT1,軽蔑,けいべつ,"contempt, disdain"
+JLPT1,さっと,さっと,"quickly, suddenly"
+JLPT2,議長,ぎちょう,"chairman, president"
+JLPT0,学長,がくちょう,college president
+JLPT0,にこやか,にこやか,"smiling, beaming"
+JLPT2,閉会,へいかい,"closing, adjournment"
+JLPT0,年始,ねんし,beginning of the year
+JLPT2,中指,なかゆび,middle finger
+JLPT2,挟む,はさむ,trap
+JLPT0,揚げる,あげる,deep-fry
+JLPT2,塔,とう,"tower, pagoda"
+JLPT2,諦める,あきらめる,"abandon, give up"
+JLPT2,誓う,ちかう,"vow, swear"
+JLPT2,演奏,えんそう,musical performance
+JLPT2,定期,ていき,"fixed term, regular"
+JLPT2,包帯,ほうたい,"bandage, dressing"
+JLPT2,撃つ,うつ,"fire, shoot"
+JLPT0,支社,ししゃ,branch office
+JLPT1,転勤,てんきん,transfer
+JLPT0,府,ふ,urban prefecture
+JLPT1,窮屈,きゅうくつ,"tight, cramped"
+JLPT0,くっ付く,くっつく,"stick, cling"
+JLPT2,ずらり,ずらり,line up neatly
+JLPT1,かかと,かかと,heel
+JLPT3,砂,すな,"sand, grit"
+JLPT1,メーカー,メーカー,"maker, manufacturer"
+JLPT2,予備,よび,"reserve, spare"
+JLPT0,履物,はきもの,footwear
+JLPT0,フルーツ,フルーツ,fruit
+JLPT2,泥,どろ,"mud, dirt"
+JLPT2,ほどく,ほどく,"undo, unfasten"
+JLPT1,貨幣,かへい,"money, currency"
+JLPT1,真珠,しんじゅ,pearl
+JLPT2,慰める,なぐさめる,"console, comfort"
+JLPT0,風呂場,ふろば,bathroom
+JLPT2,へそ,へそ,"the navel, the bellybutton"
+JLPT0,足音,あしおと,sound of footsteps
+JLPT2,故郷,こきょう,"hometown, birthplace"
+JLPT0,べたべた,べたべた,stick together
+JLPT1,晩年,ばんねん,late in life
+JLPT2,朗らか,ほがらか,"cheerful, bright"
+JLPT2,枯れる,かれる,"wither, die"
+JLPT4,花瓶,かびん,flower vase
+JLPT2,空,から,"emptiness, hollow"
+JLPT0,向き,むき,"direction, turn"
+JLPT2,揃える,そろえる,"align, make uniform"
+JLPT2,一旦,いったん,"once, for a while"
+JLPT0,乞食,こじき,beggar
+JLPT2,空中,くうちゅう,"in the air, in the sky"
+JLPT1,網,あみ,"net, netting"
+JLPT3,捕まえる,つかまえる,"arrest, capture"
+JLPT0,蝶蝶,ちょうちょう,butterfly
+JLPT2,寿命,じゅみょう,life span
+JLPT0,亀,かめ,"turtle, tortoise"
+JLPT2,羨ましい,うらやましい,"envious, envy"
+JLPT0,ぱんだ,ぱんだ,panda
+JLPT0,漕ぐ,こぐ,row
+JLPT0,ウナギ,ウナギ,eel
+JLPT0,鳩,はと,"pigeon, dove"
+JLPT1,襲う,おそう,"raid, attack"
+JLPT1,雛祭り,ひなまつり,Doll Festival
+JLPT2,稽古,けいこ,"practice, learning"
+JLPT2,商売,しょうばい,"trade, business"
+JLPT0,歌舞伎,かぶき,kabuki
+JLPT2,物凄い,ものすごい,tremendous
+JLPT2,囁く,ささやく,whisper
+JLPT2,咳,せき,cough
+JLPT1,治まる,おさまる,"settle down, be cured"
+JLPT2,喉,のど,the throat
+JLPT1,唾,つば,"saliva, spittle"
+JLPT2,吠える,ほえる,"bark, bay"
+JLPT0,吊るす,つるす,hang
+JLPT0,噛み付く,かみつく,bite at
+JLPT0,きゅうり,きゅうり,cucumber
+JLPT3,漬ける,つける,"pickle, marinade"
+JLPT2,味噌,みそ,"miso, soybean paste"
+JLPT2,思わず,おもわず,"unintentionally, unconsciously"
+JLPT0,思いやり,おもいやり,"thoughtfulness, kindness"
+JLPT2,お目に掛かる,おめにかかる,"meet, have the honor of seeing"
+JLPT2,もしも,もしも,"if, if ever"
+JLPT2,大して,たいして,"very, greatly"
+JLPT2,どんなに,どんなに,how much
+JLPT2,塞がる,ふさがる,close up
+JLPT2,塞ぐ,ふさぐ,"close, shut"
+JLPT2,屑,くず,"waste, scraps"
+JLPT2,紙屑,かみくず,wastepaper
+JLPT2,掻く,かく,scratch
+JLPT1,掻き回す,かきまわす,"stir up, agitate"
+JLPT1,祈り,いのり,prayer
+JLPT2,撫でる,なでる,"stroke, pat"
+JLPT2,卑怯,ひきょう,"cowardice, meanness"
+JLPT1,憧れ,あこがれ,"yearning, longing"
+JLPT2,憧れる,あこがれる,"yearn after, adore"
+JLPT2,めでたい,めでたい,"happy, fortunate"
+JLPT2,溺れる,おぼれる,"drown, be drowned"
+JLPT2,御無沙汰,ごぶさた,be out of touch
+JLPT2,汲む,くむ,"collect, scoop up"
+JLPT2,バケツ,バケツ,bucket
+JLPT0,溜め息,ためいき,sigh
+JLPT2,溜まる,たまる,"accumulate, store up"
+JLPT2,溜める,ためる,"store, collect"
+JLPT2,伝染,でんせん,"contagion, infection"
+JLPT0,苛め,いじめ,bullying
+JLPT0,苛める,いじめる,"ill-treat, abuse"
+JLPT1,遥か,はるか,"far, distant"
+JLPT0,のぞく,のぞく,"look, peep"
+JLPT0,曖昧,あいまい,"ambiguous, vague"
+JLPT0,大晦日,おおみそか,new year's eve
+JLPT1,股,また,"crotch, groin"
+JLPT1,臆病,おくびょう,"cowardice, timidity"
+JLPT0,車椅子,くるまいす,wheelchair
+JLPT0,がたがた,がたがた,rattle
+JLPT0,よける,よける,move out the way
+JLPT0,渋い,しぶい,"bitter, astringent"
+JLPT0,柿,かき,"persimmon, persimmon tree"
+JLPT2,焚く,たく,start a fire
+JLPT1,明瞭,めいりょう,"clear, plain"
+JLPT1,眉,まゆ,eyebrow
+JLPT0,眉毛,まゆげ,eyebrows
+JLPT2,湯飲み,ゆのみ,teacup
+JLPT0,割り箸,わりばし,disposable chopsticks
+JLPT1,蛋白質,たんぱくしつ,protein
+JLPT0,蜂,はち,bee
+JLPT0,頂戴,ちょうだい,"getting, receiving"
+JLPT2,元日,がんじつ,New Year's Day
+JLPT0,初詣で,はつもうで,first shrine visit of the new year
+JLPT0,お詫び,おわび,apologize
+JLPT2,詫びる,わびる,apologize
+JLPT2,刺さる,ささる,"stick, be stuck"
+JLPT1,裂ける,さける,"split, tear"
+JLPT2,釘,くぎ,"nail, spike"
+JLPT2,錆びる,さびる,"rust, get rusty"
+JLPT2,重たい,おもたい,heavy
+JLPT2,餅,もち,rice cake
+JLPT2,思い込む,おもいこむ,"assume, believe"
+JLPT0,悪女,あくじょ,"wicked woman, villainess"
+JLPT0,騙す,だます,"deceive, cheat"
+JLPT0,親子,おやこ,parent and child
+JLPT0,爽やか,さわやか,"refreshing, clear"
+JLPT0,雀,すずめ,sparrow
+JLPT0,お年玉,おとしだま,New Year's gift
+JLPT0,甥,おい,nephew
+JLPT2,便箋,びんせん,"letter paper, stationery"
+JLPT2,嗅ぐ,かぐ,"smell, sniff"
+JLPT1,炒める,いためる,stir-fry
