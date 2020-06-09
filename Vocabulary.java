@@ -37,10 +37,6 @@ public class Vocabulary {
 			System.exit(0);
 		}
 	}
-	
-	public ArrayList<Word> getVocab() {
-		return Words;
-	}
 	public Word getWordAt(int index) {
 		return Words.remove(index);
 	}

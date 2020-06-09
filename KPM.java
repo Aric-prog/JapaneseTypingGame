@@ -14,6 +14,10 @@ public class KPM {
 		return timeElapsed;
 	}
 
+	public void setStartTime(long startTime) {
+		this.startTime = startTime;
+	}
+	
 	public void setTimeElapsed(double timeElapsed) {
 		// Converts time from millisecond to second
 		this.timeElapsed = ((double) (timeElapsed - startTime)) / 1000;
@@ -31,9 +35,5 @@ public class KPM {
 		return ((((double)keyTyped)) / timeElapsed) * 60;
 	}
 	
-	public void setStartTime(long startTime) {
-		this.startTime = startTime;
-	}
-	
-	
+		
 }

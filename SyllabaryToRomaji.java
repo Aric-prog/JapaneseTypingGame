@@ -1,11 +1,10 @@
 import java.util.HashMap;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class SyllabaryToRomaji {
 	HashMap<Character,String> syllabary = new HashMap<Character,String>();
 	
-	// Manual input of the hiragana dictionary
+	// Manual input of the hiragana set into the dictionary
 	SyllabaryToRomaji(){
 		syllabary.put('あ',"a");
 		syllabary.put('ぁ',"a");
@@ -106,7 +105,7 @@ public class SyllabaryToRomaji {
 		String newString = "";
 		ArrayList<Character> specialSyll = new ArrayList<Character>();
 		
-		// Adds several special symbols 
+		// Adds several special symbols to the list, these symbols can be pronounced differently based on the letters before it.
 		specialSyll.add('っ');
 		specialSyll.add('ょ');
 		specialSyll.add('ゅ');
@@ -114,6 +113,7 @@ public class SyllabaryToRomaji {
 		specialSyll.add('ぃ');
 		specialSyll.add('ー');
 		
+		// Loops through the hiragana
 		for(int i = 0; i < hiragana.length(); i++) {
 			if(specialSyll.contains(hiragana.charAt(i))) {
 				if(hiragana.charAt(i) == 'っ') {

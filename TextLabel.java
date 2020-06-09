@@ -1,7 +1,7 @@
 import java.awt.Color;
 import javax.swing.JLabel;
+
 public class TextLabel extends JLabel {
-	
 	TextLabel(){
 		super();
 		setFont(null);
@@ -20,5 +20,4 @@ public class TextLabel extends JLabel {
 		setForeground(c);
 		setAlignmentX(CENTER_ALIGNMENT);
 	}
-	
 }

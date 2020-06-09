@@ -1,6 +1,6 @@
 import java.awt.*;
-
 import javax.swing.*;
+
 public class GUI extends JFrame{
 	
 	// Object to convert Japanese text to alphabet
@@ -9,12 +9,12 @@ public class GUI extends JFrame{
 	// Text to store the current word in romaji
 	private String romajiText = "type this to start";
 	
-	// Initializes all of the text field and it's colors
-	private TextLabel Furigana = new TextLabel(Color.white,"");
-	private TextLabel Kanji = new TextLabel(Color.white,"");
-	private TextLabel Meaning = new TextLabel(Color.white,"Press 'esc' to exit");
+	// Initializes all of the text field
+	private TextLabel KPM = new TextLabel(Color.white,"Japanese Typing Game");
+	private TextLabel furigana = new TextLabel(Color.white,"");
+	private TextLabel kanji = new TextLabel(Color.white,"");
+	private TextLabel meaning = new TextLabel(Color.white,"Press 'esc' to exit");
 	private TextLabel romajiDisplay = new TextLabel(new Color(100,100,100),romajiText);
-	private TextLabel WPM = new TextLabel(Color.white,"KPM : 0");
 	
  	GUI(String title) {
 		setTitle(title);
@@ -27,20 +27,21 @@ public class GUI extends JFrame{
 		setSize(1024,768);
 		
 		container.setBackground(new Color(32,32,32));
-		container.setFont(new Font("serif", Font.PLAIN, 64));
-		WPM.setFont(new Font("serif", Font.PLAIN, 36));
-		Meaning.setFont(new Font("serif", Font.PLAIN, 36));
-		Furigana.setFont(new Font("serif", Font.PLAIN, 36));
+		container.setFont(new Font("serif", Font.PLAIN, 36));
+		kanji.setFont(new Font("serif", Font.PLAIN, 64));
+		romajiDisplay.setFont(new Font("serif", Font.PLAIN, 64));
 		
-		container.add(Box.createRigidArea(new Dimension(0,(int) (getHeight() * 0.2))));
-		
-		container.add(WPM);
-		container.add(new SeparatorLine());
-		container.add(Furigana);
-		container.add(Kanji);
-		container.add(Meaning);
-		container.add(new SeparatorLine());
+		// Creates an invisible box to create padding
+		// Box height is determined by its total height
+		container.add(Box.createRigidArea(new Dimension(0,(int) (getHeight() * 0.2))));	
 
+		container.add(KPM);
+		container.add(new SeparatorLine());
+		container.add(furigana);
+		container.add(kanji);
+		container.add(meaning);
+		container.add(new SeparatorLine());
+		
 		container.add(Box.createRigidArea(new Dimension(0,(int) (getHeight() * 0.05))));
 
 		container.add(romajiDisplay);
@@ -72,28 +73,28 @@ public class GUI extends JFrame{
 	}
 	
 	public String getKanji() {
-		return Kanji.getText();
+		return kanji.getText();
 	}
 	public void setKanji(String s) {
-		Kanji.setText(s);
+		kanji.setText(s);
 	}
 	
 	public String getFuri() {
-		return Furigana.getText();
+		return furigana.getText();
 	}
 	public void setFuri(String s) {
-		Furigana.setText(s);
+		furigana.setText(s);
 	}
 	
 	public String getMeaning(){
-		return Meaning.getText();
+		return meaning.getText();
 	}
 	public void setMeaning(String s) {
-		Meaning.setText(s);
+		meaning.setText(s);
 	}
 	
-	public void setWPM(String s) {
-		WPM.setText("KPM : " + s);
+	public void setKPM(String s) {
+		KPM.setText("KPM : " + s);
 	}
 	
 	public void setWord(Word newWord) {

@@ -25,7 +25,7 @@ public class Driver{
 					ui.setRomaji(ui.getRomaji().substring(1));
 					ui.updateRomajiDisplay();
 					if(started)	 {
-						KPM.setWordTyped(1);							
+						KPM.setKeyTyped(1);							
 					}
 				}
 
@@ -43,11 +43,12 @@ public class Driver{
 					if(!started) {
 						// Starts the time when the user has fully typed the "type this to start"
 						KPM.setStartTime(System.currentTimeMillis());
+						ui.setKPM("0");
 						started = true;
 					} else {
 						// Time is added to the total time, which will be calculated to get key per minute
 						KPM.setTimeElapsed(System.currentTimeMillis());
-						ui.setWPM(String.format("%.1f",KPM.getKPM()));
+						ui.setKPM(String.format("%.1f",KPM.getKPM()));
 					}
 				}
 			}
