@@ -24,6 +24,7 @@ public class Driver{
 				if(Character.toLowerCase((char) key.getKeyCode()) == (int) ui.getRomaji().charAt(0)) {
 					ui.setRomaji(ui.getRomaji().substring(1));
 					ui.updateRomajiDisplay();
+					audio.playAudio("src/Type.wav");
 					if(started)	 {
 						KPM.setKeyTyped(1);							
 					}
